@@ -1,0 +1,889 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="EdmModel_Validator_Semantic_InaccessibleType" xml:space="preserve">
+    <value>Le type nommé '{0}' est introuvable à partir du modèle en cours de validation.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_InaccessibleTerm" xml:space="preserve">
+    <value>Le terme '{0}' est introuvable à partir du modèle en cours de validation.</value>
+  </data>
+  <data name="Edm_Evaluator_NoTermTypeAnnotationOnType" xml:space="preserve">
+    <value>Le type '{0}' doit avoir une annotation de type unique avec le terme type '{1}'.</value>
+  </data>
+  <data name="Bad_UnresolvedComplexType" xml:space="preserve">
+    <value>Le type complexe '{0}' est introuvable.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_OpenTypesSupportedOnlyInV12AndAfterV3" xml:space="preserve">
+    <value>Les types ouverts sont pris en charge uniquement dans la version 1.2 et après la version 2.0.</value>
+  </data>
+  <data name="EdmToClr_UnsupportedTypeCode" xml:space="preserve">
+    <value>La conversion de valeurs EDM en type CLR avec le code de type {0} n'est pas prise en charge.</value>
+  </data>
+  <data name="Serializer_SingleFileExpected" xml:space="preserve">
+    <value>Un fichier unique a été fourni, mais le modèle ne peut pas être sérialisé dans un seul fichier.</value>
+  </data>
+  <data name="EdmToClr_IEnumerableOfTPropertyAlreadyHasValue" xml:space="preserve">
+    <value>Impossible d'initialiser une propriété '{0}' sur un objet de type '{1}'. La propriété comporte déjà une valeur.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_TypeAnnotationHasExtraProperties" xml:space="preserve">
+    <value>Le type de l'annotation de type n'est pas Open et ne comporte pas une propriété nommée '{0}'.</value>
+  </data>
+  <data name="XmlParser_UnexpectedRootElement" xml:space="preserve">
+    <value>L'élément '{0}' n'était pas attendu pour l'élément racine. L'élément racine doit être {1}.</value>
+  </data>
+  <data name="Bad_CyclicComplex" xml:space="preserve">
+    <value>Le type complexe '{0}' n'est pas valide car son type de base est cyclique.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_KeyPropertyMustBelongToEntity" xml:space="preserve">
+    <value>La propriété de clé '{0}' doit appartenir à l'entité '{1}'.</value>
+  </data>
+  <data name="EdmModel_Validator_Syntactic_EnumerableMustNotHaveNullElements" xml:space="preserve">
+    <value>La valeur de la propriété d'énumération '{0}.{1}' contient un élément Null. Les propriétés de l'énumération ne doivent pas contenir des éléments Null.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_RecordExpressionMissingProperty" xml:space="preserve">
+    <value>L'expression d'enregistrement n'a pas de constructeur pour une propriété nommée '{0}'.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_DuplicateAnnotation" xml:space="preserve">
+    <value>L'élément annoté '{0}' comporte plusieurs annotations avec le terme '{1}' et le qualificateur '{2}'.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_InvalidOperationMultipleEndsInAssociation" xml:space="preserve">
+    <value>Une action de suppression ne peut être spécifiée qu'à une terminaison d'association.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_FunctionImportEntitySetExpressionKindIsInvalid" xml:space="preserve">
+    <value>L'importation de fonction '{0}' spécifie une expression de jeu d'entités de genre {1} qui n'est pas prise en charge dans ce contexte. Une expression de jeu d'entités d'une importation de fonction peut être soit une référence de jeu d'entités, soit un chemin d'accès commençant par un paramètre d'importation de fonction et parcourant des propriétés de navigation.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_FunctionImportWithUnsupportedReturnTypeAfterV1" xml:space="preserve">
+    <value>Le type de retour n'est pas valide dans l'importation de fonction '{0}'. L'importation de fonction ne peut avoir aucun type de retour ou renvoyer une valeur scalaire, un type complexe, un type d'entité ou une collection de ces derniers.</value>
+  </data>
+  <data name="CsdlParser_NoReadersProvided" xml:space="preserve">
+    <value>Impossible de produire un modèle car aucun lecteur XML n'a été fourni.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_InvalidPropertyInRelationshipConstraintPrimaryEnd" xml:space="preserve">
+    <value>Les propriétés de terminaison principales de la contrainte référentielle de l'association '{0}' ne correspondent pas à la clé du type référencé par le rôle '{1}'.</value>
+  </data>
+  <data name="CsdlParser_InvalidAlias" xml:space="preserve">
+    <value>L'alias '{0}' n'est pas un simple nom valide.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_EntityKeyMustNotBeBinaryBeforeV2" xml:space="preserve">
+    <value>La propriété '{0}' dans le type d'entité '{1}' n'est pas valide. Les types binaires ne sont pas autorisés dans les clés d'entité antérieures à la version 2.0.</value>
+  </data>
+  <data name="Serializer_UnknownEdmVersion" xml:space="preserve">
+    <value>Version Edm inconnue.</value>
+  </data>
+  <data name="EdmxParser_EdmxDataServiceVersionInvalid" xml:space="preserve">
+    <value>La valeur spécifiée de la version du service de données n'est pas valide.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_NullCannotBeAssertedToBeANonNullableType" xml:space="preserve">
+    <value>La valeur Null ne peut pas avoir un type non null.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_InvalidNavigationPropertyType" xml:space="preserve">
+    <value>Le type de la propriété de navigation '{0}' n'est pas valide. Seul un type d'entité ou une collection de types d'entité est valide pour un type cible de navigation. Le type d'entité cible de navigation doit correspondre avec le type déclarant de la propriété partenaire.</value>
+  </data>
+  <data name="CsdlParser_InvalidEnumMemberPath" xml:space="preserve">
+    <value>'{0}' n'est pas un chemin d'accès du membre enum valide.</value>
+  </data>
+  <data name="ValueParser_InvalidDecimal" xml:space="preserve">
+    <value>La valeur '{0}' n'est pas une valeur décimale valide.</value>
+  </data>
+  <data name="EdmModel_Validator_Syntactic_InterfaceKindValueMismatch" xml:space="preserve">
+    <value>Un objet avec la valeur '{0}' de la propriété '{1}.{2}' doit implémenter l'interface '{3}'.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_NavigationPropertyEntityMustNotIndirectlyContainItself" xml:space="preserve">
+    <value>La propriété de navigation '{0}' n'est pas valide, car elle se contient elle-même indirectement.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_ValueTermsNotSupportedBeforeV3" xml:space="preserve">
+    <value>Les termes de valeur ne sont pas pris en charge par les versions antérieures à la version 3.0.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_StringMaxLengthOutOfRange" xml:space="preserve">
+    <value>La facette de longueur maximale spécifie la longueur maximale d'une instance du type de chaîne. Si unicode a la valeur 'true', la longueur maximale peut être comprise entre 1 et 2^30 ; si unicode a la valeur 'false', elle varie de 1 à 2^31.</value>
+  </data>
+  <data name="CsdlParser_InvalidAssertTypeExpressionIncorrectNumberOfOperands" xml:space="preserve">
+    <value>L'expression AssertType doit contenir 1 opérande.</value>
+  </data>
+  <data name="Bad_UnresolvedType" xml:space="preserve">
+    <value>Le type '{0}' est introuvable.</value>
+  </data>
+  <data name="UnknownEnumVal_SchemaElementKind" xml:space="preserve">
+    <value>Genre d'élément de schéma non valide : '{0}'</value>
+  </data>
+  <data name="EdmToClr_CannotConvertEdmCollectionValueToClrType" xml:space="preserve">
+    <value>La conversion d'une valeur de collection edm en type CLR '{0}' n'est pas prise en charge. Les valeurs de collection EDM peuvent être converties en System.Collections.Generic.IEnumerable&lt;T&gt;, System.Collections.Generic.IList&lt;T&gt; ou System.Collections.Generic.ICollection&lt;T&gt;.</value>
+  </data>
+  <data name="XmlParser_UnexpectedNodeType" xml:space="preserve">
+    <value>Type de noeud XML inattendu : {0}.</value>
+  </data>
+  <data name="UnknownEnumVal_TypeKind" xml:space="preserve">
+    <value>Genre de type non valide : '{0}'</value>
+  </data>
+  <data name="EdmModel_Validator_Syntactic_EdmModel_NameIsTooLong" xml:space="preserve">
+    <value>Le nom spécifié ne doit pas dépasser 480 caractères : '{0}'.</value>
+  </data>
+  <data name="CsdlParser_InvalidIsTypeExpressionIncorrectNumberOfOperands" xml:space="preserve">
+    <value>L'expression IsType doit contenir 1 opérande.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_EndNameAlreadyDefinedDuplicate" xml:space="preserve">
+    <value>Chaque nom et pluriel doivent être uniques dans une relation. '{0}' est déjà défini.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_EnumMemberTypeMustMatchEnumUnderlyingType" xml:space="preserve">
+    <value>Le type de la valeur du membre enum '{0}' doit correspondre au type sous-jacent de l'enum parent.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_InvalidPropertyTypeConcurrencyMode" xml:space="preserve">
+    <value>Une propriété avec un mode d'accès concurrentiel fixe ne peut pas être du type '{0}'. Le type de propriété doit être un type primitif.</value>
+  </data>
+  <data name="PathSegmentMustNotContainSlash" xml:space="preserve">
+    <value>Les segments de chemin d'accès ne doivent pas contenir de caractère '/'.</value>
+  </data>
+  <data name="Bad_UnresolvedEntityContainer" xml:space="preserve">
+    <value>Le conteneur d'entités '{0}' est introuvable.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_SchemaElementNameAlreadyDefined" xml:space="preserve">
+    <value>Un élément avec le nom '{0}' est déjà défini.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_MaxLengthOutOfRange" xml:space="preserve">
+    <value>La longueur maximale peut être comprise entre 1 et 2 ^ 31.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_KeyMissingOnEntityType" xml:space="preserve">
+    <value>Aucune clé n'est définie pour le type d'entité '{0}'. Définissez la clé de ce type d'entité.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_StringConstantLengthOutOfRange" xml:space="preserve">
+    <value>La valeur de la constante de chaîne comporte '{0}' caractères alors que la longueur maximale pour ce type est '{1}'.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_ComposableFunctionImportMustHaveReturnType" xml:space="preserve">
+    <value>L'importation de la fonction composable '{0}' doit spécifier un type de retour.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_OpenTypesSupportedForEntityTypesOnly" xml:space="preserve">
+    <value>Seuls les types d'entité peuvent être des types ouverts.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_InvalidFunctionImportParameterMode" xml:space="preserve">
+    <value>Le mode du paramètre '{0}' dans l'importation de fonction '{1}' n'est pas valide.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_NavigationPropertyWithRecursiveContainmentTargetMustBeOptional" xml:space="preserve">
+    <value>La multiplicité cible de la propriété de navigation '{0}' n'est pas valide. Si 'ContainsTarget' d'une propriété de navigation a la valeur True et que le type d'entité déclarant de la propriété est le même que le type d'entité cible, ou hérite de ce dernier, la propriété représente une relation contenant-contenu récursive et elle doit avoir une cible facultative représentée par une collection ou un type d'entité acceptant la valeur Null.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_RowTypeMustNotHaveBaseType" xml:space="preserve">
+    <value>Les types de ligne ne peuvent pas avoir un type de base.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_EntitySetRecursiveNavigationPropertyMappingsMustPointBackToSourceEntitySet" xml:space="preserve">
+    <value>La propriété de navigation '{0}' étant récursive, le mappage du jeu d'entités '{1}' doit pointer vers lui-même.</value>
+  </data>
+  <data name="Bad_UnresolvedPrimitiveType" xml:space="preserve">
+    <value>Le type primitif '{0}' est introuvable.</value>
+  </data>
+  <data name="Annotations_TypeMismatch" xml:space="preserve">
+    <value>L'annotation de type '{0}' ne peut pas être interprétée comme '{1}'.</value>
+  </data>
+  <data name="EdmModel_Validator_Syntactic_PropertyMustNotBeNull" xml:space="preserve">
+    <value>La valeur de la propriété ' {0}.{1}' ne doit pas être null.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_InvalidMultiplicityOfDependentEndMustBeZeroOneOrOne" xml:space="preserve">
+    <value>La multiplicité de la terminaison dépendante '{0}' n'est pas valide. Étant donné que les propriétés dépendantes représentent la clé de terminaison dépendante, la multiplicité de la terminaison dépendante doit être '0..1' ou '1'.</value>
+  </data>
+  <data name="Bad_UnresolvedEnumMember" xml:space="preserve">
+    <value>Le membre enum '{0}' est introuvable.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_InvalidMemberNameMatchesTypeName" xml:space="preserve">
+    <value>Le nom de membre '{0}' ne peut pas être utilisé dans un type portant le même nom. Les noms de membre ne peuvent pas être les mêmes que leur type englobant.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_EnumsNotSupportedBeforeV3" xml:space="preserve">
+    <value>Les enums ne sont pas pris en charge avant la version 3.0.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_InvalidComplexTypeAbstract" xml:space="preserve">
+    <value>Le type complexe '{0}' est marqué comme abstrait. Les types complexes abstraits sont uniquement pris en charge dans les modèles EDM de version 1.1.</value>
+  </data>
+  <data name="EdmModel_Validator_Syntactic_EdmModel_NamespaceNameIsNotAllowed" xml:space="preserve">
+    <value>Le nom de l'espace de noms spécifié n'est pas autorisé : '{0}'.</value>
+  </data>
+  <data name="CsdlSemantics_ReferentialConstraintMismatch" xml:space="preserve">
+    <value>Non-concordance entre les terminaisons principale et dépendantes de la contrainte référentielle.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_BaseTypeMustHaveSameTypeKind" xml:space="preserve">
+    <value>Le genre de type de base d'un type structuré doit être le même que son type dérivé.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_BinaryConstantLengthOutOfRange" xml:space="preserve">
+    <value>La valeur de la constante binaire comporte '{0}' caractères, mais la longueur maximale de ce type est '{1}'.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_IntegerConstantValueOutOfRange" xml:space="preserve">
+    <value>La valeur de la constante entière est en dehors de la portée du type affirmé.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_PropertyNameAlreadyDefined" xml:space="preserve">
+    <value>Chaque nom de propriété dans un type doit être unique. Le nom de propriété '{0}' est déjà défini.</value>
+  </data>
+  <data name="Bad_UnresolvedLabeledElement" xml:space="preserve">
+    <value>L'élément étiqueté '{0}' est introuvable.</value>
+  </data>
+  <data name="ValueParser_InvalidDateTimeOffset" xml:space="preserve">
+    <value>La valeur '{0} n'est pas une valeur de date et d'heure valide.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_TypeMustNotHaveKindOfNone" xml:space="preserve">
+    <value>Un type ne comportant pas d'autres erreurs ne doit pas avoir de type None.</value>
+  </data>
+  <data name="EdmModel_Validator_Syntactic_InterfaceKindValueUnexpected" xml:space="preserve">
+    <value>La valeur '{0}' de la propriété '{1}.{2}' n'est pas valide d'un point de vue sémantique. Un modèle valide d'un point de vue sémantique ne doit pas contenir des éléments du genre '{0}'.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_FunctionImportReturnEntitiesButDoesNotSpecifyEntitySet" xml:space="preserve">
+    <value>L'importation de fonction '{0}' retourne des entités, mais ne spécifie pas de jeu d'entités.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_BadNavigationPropertyRolesCannotBeTheSame" xml:space="preserve">
+    <value>La propriété de navigation '{0}' n'est pas valide. Le rôle source et le rôle cible sont les mêmes.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_FunctionImportSideEffectingNotSupportedBeforeV3" xml:space="preserve">
+    <value>Le paramètre 'SideEffecting' des importations de fonction n'est pas pris en charge avant la version 3.0.</value>
+  </data>
+  <data name="ValueParser_InvalidBinary" xml:space="preserve">
+    <value>La valeur '{0}' n'est pas une valeur binaire valide. La valeur doit être une chaîne hexadécimale et ne peut pas être précédée de '0x'.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_NavigationPropertyWithNonRecursiveContainmentSourceMustBeFromOne" xml:space="preserve">
+    <value>La multiplicité source de la propriété de navigation '{0}' n'est pas valide. Si 'ContainsTarget' d'une propriété de navigation a la valeur True et que le type d'entité déclarant de la propriété n'est pas le même que le type d'entité cible, la propriété représente une relation contenant-contenu non récursive et la multiplicité de la source de navigation doit être d'une exactement.</value>
+  </data>
+  <data name="Edm_Evaluator_FailedTypeAssertion" xml:space="preserve">
+    <value>La valeur ne peut pas correspondre au type '{0}'.</value>
+  </data>
+  <data name="Bad_CyclicEntityContainer" xml:space="preserve">
+    <value>Le conteneur d'entités '{0}' n'est pas valide car sa hiérarchie d'étendues est cyclique.</value>
+  </data>
+  <data name="Bad_AmbiguousFunction" xml:space="preserve">
+    <value>La fonction '{0}' n'a pas pu être résolue car plusieurs fonctions pouvaient être utilisées pour cette application.</value>
+  </data>
+  <data name="EdmModel_Validator_Syntactic_TypeRefInterfaceTypeKindValueMismatch" xml:space="preserve">
+    <value>Un objet qui implémente l'interface '{0}' a une définition de type de genre '{1}'. L'interface de référence de type doit correspondre au genre de la définition.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_ExpressionPrimitiveKindCannotPromoteToAssertedType" xml:space="preserve">
+    <value>Impossible de promouvoir le type primitif '{0}' pour le type primitif spécifié '{1}'.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_TypeAnnotationMissingRequiredProperty" xml:space="preserve">
+    <value>Une liaison pour la propriété '{0}' est manquante pour l'annotation de type.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_SameRoleReferredInReferentialConstraint" xml:space="preserve">
+    <value>Dans la relation '{0}', le rôle principal et dépendant de la contrainte référentielle fait référence au même rôle dans le type de relation.</value>
+  </data>
+  <data name="CsdlSemantics_ImpossibleAnnotationsTarget" xml:space="preserve">
+    <value>Impossible de résoudre la cible de l'annotation '{0}' car elle ne fait pas référence à un élément pouvant être annoté.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_ExpressionNotValidForTheAssertedType" xml:space="preserve">
+    <value>Le type de l'expression est incompatible avec le type affirmé.</value>
+  </data>
+  <data name="UnknownEnumVal_ContainerElementKind" xml:space="preserve">
+    <value>Genre d'élément de conteneur non valide : '{0}'</value>
+  </data>
+  <data name="XmlParser_EmptySchemaTextReader" xml:space="preserve">
+    <value>Le XmlReader source ne contient pas de définition de schéma ou a démarré à la fin du fichier.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_FunctionsNotSupportedBeforeV2" xml:space="preserve">
+    <value>Les fonctions ne sont pas prises en charge avant la version 2.0.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_PrecisionOutOfRange" xml:space="preserve">
+    <value>La précision ne peut pas être négative.</value>
+  </data>
+  <data name="UnknownEnumVal_PropertyKind" xml:space="preserve">
+    <value>Genre de propriété non valide : '{0}'</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_FunctionImportEntityTypeDoesNotMatchEntitySet2" xml:space="preserve">
+    <value>L'importation de fonction '{0}' retourne des entités de type '{1}' qui ne peuvent pas être retournées par le chemin d'accès du jeu d'entités spécifié pour l'importation de fonction.</value>
+  </data>
+  <data name="CsdlParser_InvalidParameterMode" xml:space="preserve">
+    <value>Le mode de paramètre '{0}' n'est pas valide. Le mode de paramètre doit être : 'In', 'Out' ou 'InOut'.</value>
+  </data>
+  <data name="Bad_FunctionParametersDontMatch" xml:space="preserve">
+    <value>La fonction '{0}' n'a pas pu être résolue car aucune des fonctions avec ce nom n'utilise le jeu de paramètres correct.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_PropertyMustNotHaveKindOfNone" xml:space="preserve">
+    <value>Une propriété ne comportant pas d'autres erreurs ne doit pas avoir le genre None. Le genre de la propriété '{0}' est None.</value>
+  </data>
+  <data name="Edm_Evaluator_UnboundPath" xml:space="preserve">
+    <value>Le segment de chemin d'accès '{0}' n'a pas de liaison dans l'environnement d'exécution.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_EntitySetNavigationMappingMustBeBidirectional" xml:space="preserve">
+    <value>Le mappage du jeu d'entités '{0}' et de la propriété de navigation '{1}' n'est pas valide car le mappage de la propriété doit avoir un mappage avec le partenaire de la propriété de navigation qui pointe vers le jeu d'entités d'origine. </value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_InvalidPropertyType" xml:space="preserve">
+    <value>Une propriété ne peut pas être du type '{0}'. Le type de propriété doit être un type complexe, primitif ou enum, ou bien une collection de types complexes, primitifs ou enum.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_SchemaElementMustNotHaveKindOfNone" xml:space="preserve">
+    <value>Un élément de schéma ne comportant pas d'autres erreurs ne doit pas avoir le genre None. Le genre de l'élément de schéma '{0}' est None.</value>
+  </data>
+  <data name="XmlParser_UnexpectedRootElementNoNamespace" xml:space="preserve">
+    <value>L'élément racine ne comporte pas d'espace de noms. L'élément racine doit appartenir à l'un des espaces de noms suivants : '{0}'.</value>
+  </data>
+  <data name="XmlParser_UnexpectedRootElementWrongNamespace" xml:space="preserve">
+    <value>L'espace de noms '{0}' n'est pas valide. L'élément racine doit appartenir à l'un des espaces de noms suivants : '{1}'.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_IsUnboundedCannotBeTrueWhileMaxLengthIsNotNull" xml:space="preserve">
+    <value>La référence de chaîne n'est pas valide car si 'IsUnbounded' a la valeur true, 'MaxLength' doit être Null.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_BadNavigationPropertyUndefinedRole" xml:space="preserve">
+    <value>La propriété de navigation '{0}' n'est pas valide. Le rôle '{1}' n'est pas défini dans la relation '{2}'.</value>
+  </data>
+  <data name="CsdlParser_ReferentialConstraintRequiresOnePrincipal" xml:space="preserve">
+    <value>Les contraintes référentielles requièrent un rôle principal. Plusieurs rôles principaux ont été spécifiés pour cette contrainte référentielle.</value>
+  </data>
+  <data name="CsdlParser_InvalidAssociationIncorrectNumberOfEnds" xml:space="preserve">
+    <value>L'association '{0}' n'est pas valide. Les associations doivent contenir deux éléments de terminaison exactement.</value>
+  </data>
+  <data name="Bad_UnresolvedEntityType" xml:space="preserve">
+    <value>Le type d'entité '{0}' est introuvable.</value>
+  </data>
+  <data name="ValueParser_InvalidMaxLength" xml:space="preserve">
+    <value>La valeur '{0}' n'est pas un entier valide. La valeur doit être un entier à 32 bits valide ou 'Max'.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_EntitySetTypeHasNoKeys" xml:space="preserve">
+    <value>Le jeu d'entités '{0}' est basé sur le type '{1}' pour lequel aucune clé n'est définie.</value>
+  </data>
+  <data name="EdmToClr_TryCreateObjectInstanceReturnedWrongObject" xml:space="preserve">
+    <value>Le type '{0}' de l'objet retourné par le délégué TryCreateObjectInstance ne peut pas être affecté au type attendu '{1}'.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_DuplicateEntityContainerMemberName" xml:space="preserve">
+    <value>Chaque nom de membre d'un EntityContainer doit être unique. Un membre nommé '{0}' est déjà défini.</value>
+  </data>
+  <data name="Bad_UnresolvedParameter" xml:space="preserve">
+    <value>Le paramètre '{0}' est introuvable.</value>
+  </data>
+  <data name="Serializer_UnknownEdmxVersion" xml:space="preserve">
+    <value>Version Edmx inconnue.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_NoEntitySetsFoundForType" xml:space="preserve">
+    <value>L'ensemble d'associations '{0}' ne peut pas prendre un jeu d'entités pour le rôle '{2}' car il n'y a aucun jeu d'entités pour le type de rôle '{1}'.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_NavigationPropertyContainsTargetNotSupportedBeforeV3" xml:space="preserve">
+    <value>Le paramètre 'ContainsTarget' des propriétés de navigation n'est pas pris en charge avant la version 3.0.</value>
+  </data>
+  <data name="Bad_UnresolvedFunction" xml:space="preserve">
+    <value>La fonction '{0}' est introuvable.</value>
+  </data>
+  <data name="ValueHasAlreadyBeenSet" xml:space="preserve">
+    <value>La valeur a déjà été définie.</value>
+  </data>
+  <data name="EdmModel_CannotUseElementWithTypeNone" xml:space="preserve">
+    <value>Un élément avec le type 'None' ne peut pas être utilisé dans un modèle.</value>
+  </data>
+  <data name="UnknownEnumVal_FunctionParameterMode" xml:space="preserve">
+    <value>Mode de paramètre de fonction non valide : '{0}'</value>
+  </data>
+  <data name="EdmToClr_CannotConvertEdmValueToClrType" xml:space="preserve">
+    <value>La conversion d'une valeur EDM de type '{0}' en type CLR '{1}' n'est pas prise en charge.</value>
+  </data>
+  <data name="CsdlParser_InvalidLabeledElementExpressionIncorrectNumberOfOperands" xml:space="preserve">
+    <value>L'expression LabeledElement doit contenir 1 opérande.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_ExpressionPrimitiveKindNotValidForAssertedType" xml:space="preserve">
+    <value>L'expression primitive n'est pas compatible avec le type affirmé.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_InvalidMultiplicityOfPrincipalEndDependentPropertiesAllNullable" xml:space="preserve">
+    <value>La multiplicité de la terminaison principale'{0}' n'est pas valide. Étant donné que toutes les propriétés dépendantes de la terminaison '{1}' acceptent la valeur Null, la multiplicité du rôle principal doit être '0..1'.</value>
+  </data>
+  <data name="CsdlParser_AssociationHasAtMostOneConstraint" xml:space="preserve">
+    <value>Les associations peuvent avoir une contrainte au maximum. Plusieurs contraintes ont été spécifiées pour cette association.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_EnumMemberNameAlreadyDefined" xml:space="preserve">
+    <value>Chaque nom de membre d'un type enum doit être unique. Le nom de membre enum '{0}' est déjà défini.</value>
+  </data>
+  <data name="Edm_Evaluator_UnrecognizedExpressionKind" xml:space="preserve">
+    <value>Impossible d'évaluer l'expression avec le genre '{0}'.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_ElementDirectValueAnnotationFullNameMustBeUnique" xml:space="preserve">
+    <value>Un élément comporte déjà une annotation de valeur directe avec l'espace de noms '{0}' et le nom '{1}'.</value>
+  </data>
+  <data name="CsdlParser_InvalidDeleteAction" xml:space="preserve">
+    <value>L'action de suppression '{0}' n'est pas valide. Une action doit être : 'None', 'Cascade' ou 'Restrict'.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_InvalidKeyNullablePart" xml:space="preserve">
+    <value>La partie de clé '{0}' du type '{1}' n'est pas valide. Les parties de la clé ne doivent pas accepter la valeur Null.</value>
+  </data>
+  <data name="EdmModel_Validator_Syntactic_MissingNamespaceName" xml:space="preserve">
+    <value>Le nom de l'espace de noms est manquant ou n'est pas valide.</value>
+  </data>
+  <data name="TypeSemantics_CouldNotConvertTypeReference" xml:space="preserve">
+    <value>Le type '{0}' n'a pas pu être converti en type '{1}'.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_ComposableFunctionImportCannotBeSideEffecting" xml:space="preserve">
+    <value>L'importation de fonction '{0}' ne peut pas être à la fois composable et présenter des effets secondaires.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_InaccessibleTarget" xml:space="preserve">
+    <value>La cible '{0}' est introuvable à partir du modèle en cours de validation.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_FunctionImportWithUnsupportedReturnTypeV1" xml:space="preserve">
+    <value>Le type de retour n'est pas valide dans l'importation de fonction '{0}'. Dans la version 1.0, l'importation de fonction ne peut avoir aucun type de retour ou retourner une collection de valeurs scalaires ou une collection d'entités.</value>
+  </data>
+  <data name="CsdlParser_InvalidQualifiedName" xml:space="preserve">
+    <value>Le nom qualifié '{0}' n'est pas valide. Un nom qualifié doit avoir un alias ou un espace de noms valide, ainsi qu'un nom valide.</value>
+  </data>
+  <data name="XmlParser_UnexpectedElement" xml:space="preserve">
+    <value>L'élément de schéma '{0}' n'était pas attendu dans le contexte donné.</value>
+  </data>
+  <data name="Serializer_ReferencedTypeMustHaveValidName" xml:space="preserve">
+    <value>Un type référencé ne peut pas être sérialisé avec un nom qui n'est pas valide. Le nom '{0}' n'est pas valide.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_DuplicateEndName" xml:space="preserve">
+    <value>Une terminaison avec le nom '{0}' est déjà définie.</value>
+  </data>
+  <data name="CsdlParser_MissingTypeAttributeOrElement" xml:space="preserve">
+    <value>Il manque un attribut XML ou un sous-élément représentant un type EDM.</value>
+  </data>
+  <data name="UnknownEnumVal_PrimitiveKind" xml:space="preserve">
+    <value>Genre de primitive non valide : '{0}'</value>
+  </data>
+  <data name="CsdlSemantics_DuplicateAlias" xml:space="preserve">
+    <value>Le schéma '{0}' contient plus d'une fois l'alias '{1}'.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_SystemNamespaceEncountered" xml:space="preserve">
+    <value>L'espace de noms '{0}' est un espace de noms système et ne peut pas être utilisé par des types non-système. Veuillez choisir un espace de noms différent.</value>
+  </data>
+  <data name="ValueParser_InvalidBoolean" xml:space="preserve">
+    <value>La valeur '{0}' n'est pas une valeur booléenne valide. Cette valeur doit correspondre à 'true' ou à 'false'.</value>
+  </data>
+  <data name="Bad_CyclicEntity" xml:space="preserve">
+    <value>L'entité '{0}' n'est pas valide car son type de base est cyclique.</value>
+  </data>
+  <data name="CsdlParser_NullXmlReader" xml:space="preserve">
+    <value>Impossible de produire un modèle car l'un des lecteurs XML avait une valeur Null.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_FunctionImportBindableNotSupportedBeforeV3" xml:space="preserve">
+    <value>Le paramètre 'Bindable' des importations de fonction n'est pas pris en charge avant la version 3.0.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_RecordExpressionHasExtraProperties" xml:space="preserve">
+    <value>Le type d'expression d'enregistrement n'est pas ouvert et ne contient pas la propriété nommée '{0}'.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_NavigationPropertyPrincipalEndMultiplicityUpperBoundMustBeOne" xml:space="preserve">
+    <value>La propriété de navigation principale '{0}' comporte une multiplicité non valide. Les valeurs valides de la multiplicité d'une terminaison principale sont '0..1' ou '1'.</value>
+  </data>
+  <data name="ValueParser_InvalidInteger" xml:space="preserve">
+    <value>La valeur '{0}' n'est pas un entier valide. La valeur doit être un entier à 32 bits valide.</value>
+  </data>
+  <data name="EdmModel_Validator_Syntactic_EdmModel_NamespaceNameIsTooLong" xml:space="preserve">
+    <value>Le nom spécifié ne doit pas dépasser 480 caractères : '{0}'.</value>
+  </data>
+  <data name="CsdlParser_InvalidIfExpressionIncorrectNumberOfOperands" xml:space="preserve">
+    <value>Une expression If doit contenir 3 opérandes, le premier étant un test booléen, le second étant évalué si le premier a la valeur True et le troisième étant évalué si le premier a la valeur False.</value>
+  </data>
+  <data name="ValueParser_InvalidFloatingPoint" xml:space="preserve">
+    <value>La valeur '{0}' n'est pas une valeur à virgule flottante valide. </value>
+  </data>
+  <data name="XmlParser_EmptyFile" xml:space="preserve">
+    <value>{0} ne contient pas de définition de schéma, ou le XmlReader fourni a démarré à la fin du fichier.</value>
+  </data>
+  <data name="Edm_Evaluator_NoValueAnnotationOnType" xml:space="preserve">
+    <value>Le type '{0}' doit avoir une annotation de valeur unique avec le terme '{1}'.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_RecordExpressionNotValidForNonStructuredType" xml:space="preserve">
+    <value>Une expression d'enregistrement n'est pas compatible avec un type non structuré.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_NullableComplexTypeProperty" xml:space="preserve">
+    <value>La propriété '{0}' est d'un type complexe et peut avoir une valeur Null. Les propriétés de type complexe acceptant les valeurs Null ne sont pas prises en charge dans EDM versions 1.0 et 2.0.</value>
+  </data>
+  <data name="CsdlParser_InvalidEntitySetPath" xml:space="preserve">
+    <value>'{0}' n'est pas un chemin d'accès du jeu d'entité valide.</value>
+  </data>
+  <data name="Constructable_EntityTypeOrCollectionOfEntityTypeExpected" xml:space="preserve">
+    <value>Un type d'entité ou une collection d'un type d'entité est attendue.</value>
+  </data>
+  <data name="Bad_UnresolvedProperty" xml:space="preserve">
+    <value>La propriété '{0}' est introuvable.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_DependentPropertiesMustBelongToDependentEntity" xml:space="preserve">
+    <value>La propriété dépendante '{0}' doit appartenir à l'entité dépendante '{1}'.</value>
+  </data>
+  <data name="EdmToClr_StructuredPropertyDuplicateValue" xml:space="preserve">
+    <value>Une valeur structurée EDM comporte plusieurs valeurs de la propriété '{0}'. La conversion d'une valeur structurée EDM avec des valeurs de propriété en double n'est pas prise en charge.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_DeclaringTypeMustBeCorrect" xml:space="preserve">
+    <value>La propriété '{0}' ne peut pas appartenir à un type autre que son type déclarant. </value>
+  </data>
+  <data name="CsdlParser_ReferentialConstraintRequiresOneDependent" xml:space="preserve">
+    <value>Les contraintes référentielles requièrent un rôle dépendant. Plusieurs rôles dépendants ont été spécifiés pour cette contrainte référentielle.</value>
+  </data>
+  <data name="Bad_UnresolvedEntitySet" xml:space="preserve">
+    <value>Le jeu d'entités '{0}' est introuvable.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_DuplicateDependentProperty" xml:space="preserve">
+    <value>La propriété dépendante '{0}' de la propriété de navigation '{1}' est un doublon.</value>
+  </data>
+  <data name="UnknownEnumVal_EdmxTarget" xml:space="preserve">
+    <value>Cible edmx non valide : '{0}'</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_IncorrectNumberOfArguments" xml:space="preserve">
+    <value>L'application de fonction fournit '{0}' arguments, mais la fonction '{1}' attend '{2}' arguments.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_BadNavigationPropertyCouldNotDetermineType" xml:space="preserve">
+    <value>Impossible de déterminer le type de propriété de navigation à partir du rôle '{0}'.</value>
+  </data>
+  <data name="Bad_AmbiguousElementBinding" xml:space="preserve">
+    <value>Le nom '{0}' est ambigu.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_EndWithManyMultiplicityCannotHaveOperationsSpecified" xml:space="preserve">
+    <value>'OnDelete' ne peut pas être spécifié pour la propriété de navigation '{0}' car sa multiplicité est '*'.</value>
+  </data>
+  <data name="EdmParseException_ErrorsEncounteredInEdmx" xml:space="preserve">
+    <value>Les erreurs suivantes se sont produites lors de l'analyse du document EDMX : 
+{0}</value>
+  </data>
+  <data name="EdmModel_Validator_Syntactic_MissingName" xml:space="preserve">
+    <value>Le nom est manquant ou non valide.</value>
+  </data>
+  <data name="Bad_UncomputableAssociationEnd" xml:space="preserve">
+    <value>La terminaison d'association '{0}' n'a pas pu être calculée.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_FunctionImportEntityTypeDoesNotMatchEntitySet" xml:space="preserve">
+    <value>L'importation de fonction '{0}' retourne des entités de type '{1}' qui ne peuvent pas exister dans le jeu d'entités '{2}' spécifié pour l'importation de fonction.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_DuplicatePropertyNameSpecifiedInEntityKey" xml:space="preserve">
+    <value>La clé spécifiée dans le type d'entité '{0}' n'est pas valide. La propriété '{1}' est référencée plusieurs fois dans l'élément de clé.</value>
+  </data>
+  <data name="ValueParser_InvalidGuid" xml:space="preserve">
+    <value>La valeur '{0}' n'est pas un Guid valide. </value>
+  </data>
+  <data name="ValueParser_InvalidLong" xml:space="preserve">
+    <value>La valeur '{0}' n'est pas un entier valide. La valeur doit être un entier à 64 bits valide.</value>
+  </data>
+  <data name="ValueParser_InvalidSrid" xml:space="preserve">
+    <value>La valeur '{0}' n'est pas un SRID valide. La valeur doit être un entier à 32 bits ou 'Variable'.</value>
+  </data>
+  <data name="ValueParser_InvalidTime" xml:space="preserve">
+    <value>La valeur '{0}' n'est pas une valeur d'heure valide.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_EnumMustHaveIntegralUnderlyingType" xml:space="preserve">
+    <value>Le type sous-jacent '{0}' n'est pas valide. Le type sous-jacent d'un type enum doit être un type intégral. </value>
+  </data>
+  <data name="UnknownEnumVal_Multiplicity" xml:space="preserve">
+    <value>Multiplicité non valide : '{0}'</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_PrimitiveConstantExpressionNotValidForNonPrimitiveType" xml:space="preserve">
+    <value>Une expression primitive est incompatible avec un type non primitif.</value>
+  </data>
+  <data name="Serializer_NonInlineFunctionImportReturnType" xml:space="preserve">
+    <value>L'importation de fonction '{0}' n'a pas pu être sérialisée car son type de retour ne peut pas être représenté en ligne.</value>
+  </data>
+  <data name="EdmEntityContainer_CannotUseElementWithTypeNone" xml:space="preserve">
+    <value>Un élément avec le type 'None' ne peut pas être utilisé dans un conteneur d'entités.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_InvalidPropertyInRelationshipConstraintDependentEnd" xml:space="preserve">
+    <value>Il n'existe aucune propriété portant le nom '{0}' définie dans le type référencé par le rôle '{1}'.</value>
+  </data>
+  <data name="Constructable_VocabularyAnnotationMustHaveTarget" xml:space="preserve">
+    <value>L'annotation doit avoir une cible autre que Null.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_SpatialTypeReferencesNotSupportedBeforeV3" xml:space="preserve">
+    <value>Les références aux types spatiaux EDM ne sont pas prises en charge avant la version 3.0.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_InvalidKeyKeyDefinedInBaseClass" xml:space="preserve">
+    <value>L'utilisation de clé n'est pas valide. '{0}' ne peut pas définir de clés car l'une de ses classes de base '{1}' définit des clés.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_StreamTypeReferencesNotSupportedBeforeV3" xml:space="preserve">
+    <value>Les références au type de flux EDM ne sont pas prises en charge avant la version 3.0.</value>
+  </data>
+  <data name="CsdlParser_InvalidAssociationSetIncorrectNumberOfEnds" xml:space="preserve">
+    <value>L'ensemble d'associations '{0}' n'est pas valide. Les ensembles d'associations doivent contenir au moins deux éléments de terminaison exactement.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_PrimitiveTypeMustNotHaveKindOfNone" xml:space="preserve">
+    <value>Un type primitif ne comportant pas d'autres erreurs ne doit pas avoir le genre None. Le genre du type primitif '{0}' est None.</value>
+  </data>
+  <data name="Edm_Evaluator_UnboundFunction" xml:space="preserve">
+    <value>La fonction '{0}' n'est pas présente dans l'environnement d'exécution.</value>
+  </data>
+  <data name="CsdlParser_InvalidConcurrencyMode" xml:space="preserve">
+    <value>Le mode d'accès concurrentiel '{0}' n'est pas valide. Le mode d'accès concurrentiel doit être : 'None' ou 'Fixed'.</value>
+  </data>
+  <data name="EdmModel_Validator_Syntactic_NavigationPartnerInvalid" xml:space="preserve">
+    <value>Le partenaire de la propriété de navigation '{0}' ne doit pas être la même propriété et doit pointer vers la propriété de navigation.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_InvalidComplexTypePolymorphic" xml:space="preserve">
+    <value>Un type de base est spécifié pour le type complexe '{0}'. L'héritage du type complexe est uniquement pris en charge dans les modèles EDM de version 1.1.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_ScaleOutOfRange" xml:space="preserve">
+    <value>La valeur d'échelle peut être comprise entre 0 et la valeur de précision spécifiée.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_TypeMismatchRelationshipConstraint" xml:space="preserve">
+    <value>Les types de toutes les propriétés dans le rôle dépendant d'une contrainte référentielle doivent être les mêmes que les types de propriété correspondants dans le rôle principal. Le type de propriété '{0}' sur l'entité '{1}' ne correspond pas au type de propriété '{2}' sur l'entité '{3}' dans la contrainte référentielle '{4}'.</value>
+  </data>
+  <data name="ValueParser_InvalidDateTime" xml:space="preserve">
+    <value>La valeur '{0} n'est pas une valeur de date et d'heure valide.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_AmbiguousType" xml:space="preserve">
+    <value>Le type nommé '{0}' est ambigu dans le modèle en cours de validation.</value>
+  </data>
+  <data name="XmlParser_UnexpectedAttribute" xml:space="preserve">
+    <value>L'attribut '{0}' n'était pas attendu dans le contexte donné.</value>
+  </data>
+  <data name="EdmModel_Validator_Syntactic_InterfaceCriticalCycleInTypeHierarchy" xml:space="preserve">
+    <value>La chaîne des types de base de type '{0}' est cyclique.</value>
+  </data>
+  <data name="RuleSet_DuplicateRulesExistInRuleSet" xml:space="preserve">
+    <value>La même règle ne peut pas figurer deux fois dans le même ensemble de règles.</value>
+  </data>
+  <data name="CsdlParser_InvalidTypeName" xml:space="preserve">
+    <value>Le nom de type '{0}' n'est pas valide. Le nom de type doit être celui d'un type primitif, un nom qualifié complet ou un type 'Collection' ou 'Ref' en ligne.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_PathIsNotValidForTheGivenContext" xml:space="preserve">
+    <value>Le chemin d'accès ne peut pas être résolu dans le contexte donné. Le segment « {0} » n'a pas pu être résolu.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_InvalidElementAnnotationValueInvalidXml" xml:space="preserve">
+    <value>La valeur d'une annotation marquée pour être sérialisée en tant qu'élément xml doit être une valeur xml bien formée.</value>
+  </data>
+  <data name="XmlParser_UnusedElement" xml:space="preserve">
+    <value>Élément de schéma inutilisé : '{0}'.</value>
+  </data>
+  <data name="CsdlSemantics_EnumMemberValueOutOfRange" xml:space="preserve">
+    <value>La valeur du membre d'énumération ne se trouve pas dans la plage de son type de données 'http://www.w3.org/2001/XMLSchema:long'.</value>
+  </data>
+  <data name="Serializer_OutOfLineAnnotationTargetMustHaveValidName" xml:space="preserve">
+    <value>L'annotation ne peut pas être sérialisée avec un nom de cible non valide. Le nom '{0}' n'est pas valide.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_TermMustNotHaveKindOfNone" xml:space="preserve">
+    <value>Un terme ne comportant pas d'autres erreurs ne doit pas avoir le genre None. Le genre du terme '{0}' est None.</value>
+  </data>
+  <data name="Annotations_DocumentationPun" xml:space="preserve">
+    <value>Les annotations dans l'espace de noms 'Documentation' doivent implémenter 'IEdmDocumentation', ce qui n'est pas le cas de '{0}'.</value>
+  </data>
+  <data name="EdmxParser_EdmxVersionMismatch" xml:space="preserve">
+    <value>La version EDMX spécifiée dans l'attribut Version ne correspond pas à la version correspondant à l'espace de noms de l'élément Edmx.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_MismatchNumberOfPropertiesinRelationshipConstraint" xml:space="preserve">
+    <value>Le nombre de propriétés dans les rôles principal et dépendants d'une contrainte de relation doit être strictement identique.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_CannotAssertNullableTypeAsNonNullableType" xml:space="preserve">
+    <value>Impossible de déclarer le type null '{0}' comme un type non null.</value>
+  </data>
+  <data name="UnknownEnumVal_TermKind" xml:space="preserve">
+    <value>Genre de terme non valide : '{0}'</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_DuplicateEntityContainerName" xml:space="preserve">
+    <value>Chaque nom de conteneur d'entités d'une fonction doit être unique. Le nom '{0}' est déjà défini.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_ParameterNameAlreadyDefinedDuplicate" xml:space="preserve">
+    <value>Chaque nom de paramètre d'une fonction doit être unique. Le nom du paramètre '{0}' est déjà défini.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_VocabularyAnnotationsNotSupportedBeforeV3" xml:space="preserve">
+    <value>Les annotations de vocabulaire ne sont pas prises en charge par les versions antérieures à la version 3.0.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_FunctionImportParameterIncorrectType" xml:space="preserve">
+    <value>Le type '{0}' de paramètre '{1}' n'est pas valide. Un paramètre d'importation de fonction peut être de l'un des types suivants : type simple ou type complexe.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_NavigationPropertyWithRecursiveContainmentSourceMustBeFromZeroOrOne" xml:space="preserve">
+    <value>La multiplicité source de la propriété de navigation '{0}' n'est pas valide. Si 'ContainsTarget' d'une propriété de navigation a la valeur True et que le type d'entité déclarant de la propriété est le même que le type d'entité cible, ou hérite de ce dernier, la propriété représente une relation contenant-contenu récursive et la multiplicité de la source de navigation doit être de zéro ou un.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_DuplicateNavigationPropertyMapping" xml:space="preserve">
+    <value>Le jeu d'entités '{0}' doit comporter un seul mappage pour la propriété '{1}'.</value>
+  </data>
+  <data name="UnknownEnumVal_ConcurrencyMode" xml:space="preserve">
+    <value>Mode d'accès concurrentiel non valide : '{0}'</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_InvalidElementAnnotationMismatchedTerm" xml:space="preserve">
+    <value>Le nom et l'espace de noms déclarés de l'annotation doivent correspondre à ceux de sa valeur xml.</value>
+  </data>
+  <data name="CsdlParser_InvalidEndRoleInRelationshipConstraint" xml:space="preserve">
+    <value>Il n'y a aucun rôle portant le nom '{0}' défini dans la relation '{1}'.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_InvalidMultiplicityOfPrincipalEndDependentPropertiesAllNonnullable" xml:space="preserve">
+    <value>La multiplicité de la terminaison principale'{0}' n'est pas valide. Étant donné qu'aucune des propriétés dépendantes de la terminaison '{1}' n'accepte la valeur Null, la multiplicité du rôle principal doit être '1'.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_InvalidElementAnnotationNotIEdmStringValue" xml:space="preserve">
+    <value>La valeur d'une annotation marquée pour être sérialisée en tant qu'élément xml doit être IEdmStringValue.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_RowTypeMustHaveProperties" xml:space="preserve">
+    <value>Le type de ligne n'est pas valide. Une ligne doit contenir au moins une propriété.</value>
+  </data>
+  <data name="EdmxParser_EdmxMaxDataServiceVersionInvalid" xml:space="preserve">
+    <value>La valeur spécifiée de la version du service de données max n'est pas valide.</value>
+  </data>
+  <data name="Edm_Evaluator_NoValueAnnotationOnElement" xml:space="preserve">
+    <value>L'élément doit avoir une annotation de valeur unique avec le terme '{0}'.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_EntityContainerElementMustNotHaveKindOfNone" xml:space="preserve">
+    <value>Un élément de conteneur d'entités sans aucune autre erreur ne doit pas avoir le genre None. Le genre de l'élément de conteneur d'entités '{0}' est None.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_EntitySetCanOnlyBeContainedByASingleNavigationProperty" xml:space="preserve">
+    <value>Le jeu d'entités '{0}' n'est pas valide car il est contenu dans plusieurs propriétés de navigation.</value>
+  </data>
+  <data name="XmlParser_MissingAttribute" xml:space="preserve">
+    <value>L'attribut de schéma requis '{0}' n'est pas présent sur l'élément '{1}'.</value>
+  </data>
+  <data name="CsdlParser_InvalidMultiplicity" xml:space="preserve">
+    <value>La multiplicité '{0}' n'est pas valide. La multiplicité doit être : '*', '0..1' ou '1'.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_FunctionImportSpecifiesEntitySetButNotEntityType" xml:space="preserve">
+    <value>L'importation de fonction '{0}' spécifie un jeu d'entités, mais ne retourne pas d'entités.</value>
+  </data>
+  <data name="EdmToClr_StructuredValueMappedToNonClass" xml:space="preserve">
+    <value>La conversion d'une valeur structurée EDM est prise en charge uniquement vers une classe CLR.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_ComplexTypeMustHaveProperties" xml:space="preserve">
+    <value>Le type complexe '{0}' n'est pas valide. Un type complexe doit comporter au moins une propriété.</value>
+  </data>
+  <data name="UnknownEnumVal_ExpressionKind" xml:space="preserve">
+    <value>Genre d'expression non valide : '{0}'</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_InvalidToPropertyInRelationshipConstraint" xml:space="preserve">
+    <value>Les propriétés référencées par le rôle dépendant '{0}' doivent être un sous-ensemble de la clé du type d'entité '{1}'.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_InvalidMultiplicityOfDependentEndMustBeMany" xml:space="preserve">
+    <value>La multiplicité de la terminaison dépendante '{0}' n'est pas valide. Étant donné que les propriétés dépendantes ne représentent pas la clé de terminaison dépendante, la multiplicité de la terminaison dépendante doit être '*'.</value>
+  </data>
+  <data name="Serializer_NoSchemasProduced" xml:space="preserve">
+    <value>Aucun CSDL n'est écrit car aucun élément de schéma n'a pu être produit. Cela peut être dû à un modèle vide.</value>
+  </data>
+  <data name="XmlParser_TextNotAllowed" xml:space="preserve">
+    <value>L'élément de schéma actuel ne prend pas en charge le texte '{0}'.</value>
+  </data>
+  <data name="Bad_UnresolvedEnumType" xml:space="preserve">
+    <value>Le type enum '{0}' est introuvable.</value>
+  </data>
+  <data name="EdmxParser_BodyElement" xml:space="preserve">
+    <value>Élément {0} inattendu lors de l'analyse d'Edmx. Edmx doit comporter au maximum un des éléments 'Runtime' ou 'DataServices'.</value>
+  </data>
+  <data name="EdmModel_Validator_Syntactic_EnumPropertyValueOutOfRange" xml:space="preserve">
+    <value>La propriété '{0}.{1}' du type '{2}' a la valeur '{3}' qui n'est pas un membre enum valide.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_EntityKeyMustBeScalar" xml:space="preserve">
+    <value>La propriété '{0}' dans le type d'entité '{1}' n'est pas valide. Toutes les propriétés qui font partie de la clé d'entité doivent être de type primitif.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_OnlyInputParametersAllowedInFunctions" xml:space="preserve">
+    <value>Le mode du paramètre '{0}' dans la fonction '{1}' n'est pas valide. Seuls les paramètres d'entrée sont autorisés dans les fonctions.</value>
+  </data>
+  <data name="Constructable_TargetMustBeStock" xml:space="preserve">
+    <value>Le type d'entité cible de navigation doit être '{0}'.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_BindableFunctionImportMustHaveParameters" xml:space="preserve">
+    <value>L'importation de la fonction pouvant être liée '{0}' doit avoir au moins un paramètre.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_FunctionImportEntitySetExpressionIsInvalid" xml:space="preserve">
+    <value>L'importation de fonction '{0}' spécifie une expression de jeu d'entités qui n'est pas valide. Une expression de jeu d'entités d'une importation de fonction peut être soit une référence de jeu d'entités, soit un chemin d'accès commençant par un paramètre d'importation de fonction et parcourant des propriétés de navigation.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_InvalidElementAnnotationNullNamespaceOrName" xml:space="preserve">
+    <value>La valeur d'une annotation marquée pour être sérialisée en tant qu'élément xml doit être une chaîne représentant un élément xml associé à un nom et un espace de noms non vides.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_CannotInferEntitySetWithMultipleSetsPerType" xml:space="preserve">
+    <value>Le jeu d'associations '{0}' doit spécifier un jeu d'entités pour le rôle '{2}' car plusieurs jeux d'entités correspondent au type de rôle '{1}'.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_CollectionExpressionNotValidForNonCollectionType" xml:space="preserve">
+    <value>Une expression de collection n'est pas compatible avec un type autre que collection.</value>
+  </data>
+  <data name="ValueWriter_NonSerializableValue" xml:space="preserve">
+    <value>Le générateur de valeurs ne peut pas écrire une valeur du genre '{0}'.</value>
+  </data>
+  <data name="EdmPrimitive_UnexpectedKind" xml:space="preserve">
+    <value>Genre de type de primitive inattendu.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_FunctionImportComposableNotSupportedBeforeV3" xml:space="preserve">
+    <value>Le paramètre 'Composable' des importations de fonction n'est pas pris en charge avant la version 3.0.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_EntitySetNavigationPropertyMappingMustPointToValidTargetForProperty" xml:space="preserve">
+    <value>Le jeu d'entités '{1}' n'est pas une destination valide pour la propriété de navigation '{0}', car il ne peut pas contenir un élément du type de l'entité de destination.</value>
+  </data>
+  <data name="EdmModel_Validator_Syntactic_EdmModel_NameIsNotAllowed" xml:space="preserve">
+    <value>Le nom spécifié n'est pas autorisé : '{0}'.</value>
+  </data>
+</root>

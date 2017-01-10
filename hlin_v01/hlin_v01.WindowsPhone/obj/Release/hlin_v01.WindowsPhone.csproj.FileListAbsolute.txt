@@ -1,0 +1,1055 @@
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\hlin_v01.WindowsPhone.csprojResolveAssemblyReference.cache
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\App.g.i.cs
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\App.g.cs
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\lock_form.g.i.cs
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\lock_form.g.cs
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\MainPage.g.i.cs
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\MainPage.g.cs
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\userkey.g.i.cs
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\userkey.g.cs
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\XamlTypeInfo.g.cs
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\lock_form.xaml
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\userkey.xaml
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\lock_form.xbf
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\userkey.xbf
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\XamlSaveStateFile.xml
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\entry.g.i.cs
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\entry.g.cs
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\feedback.g.i.cs
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\feedback.g.cs
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\entry.xaml
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\MainPage.xaml
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\entry.xbf
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\MainPage.xbf
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\hlin_v01.WindowsPhone.exe.config
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\App.xbf
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\entry.xbf
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\feedback.xbf
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\lock_form.xbf
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\MainPage.xbf
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\savedKeys.xbf
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\userkey.xbf
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\hlin_v01.WindowsPhone.xr.xml
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\hlin_v01.WindowsPhone.exe
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\hlin_v01.WindowsPhone.pdb
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\resources.pri
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\AppxManifest.xml
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\hlin_v01.WindowsPhone.build.appxrecipe
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\Microsoft.Data.Edm.dll
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\Microsoft.Data.OData.dll
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\Newtonsoft.Json.dll
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\System.Net.Http.Extensions.dll
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\System.Net.Http.Primitives.dll
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\System.Spatial.dll
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\Microsoft.Data.Edm.xml
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\Microsoft.Data.OData.xml
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\Newtonsoft.Json.xml
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\System.Net.Http.Extensions.xml
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\System.Net.Http.Primitives.xml
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\System.Spatial.xml
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\de\Microsoft.Data.OData.resources.dll
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\es\Microsoft.Data.OData.resources.dll
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\it\Microsoft.Data.OData.resources.dll
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\de\System.Spatial.resources.dll
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\es\System.Spatial.resources.dll
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\fr\System.Spatial.resources.dll
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\it\System.Spatial.resources.dll
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\ja\System.Spatial.resources.dll
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\ko\System.Spatial.resources.dll
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\ru\System.Spatial.resources.dll
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\zh-Hans\System.Spatial.resources.dll
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\zh-Hant\System.Spatial.resources.dll
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\savedKeys.g.i.cs
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\savedKeys.g.cs
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\feedback.xaml
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\feedback.xbf
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\App.xaml
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\savedKeys.xaml
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\App.xbf
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\savedKeys.xbf
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\hlin_v01.WindowsPhone.exe
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\hlin_v01.WindowsPhone.pdb
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\en-US\Microsoft.Data.Edm.resw
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\de\Microsoft.Data.Edm.resw
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\es\Microsoft.Data.Edm.resw
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\fr\Microsoft.Data.Edm.resw
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\it\Microsoft.Data.Edm.resw
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\ja\Microsoft.Data.Edm.resw
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\ko\Microsoft.Data.Edm.resw
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\ru\Microsoft.Data.Edm.resw
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\zh-Hans\Microsoft.Data.Edm.resw
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\zh-Hant\Microsoft.Data.Edm.resw
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\en-US\Microsoft.Data.OData.resw
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\de\Microsoft.Data.OData.resw
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\es\Microsoft.Data.OData.resw
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\fr\Microsoft.Data.OData.resw
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\it\Microsoft.Data.OData.resw
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\ja\Microsoft.Data.OData.resw
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\ko\Microsoft.Data.OData.resw
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\ru\Microsoft.Data.OData.resw
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\zh-Hans\Microsoft.Data.OData.resw
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\zh-Hant\Microsoft.Data.OData.resw
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.WindowsAzure.Mobile\en-US\Microsoft.WindowsAzure.MobileServices.Resources.resw
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\en-US\System.Spatial.resw
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\de\System.Spatial.resw
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\es\System.Spatial.resw
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\fr\System.Spatial.resw
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\it\System.Spatial.resw
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\ja\System.Spatial.resw
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\ko\System.Spatial.resw
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\ru\System.Spatial.resw
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\zh-Hans\System.Spatial.resw
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\zh-Hant\System.Spatial.resw
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\hlin_v01.WindowsPhone.csproj.GenerateResource.Cache
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\layout.resfiles
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\layout.resfiles.intermediate
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\Resources.resfiles
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\Resources.resfiles.intermediate
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\pri.resfiles
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\pri.resfiles.intermediate
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\priconfig.xml
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\priconfig.xml.intermediate
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm.pri
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\qualifiers.txt
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\layout.resfiles
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\layout.resfiles.intermediate
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\Resources.resfiles
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\Resources.resfiles.intermediate
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\pri.resfiles
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\pri.resfiles.intermediate
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\priconfig.xml
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\priconfig.xml.intermediate
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData.pri
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\qualifiers.txt
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.WindowsAzure.Mobile\layout.resfiles
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.WindowsAzure.Mobile\layout.resfiles.intermediate
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.WindowsAzure.Mobile\Resources.resfiles
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.WindowsAzure.Mobile\Resources.resfiles.intermediate
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.WindowsAzure.Mobile\pri.resfiles
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.WindowsAzure.Mobile\pri.resfiles.intermediate
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.WindowsAzure.Mobile\priconfig.xml
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.WindowsAzure.Mobile\priconfig.xml.intermediate
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.WindowsAzure.Mobile.pri
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.WindowsAzure.Mobile\qualifiers.txt
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\layout.resfiles
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\layout.resfiles.intermediate
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\Resources.resfiles
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\Resources.resfiles.intermediate
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\pri.resfiles
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\pri.resfiles.intermediate
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\priconfig.xml
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\priconfig.xml.intermediate
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial.pri
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\qualifiers.txt
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\priconfig.xml
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\priconfig.xml.intermediate
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\layout.resfiles
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\layout.resfiles.intermediate
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\resources.resfiles
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\resources.resfiles.intermediate
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\pri.resfiles
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\pri.resfiles.intermediate
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\qualifiers.txt
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\qualifiers.txt.intermediate
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Prajwal\Desktop\hlin_alpha_final_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\ProjectArchitectures.txt
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\hlin_v01.WindowsPhone.exe.config
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\App.xbf
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\entry.xbf
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\feedback.xbf
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\lock_form.xbf
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\MainPage.xbf
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\savedKeys.xbf
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\userkey.xbf
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\hlin_v01.WindowsPhone.xr.xml
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\hlin_v01.WindowsPhone.exe
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\hlin_v01.WindowsPhone.pdb
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\resources.pri
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\AppxManifest.xml
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\hlin_v01.WindowsPhone.build.appxrecipe
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\Microsoft.Data.Edm.dll
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\Microsoft.Data.OData.dll
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\Microsoft.WindowsAzure.Mobile.dll
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\Microsoft.WindowsAzure.Mobile.Ext.dll
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\Microsoft.WindowsAzure.Storage.dll
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\Newtonsoft.Json.dll
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\System.Net.Http.Extensions.dll
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\System.Net.Http.Primitives.dll
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\System.Spatial.dll
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\Microsoft.Data.Edm.xml
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\Microsoft.Data.OData.xml
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\Microsoft.WindowsAzure.Mobile.xml
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\Microsoft.WindowsAzure.Mobile.Ext.xml
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\Microsoft.WindowsAzure.Storage.pdb
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\Newtonsoft.Json.xml
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\System.Net.Http.Extensions.xml
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\System.Net.Http.Primitives.xml
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\System.Spatial.xml
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\de\Microsoft.Data.Edm.resources.dll
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\es\Microsoft.Data.Edm.resources.dll
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\fr\Microsoft.Data.Edm.resources.dll
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\it\Microsoft.Data.Edm.resources.dll
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\ja\Microsoft.Data.Edm.resources.dll
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\ko\Microsoft.Data.Edm.resources.dll
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\ru\Microsoft.Data.Edm.resources.dll
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\zh-Hans\Microsoft.Data.Edm.resources.dll
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\zh-Hant\Microsoft.Data.Edm.resources.dll
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\de\Microsoft.Data.OData.resources.dll
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\es\Microsoft.Data.OData.resources.dll
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\fr\Microsoft.Data.OData.resources.dll
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\it\Microsoft.Data.OData.resources.dll
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\ja\Microsoft.Data.OData.resources.dll
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\ko\Microsoft.Data.OData.resources.dll
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\ru\Microsoft.Data.OData.resources.dll
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\zh-Hans\Microsoft.Data.OData.resources.dll
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\zh-Hant\Microsoft.Data.OData.resources.dll
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\de\System.Spatial.resources.dll
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\es\System.Spatial.resources.dll
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\fr\System.Spatial.resources.dll
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\it\System.Spatial.resources.dll
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\ja\System.Spatial.resources.dll
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\ko\System.Spatial.resources.dll
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\ru\System.Spatial.resources.dll
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\zh-Hans\System.Spatial.resources.dll
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\zh-Hant\System.Spatial.resources.dll
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\hlin_v01.WindowsPhone.csprojResolveAssemblyReference.cache
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\App.g.i.cs
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\App.g.cs
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\entry.g.i.cs
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\entry.g.cs
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\feedback.g.i.cs
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\feedback.g.cs
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\lock_form.g.i.cs
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\lock_form.g.cs
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\MainPage.g.i.cs
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\MainPage.g.cs
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\savedKeys.g.i.cs
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\savedKeys.g.cs
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\userkey.g.i.cs
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\userkey.g.cs
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\XamlTypeInfo.g.cs
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\App.xaml
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\entry.xaml
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\feedback.xaml
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\lock_form.xaml
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\MainPage.xaml
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\savedKeys.xaml
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\userkey.xaml
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\App.xbf
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\entry.xbf
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\feedback.xbf
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\lock_form.xbf
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\MainPage.xbf
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\savedKeys.xbf
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\userkey.xbf
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\XamlSaveStateFile.xml
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\hlin_v01.WindowsPhone.exe
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\hlin_v01.WindowsPhone.pdb
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\en-US\Microsoft.Data.Edm.resw
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\de\Microsoft.Data.Edm.resw
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\es\Microsoft.Data.Edm.resw
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\fr\Microsoft.Data.Edm.resw
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\it\Microsoft.Data.Edm.resw
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\ja\Microsoft.Data.Edm.resw
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\ko\Microsoft.Data.Edm.resw
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\ru\Microsoft.Data.Edm.resw
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\zh-Hans\Microsoft.Data.Edm.resw
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\zh-Hant\Microsoft.Data.Edm.resw
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\en-US\Microsoft.Data.OData.resw
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\de\Microsoft.Data.OData.resw
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\es\Microsoft.Data.OData.resw
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\fr\Microsoft.Data.OData.resw
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\it\Microsoft.Data.OData.resw
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\ja\Microsoft.Data.OData.resw
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\ko\Microsoft.Data.OData.resw
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\ru\Microsoft.Data.OData.resw
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\zh-Hans\Microsoft.Data.OData.resw
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\zh-Hant\Microsoft.Data.OData.resw
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.WindowsAzure.Mobile\en-US\Microsoft.WindowsAzure.MobileServices.Resources.resw
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\en-US\System.Spatial.resw
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\de\System.Spatial.resw
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\es\System.Spatial.resw
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\fr\System.Spatial.resw
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\it\System.Spatial.resw
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\ja\System.Spatial.resw
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\ko\System.Spatial.resw
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\ru\System.Spatial.resw
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\zh-Hans\System.Spatial.resw
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\zh-Hant\System.Spatial.resw
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\hlin_v01.WindowsPhone.csproj.GenerateResource.Cache
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm.pri
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\qualifiers.txt
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData.pri
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\qualifiers.txt
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.WindowsAzure.Mobile.pri
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.WindowsAzure.Mobile\qualifiers.txt
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial.pri
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\qualifiers.txt
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\priconfig.xml
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\priconfig.xml.intermediate
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\layout.resfiles
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\layout.resfiles.intermediate
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\resources.resfiles
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\resources.resfiles.intermediate
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\pri.resfiles
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\pri.resfiles.intermediate
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\qualifiers.txt
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\qualifiers.txt.intermediate
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\MultipleQualifiersPerDimensionFound.txt
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\ProjectArchitectures.txt
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\layout.resfiles
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\layout.resfiles.intermediate
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\Resources.resfiles
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\Resources.resfiles.intermediate
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\pri.resfiles
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\pri.resfiles.intermediate
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\priconfig.xml
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\priconfig.xml.intermediate
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\layout.resfiles
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\layout.resfiles.intermediate
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\Resources.resfiles
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\Resources.resfiles.intermediate
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\pri.resfiles
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\pri.resfiles.intermediate
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\priconfig.xml
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\priconfig.xml.intermediate
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.WindowsAzure.Mobile\layout.resfiles
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.WindowsAzure.Mobile\layout.resfiles.intermediate
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.WindowsAzure.Mobile\Resources.resfiles
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.WindowsAzure.Mobile\Resources.resfiles.intermediate
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.WindowsAzure.Mobile\pri.resfiles
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.WindowsAzure.Mobile\pri.resfiles.intermediate
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.WindowsAzure.Mobile\priconfig.xml
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.WindowsAzure.Mobile\priconfig.xml.intermediate
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\layout.resfiles
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\layout.resfiles.intermediate
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\Resources.resfiles
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\Resources.resfiles.intermediate
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\pri.resfiles
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\pri.resfiles.intermediate
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\priconfig.xml
+B:\N I I T®\MISC\hlin_alpha_final_version_windows_phone\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\priconfig.xml.intermediate
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\hlin_v01.WindowsPhone.exe.config
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\App.xbf
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\entry.xbf
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\feedback.xbf
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\lock_form.xbf
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\MainPage.xbf
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\savedKeys.xbf
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\userkey.xbf
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\hlin_v01.WindowsPhone.xr.xml
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\hlin_v01.WindowsPhone.exe
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\hlin_v01.WindowsPhone.pdb
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\resources.pri
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\AppxManifest.xml
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\hlin_v01.WindowsPhone.build.appxrecipe
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\Microsoft.Data.Edm.dll
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\Microsoft.Data.OData.dll
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\Microsoft.WindowsAzure.Mobile.dll
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\Microsoft.WindowsAzure.Mobile.Ext.dll
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\Microsoft.WindowsAzure.Storage.dll
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\Newtonsoft.Json.dll
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\System.Net.Http.Extensions.dll
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\System.Net.Http.Primitives.dll
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\System.Spatial.dll
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\Microsoft.Data.Edm.xml
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\Microsoft.Data.OData.xml
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\Microsoft.WindowsAzure.Mobile.xml
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\Microsoft.WindowsAzure.Mobile.Ext.xml
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\Microsoft.WindowsAzure.Storage.pdb
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\Newtonsoft.Json.xml
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\System.Net.Http.Extensions.xml
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\System.Net.Http.Primitives.xml
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\System.Spatial.xml
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\de\Microsoft.Data.Edm.resources.dll
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\es\Microsoft.Data.Edm.resources.dll
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\fr\Microsoft.Data.Edm.resources.dll
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\it\Microsoft.Data.Edm.resources.dll
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\ja\Microsoft.Data.Edm.resources.dll
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\ko\Microsoft.Data.Edm.resources.dll
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\ru\Microsoft.Data.Edm.resources.dll
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\zh-Hans\Microsoft.Data.Edm.resources.dll
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\zh-Hant\Microsoft.Data.Edm.resources.dll
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\de\Microsoft.Data.OData.resources.dll
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\es\Microsoft.Data.OData.resources.dll
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\fr\Microsoft.Data.OData.resources.dll
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\it\Microsoft.Data.OData.resources.dll
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\ja\Microsoft.Data.OData.resources.dll
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\ko\Microsoft.Data.OData.resources.dll
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\ru\Microsoft.Data.OData.resources.dll
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\zh-Hans\Microsoft.Data.OData.resources.dll
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\zh-Hant\Microsoft.Data.OData.resources.dll
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\de\System.Spatial.resources.dll
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\es\System.Spatial.resources.dll
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\fr\System.Spatial.resources.dll
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\it\System.Spatial.resources.dll
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\ja\System.Spatial.resources.dll
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\ko\System.Spatial.resources.dll
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\ru\System.Spatial.resources.dll
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\zh-Hans\System.Spatial.resources.dll
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\zh-Hant\System.Spatial.resources.dll
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\App.g.i.cs
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\App.g.cs
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\entry.g.i.cs
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\entry.g.cs
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\feedback.g.i.cs
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\feedback.g.cs
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\lock_form.g.i.cs
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\lock_form.g.cs
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\MainPage.g.i.cs
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\MainPage.g.cs
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\savedKeys.g.i.cs
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\savedKeys.g.cs
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\userkey.g.i.cs
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\userkey.g.cs
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\XamlTypeInfo.g.cs
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\App.xaml
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\entry.xaml
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\feedback.xaml
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\lock_form.xaml
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\MainPage.xaml
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\savedKeys.xaml
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\userkey.xaml
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\App.xbf
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\entry.xbf
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\feedback.xbf
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\lock_form.xbf
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\MainPage.xbf
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\savedKeys.xbf
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\userkey.xbf
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\XamlSaveStateFile.xml
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\hlin_v01.WindowsPhone.exe
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\hlin_v01.WindowsPhone.pdb
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\en-US\Microsoft.Data.Edm.resw
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\de\Microsoft.Data.Edm.resw
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\es\Microsoft.Data.Edm.resw
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\fr\Microsoft.Data.Edm.resw
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\it\Microsoft.Data.Edm.resw
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\ja\Microsoft.Data.Edm.resw
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\ko\Microsoft.Data.Edm.resw
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\ru\Microsoft.Data.Edm.resw
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\zh-Hans\Microsoft.Data.Edm.resw
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\zh-Hant\Microsoft.Data.Edm.resw
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\en-US\Microsoft.Data.OData.resw
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\de\Microsoft.Data.OData.resw
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\es\Microsoft.Data.OData.resw
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\fr\Microsoft.Data.OData.resw
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\it\Microsoft.Data.OData.resw
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\ja\Microsoft.Data.OData.resw
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\ko\Microsoft.Data.OData.resw
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\ru\Microsoft.Data.OData.resw
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\zh-Hans\Microsoft.Data.OData.resw
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\zh-Hant\Microsoft.Data.OData.resw
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.WindowsAzure.Mobile\en-US\Microsoft.WindowsAzure.MobileServices.Resources.resw
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\en-US\System.Spatial.resw
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\de\System.Spatial.resw
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\es\System.Spatial.resw
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\fr\System.Spatial.resw
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\it\System.Spatial.resw
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\ja\System.Spatial.resw
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\ko\System.Spatial.resw
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\ru\System.Spatial.resw
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\zh-Hans\System.Spatial.resw
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\zh-Hant\System.Spatial.resw
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\hlin_v01.WindowsPhone.csproj.GenerateResource.Cache
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm.pri
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\qualifiers.txt
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData.pri
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\qualifiers.txt
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.WindowsAzure.Mobile.pri
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.WindowsAzure.Mobile\qualifiers.txt
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial.pri
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\qualifiers.txt
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\priconfig.xml
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\priconfig.xml.intermediate
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\layout.resfiles
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\layout.resfiles.intermediate
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\resources.resfiles
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\resources.resfiles.intermediate
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\pri.resfiles
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\pri.resfiles.intermediate
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\qualifiers.txt
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\qualifiers.txt.intermediate
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\MultipleQualifiersPerDimensionFound.txt
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\ProjectArchitectures.txt
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\layout.resfiles
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\layout.resfiles.intermediate
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\Resources.resfiles
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\Resources.resfiles.intermediate
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\pri.resfiles
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\pri.resfiles.intermediate
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\priconfig.xml
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\priconfig.xml.intermediate
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\layout.resfiles
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\layout.resfiles.intermediate
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\Resources.resfiles
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\Resources.resfiles.intermediate
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\pri.resfiles
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\pri.resfiles.intermediate
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\priconfig.xml
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\priconfig.xml.intermediate
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.WindowsAzure.Mobile\layout.resfiles
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.WindowsAzure.Mobile\layout.resfiles.intermediate
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.WindowsAzure.Mobile\Resources.resfiles
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.WindowsAzure.Mobile\Resources.resfiles.intermediate
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.WindowsAzure.Mobile\pri.resfiles
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.WindowsAzure.Mobile\pri.resfiles.intermediate
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.WindowsAzure.Mobile\priconfig.xml
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.WindowsAzure.Mobile\priconfig.xml.intermediate
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\layout.resfiles
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\layout.resfiles.intermediate
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\Resources.resfiles
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\Resources.resfiles.intermediate
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\pri.resfiles
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\pri.resfiles.intermediate
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\priconfig.xml
+B:\N I I T®\MISC\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\priconfig.xml.intermediate
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\hlin_v01.WindowsPhone.exe.config
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\App.xbf
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\entry.xbf
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\feedback.xbf
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\lock_form.xbf
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\MainPage.xbf
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\savedKeys.xbf
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\userkey.xbf
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\hlin_v01.WindowsPhone.xr.xml
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\hlin_v01.WindowsPhone.exe
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\hlin_v01.WindowsPhone.pdb
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\resources.pri
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\AppxManifest.xml
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\hlin_v01.WindowsPhone.build.appxrecipe
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\Microsoft.Data.Edm.dll
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\Microsoft.Data.OData.dll
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\Microsoft.WindowsAzure.Storage.dll
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\Newtonsoft.Json.dll
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\System.Net.Http.Extensions.dll
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\System.Net.Http.Primitives.dll
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\System.Spatial.dll
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\Microsoft.Data.Edm.xml
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\Microsoft.Data.OData.xml
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\Newtonsoft.Json.xml
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\System.Net.Http.Extensions.xml
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\System.Net.Http.Primitives.xml
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\System.Spatial.xml
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\de\Microsoft.Data.Edm.resources.dll
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\es\Microsoft.Data.Edm.resources.dll
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\it\Microsoft.Data.Edm.resources.dll
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\de\Microsoft.Data.OData.resources.dll
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\es\Microsoft.Data.OData.resources.dll
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\fr\Microsoft.Data.OData.resources.dll
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\it\Microsoft.Data.OData.resources.dll
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\ja\Microsoft.Data.OData.resources.dll
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\ko\Microsoft.Data.OData.resources.dll
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\ru\Microsoft.Data.OData.resources.dll
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\de\System.Spatial.resources.dll
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\es\System.Spatial.resources.dll
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\fr\System.Spatial.resources.dll
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\it\System.Spatial.resources.dll
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\ja\System.Spatial.resources.dll
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\ko\System.Spatial.resources.dll
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\ru\System.Spatial.resources.dll
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\zh-Hans\System.Spatial.resources.dll
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\zh-Hant\System.Spatial.resources.dll
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\hlin_v01.WindowsPhone.csprojResolveAssemblyReference.cache
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\App.g.i.cs
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\App.g.cs
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\entry.g.i.cs
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\entry.g.cs
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\feedback.g.i.cs
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\feedback.g.cs
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\lock_form.g.i.cs
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\lock_form.g.cs
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\MainPage.g.i.cs
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\MainPage.g.cs
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\savedKeys.g.i.cs
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\savedKeys.g.cs
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\userkey.g.i.cs
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\userkey.g.cs
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\XamlTypeInfo.g.cs
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\App.xaml
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\entry.xaml
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\lock_form.xaml
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\MainPage.xaml
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\savedKeys.xaml
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\userkey.xaml
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\App.xbf
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\entry.xbf
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\lock_form.xbf
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\MainPage.xbf
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\savedKeys.xbf
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\userkey.xbf
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\XamlSaveStateFile.xml
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\feedback.xaml
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\feedback.xbf
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\hlin_v01.WindowsPhone.exe
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\hlin_v01.WindowsPhone.pdb
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\en-US\Microsoft.Data.Edm.resw
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\de\Microsoft.Data.Edm.resw
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\es\Microsoft.Data.Edm.resw
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\fr\Microsoft.Data.Edm.resw
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\it\Microsoft.Data.Edm.resw
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\ja\Microsoft.Data.Edm.resw
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\ko\Microsoft.Data.Edm.resw
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\ru\Microsoft.Data.Edm.resw
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\zh-Hans\Microsoft.Data.Edm.resw
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\zh-Hant\Microsoft.Data.Edm.resw
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\en-US\Microsoft.Data.OData.resw
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\de\Microsoft.Data.OData.resw
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\es\Microsoft.Data.OData.resw
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\fr\Microsoft.Data.OData.resw
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\it\Microsoft.Data.OData.resw
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\ja\Microsoft.Data.OData.resw
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\ko\Microsoft.Data.OData.resw
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\ru\Microsoft.Data.OData.resw
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\zh-Hans\Microsoft.Data.OData.resw
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\zh-Hant\Microsoft.Data.OData.resw
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.WindowsAzure.Mobile\en-US\Microsoft.WindowsAzure.MobileServices.Resources.resw
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\en-US\System.Spatial.resw
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\de\System.Spatial.resw
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\es\System.Spatial.resw
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\fr\System.Spatial.resw
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\it\System.Spatial.resw
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\ja\System.Spatial.resw
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\ko\System.Spatial.resw
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\ru\System.Spatial.resw
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\zh-Hans\System.Spatial.resw
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\zh-Hant\System.Spatial.resw
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\hlin_v01.WindowsPhone.csproj.GenerateResource.Cache
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\layout.resfiles
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\layout.resfiles.intermediate
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\Resources.resfiles
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\Resources.resfiles.intermediate
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\pri.resfiles
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\pri.resfiles.intermediate
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\priconfig.xml
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\priconfig.xml.intermediate
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm.pri
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\qualifiers.txt
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\layout.resfiles
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\layout.resfiles.intermediate
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\Resources.resfiles
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\Resources.resfiles.intermediate
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\pri.resfiles
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\pri.resfiles.intermediate
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\priconfig.xml
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\priconfig.xml.intermediate
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData.pri
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\qualifiers.txt
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.WindowsAzure.Mobile\layout.resfiles
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.WindowsAzure.Mobile\layout.resfiles.intermediate
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.WindowsAzure.Mobile\Resources.resfiles
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.WindowsAzure.Mobile\Resources.resfiles.intermediate
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.WindowsAzure.Mobile\pri.resfiles
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.WindowsAzure.Mobile\pri.resfiles.intermediate
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.WindowsAzure.Mobile\priconfig.xml
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.WindowsAzure.Mobile\priconfig.xml.intermediate
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.WindowsAzure.Mobile.pri
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.WindowsAzure.Mobile\qualifiers.txt
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\layout.resfiles
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\layout.resfiles.intermediate
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\Resources.resfiles
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\Resources.resfiles.intermediate
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\pri.resfiles
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\pri.resfiles.intermediate
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\priconfig.xml
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\priconfig.xml.intermediate
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial.pri
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\qualifiers.txt
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\priconfig.xml
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\priconfig.xml.intermediate
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\layout.resfiles
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\layout.resfiles.intermediate
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\resources.resfiles
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\resources.resfiles.intermediate
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\pri.resfiles
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\pri.resfiles.intermediate
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\qualifiers.txt
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\qualifiers.txt.intermediate
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\loga\Desktop\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\ProjectArchitectures.txt
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\hlin_v01.WindowsPhone.exe.config
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\App.xbf
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\entry.xbf
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\feedback.xbf
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\lock_form.xbf
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\MainPage.xbf
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\savedKeys.xbf
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\userkey.xbf
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\hlin_v01.WindowsPhone.xr.xml
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\hlin_v01.WindowsPhone.exe
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\hlin_v01.WindowsPhone.pdb
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\resources.pri
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\AppxManifest.xml
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\hlin_v01.WindowsPhone.build.appxrecipe
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\Microsoft.Data.Edm.dll
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\Microsoft.Data.OData.dll
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\Microsoft.WindowsAzure.Storage.dll
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\Newtonsoft.Json.dll
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\System.Net.Http.Extensions.dll
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\System.Net.Http.Primitives.dll
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\System.Spatial.dll
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\Microsoft.Data.Edm.xml
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\Microsoft.Data.OData.xml
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\Newtonsoft.Json.xml
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\System.Net.Http.Extensions.xml
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\System.Net.Http.Primitives.xml
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\System.Spatial.xml
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\de\Microsoft.Data.Edm.resources.dll
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\es\Microsoft.Data.Edm.resources.dll
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\it\Microsoft.Data.Edm.resources.dll
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\de\Microsoft.Data.OData.resources.dll
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\es\Microsoft.Data.OData.resources.dll
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\fr\Microsoft.Data.OData.resources.dll
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\it\Microsoft.Data.OData.resources.dll
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\ja\Microsoft.Data.OData.resources.dll
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\ko\Microsoft.Data.OData.resources.dll
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\ru\Microsoft.Data.OData.resources.dll
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\de\System.Spatial.resources.dll
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\es\System.Spatial.resources.dll
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\fr\System.Spatial.resources.dll
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\it\System.Spatial.resources.dll
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\ja\System.Spatial.resources.dll
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\ko\System.Spatial.resources.dll
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\ru\System.Spatial.resources.dll
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\zh-Hans\System.Spatial.resources.dll
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\zh-Hant\System.Spatial.resources.dll
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\hlin_v01.WindowsPhone.csprojResolveAssemblyReference.cache
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\App.g.i.cs
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\App.g.cs
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\entry.g.i.cs
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\entry.g.cs
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\feedback.g.i.cs
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\feedback.g.cs
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\lock_form.g.i.cs
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\lock_form.g.cs
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\MainPage.g.i.cs
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\MainPage.g.cs
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\savedKeys.g.i.cs
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\savedKeys.g.cs
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\userkey.g.i.cs
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\userkey.g.cs
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\XamlTypeInfo.g.cs
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\App.xaml
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\entry.xaml
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\feedback.xaml
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\lock_form.xaml
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\MainPage.xaml
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\savedKeys.xaml
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\userkey.xaml
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\App.xbf
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\entry.xbf
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\feedback.xbf
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\lock_form.xbf
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\MainPage.xbf
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\savedKeys.xbf
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\userkey.xbf
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\XamlSaveStateFile.xml
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\hlin_v01.WindowsPhone.exe
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\hlin_v01.WindowsPhone.pdb
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\en-US\Microsoft.Data.Edm.resw
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\de\Microsoft.Data.Edm.resw
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\es\Microsoft.Data.Edm.resw
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\fr\Microsoft.Data.Edm.resw
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\it\Microsoft.Data.Edm.resw
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\ja\Microsoft.Data.Edm.resw
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\ko\Microsoft.Data.Edm.resw
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\ru\Microsoft.Data.Edm.resw
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\zh-Hans\Microsoft.Data.Edm.resw
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\zh-Hant\Microsoft.Data.Edm.resw
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\en-US\Microsoft.Data.OData.resw
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\de\Microsoft.Data.OData.resw
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\es\Microsoft.Data.OData.resw
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\fr\Microsoft.Data.OData.resw
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\it\Microsoft.Data.OData.resw
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\ja\Microsoft.Data.OData.resw
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\ko\Microsoft.Data.OData.resw
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\ru\Microsoft.Data.OData.resw
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\zh-Hans\Microsoft.Data.OData.resw
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\zh-Hant\Microsoft.Data.OData.resw
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\en-US\Microsoft.WindowsAzure.MobileServices.Resources.resw
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\en-US\System.Spatial.resw
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\de\System.Spatial.resw
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\es\System.Spatial.resw
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\fr\System.Spatial.resw
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\it\System.Spatial.resw
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\ja\System.Spatial.resw
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\ko\System.Spatial.resw
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\ru\System.Spatial.resw
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\zh-Hans\System.Spatial.resw
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\zh-Hant\System.Spatial.resw
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\hlin_v01.WindowsPhone.csproj.GenerateResource.Cache
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\layout.resfiles
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\layout.resfiles.intermediate
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\Resources.resfiles
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\Resources.resfiles.intermediate
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\pri.resfiles
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\pri.resfiles.intermediate
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\priconfig.xml
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\priconfig.xml.intermediate
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm.pri
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\qualifiers.txt
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\layout.resfiles
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\layout.resfiles.intermediate
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\Resources.resfiles
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\Resources.resfiles.intermediate
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\pri.resfiles
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\pri.resfiles.intermediate
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\priconfig.xml
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\priconfig.xml.intermediate
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData.pri
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\qualifiers.txt
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.WindowsAzure.Mobile\layout.resfiles
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.WindowsAzure.Mobile\layout.resfiles.intermediate
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.WindowsAzure.Mobile\Resources.resfiles
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.WindowsAzure.Mobile\Resources.resfiles.intermediate
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.WindowsAzure.Mobile\pri.resfiles
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.WindowsAzure.Mobile\pri.resfiles.intermediate
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.WindowsAzure.Mobile\priconfig.xml
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.WindowsAzure.Mobile\priconfig.xml.intermediate
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.WindowsAzure.Mobile.pri
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.WindowsAzure.Mobile\qualifiers.txt
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\layout.resfiles
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\layout.resfiles.intermediate
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\Resources.resfiles
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\Resources.resfiles.intermediate
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\pri.resfiles
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\pri.resfiles.intermediate
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\priconfig.xml
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\priconfig.xml.intermediate
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial.pri
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\qualifiers.txt
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\priconfig.xml
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\priconfig.xml.intermediate
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\layout.resfiles
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\layout.resfiles.intermediate
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\resources.resfiles
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\resources.resfiles.intermediate
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\pri.resfiles
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\pri.resfiles.intermediate
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\qualifiers.txt
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\qualifiers.txt.intermediate
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlinex_beta_windowsPhone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\ProjectArchitectures.txt
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\hlin_v01.WindowsPhone.exe.config
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\App.xbf
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\entry.xbf
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\feedback.xbf
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\lock_form.xbf
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\MainPage.xbf
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\savedKeys.xbf
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\userkey.xbf
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\hlin_v01.WindowsPhone.xr.xml
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\hlin_v01.WindowsPhone.exe
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\hlin_v01.WindowsPhone.pdb
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\resources.pri
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\AppxManifest.xml
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\hlin_v01.WindowsPhone.build.appxrecipe
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\Microsoft.Data.Edm.dll
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\Microsoft.Data.OData.dll
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\Microsoft.WindowsAzure.Storage.dll
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\Newtonsoft.Json.dll
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\System.Net.Http.Extensions.dll
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\System.Net.Http.Primitives.dll
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\System.Spatial.dll
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\Microsoft.Data.Edm.xml
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\Microsoft.Data.OData.xml
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\Newtonsoft.Json.xml
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\System.Net.Http.Extensions.xml
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\System.Net.Http.Primitives.xml
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\System.Spatial.xml
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\de\Microsoft.Data.Edm.resources.dll
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\es\Microsoft.Data.Edm.resources.dll
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\it\Microsoft.Data.Edm.resources.dll
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\de\Microsoft.Data.OData.resources.dll
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\es\Microsoft.Data.OData.resources.dll
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\fr\Microsoft.Data.OData.resources.dll
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\it\Microsoft.Data.OData.resources.dll
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\ja\Microsoft.Data.OData.resources.dll
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\ko\Microsoft.Data.OData.resources.dll
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\ru\Microsoft.Data.OData.resources.dll
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\de\System.Spatial.resources.dll
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\es\System.Spatial.resources.dll
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\fr\System.Spatial.resources.dll
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\it\System.Spatial.resources.dll
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\ja\System.Spatial.resources.dll
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\ko\System.Spatial.resources.dll
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\ru\System.Spatial.resources.dll
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\zh-Hans\System.Spatial.resources.dll
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\bin\Release\zh-Hant\System.Spatial.resources.dll
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\hlin_v01.WindowsPhone.csprojResolveAssemblyReference.cache
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\App.g.i.cs
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\App.g.cs
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\entry.g.i.cs
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\entry.g.cs
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\feedback.g.i.cs
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\feedback.g.cs
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\lock_form.g.i.cs
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\lock_form.g.cs
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\MainPage.g.i.cs
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\MainPage.g.cs
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\savedKeys.g.i.cs
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\savedKeys.g.cs
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\userkey.g.i.cs
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\userkey.g.cs
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\XamlTypeInfo.g.cs
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\App.xaml
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\entry.xaml
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\feedback.xaml
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\lock_form.xaml
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\MainPage.xaml
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\savedKeys.xaml
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\userkey.xaml
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\App.xbf
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\entry.xbf
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\feedback.xbf
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\lock_form.xbf
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\MainPage.xbf
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\savedKeys.xbf
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\userkey.xbf
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\XamlSaveStateFile.xml
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\hlin_v01.WindowsPhone.exe
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\hlin_v01.WindowsPhone.pdb
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\en-US\Microsoft.Data.Edm.resw
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\de\Microsoft.Data.Edm.resw
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\es\Microsoft.Data.Edm.resw
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\fr\Microsoft.Data.Edm.resw
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\it\Microsoft.Data.Edm.resw
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\ja\Microsoft.Data.Edm.resw
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\ko\Microsoft.Data.Edm.resw
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\ru\Microsoft.Data.Edm.resw
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\zh-Hans\Microsoft.Data.Edm.resw
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\zh-Hant\Microsoft.Data.Edm.resw
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\en-US\Microsoft.Data.OData.resw
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\de\Microsoft.Data.OData.resw
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\es\Microsoft.Data.OData.resw
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\fr\Microsoft.Data.OData.resw
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\it\Microsoft.Data.OData.resw
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\ja\Microsoft.Data.OData.resw
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\ko\Microsoft.Data.OData.resw
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\ru\Microsoft.Data.OData.resw
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\zh-Hans\Microsoft.Data.OData.resw
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\zh-Hant\Microsoft.Data.OData.resw
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.WindowsAzure.Mobile\en-US\Microsoft.WindowsAzure.MobileServices.Resources.resw
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\en-US\System.Spatial.resw
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\de\System.Spatial.resw
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\es\System.Spatial.resw
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\fr\System.Spatial.resw
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\it\System.Spatial.resw
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\ja\System.Spatial.resw
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\ko\System.Spatial.resw
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\ru\System.Spatial.resw
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\zh-Hans\System.Spatial.resw
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\zh-Hant\System.Spatial.resw
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\hlin_v01.WindowsPhone.csproj.GenerateResource.Cache
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm.pri
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\qualifiers.txt
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData.pri
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\qualifiers.txt
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.WindowsAzure.Mobile.pri
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.WindowsAzure.Mobile\qualifiers.txt
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial.pri
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\qualifiers.txt
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\priconfig.xml
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\priconfig.xml.intermediate
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\layout.resfiles
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\layout.resfiles.intermediate
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\resources.resfiles
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\resources.resfiles.intermediate
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\pri.resfiles
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\pri.resfiles.intermediate
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\qualifiers.txt
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\qualifiers.txt.intermediate
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\ProjectArchitectures.txt
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\layout.resfiles
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\layout.resfiles.intermediate
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\Resources.resfiles
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\Resources.resfiles.intermediate
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\pri.resfiles
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\pri.resfiles.intermediate
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\priconfig.xml
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.Edm\priconfig.xml.intermediate
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\layout.resfiles
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\layout.resfiles.intermediate
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\Resources.resfiles
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\Resources.resfiles.intermediate
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\pri.resfiles
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\pri.resfiles.intermediate
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\priconfig.xml
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.Data.OData\priconfig.xml.intermediate
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.WindowsAzure.Mobile\layout.resfiles
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.WindowsAzure.Mobile\layout.resfiles.intermediate
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.WindowsAzure.Mobile\Resources.resfiles
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.WindowsAzure.Mobile\Resources.resfiles.intermediate
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.WindowsAzure.Mobile\pri.resfiles
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.WindowsAzure.Mobile\pri.resfiles.intermediate
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.WindowsAzure.Mobile\priconfig.xml
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\Microsoft.WindowsAzure.Mobile\priconfig.xml.intermediate
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\layout.resfiles
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\layout.resfiles.intermediate
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\Resources.resfiles
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\Resources.resfiles.intermediate
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\pri.resfiles
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\pri.resfiles.intermediate
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\priconfig.xml
+C:\Users\loga\Desktop\hlin_v02_beta_final\hlin_v01\hlin_v01\hlin_v01.WindowsPhone\obj\Release\System.Spatial\priconfig.xml.intermediate

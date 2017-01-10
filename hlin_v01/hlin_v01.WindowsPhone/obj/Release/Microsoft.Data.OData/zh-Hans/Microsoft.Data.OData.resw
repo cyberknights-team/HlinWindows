@@ -1,0 +1,2978 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ExceptionUtils_CheckLongPositive" xml:space="preserve">
+    <value>需要正 Long 类型值；但值“{0}”不是有效的正 Long 类型值。</value>
+  </data>
+  <data name="ODataJsonLightDeserializer_OnlyODataTypeAnnotationCanTargetInstanceAnnotation" xml:space="preserve">
+    <value>批注“{0}”针对的是实例批注“{1}”。只允许“{2}”批注针对实例批注。</value>
+  </data>
+  <data name="PathParser_ServiceOperationsWithSameName" xml:space="preserve">
+    <value>找到了多个名称为“{0}”的 Service Operations。一个模型中只能有一个具有给定名称的 Service Operations。</value>
+  </data>
+  <data name="ODataAtomServiceDocumentDeserializer_MissingWorkspaceElement" xml:space="preserve">
+    <value>服务文档缺少“workspace”元素。一个服务文档必须包含单个 {http://www.w3.org/2007/app}:workspace 元素。</value>
+  </data>
+  <data name="ODataAtomEntryAndFeedDeserializer_FeedElementWrongName" xml:space="preserve">
+    <value>在命名空间“{1}”中找到了名为“{0}”的元素；但此处应为馈送。馈送必须表示为 {{http://www.w3.org/2005/Atom}}:feed 元素。</value>
+  </data>
+  <data name="ODataEntryMetadataContext_NullKeyValue" xml:space="preserve">
+    <value>类型“{1}”上的键属性“{0}”具有 Null 值。键属性不得包含 Null 值。</value>
+  </data>
+  <data name="ODataJsonLightMetadataUriBuilder_TypeNameMissingForTopLevelCollectionWhenWritingResponsePayload" xml:space="preserve">
+    <value>顶级集合的集合类型名称是未知的。写入 JSON 响应时，必须将项类型传递到 ODataMessageWriter.CreateCollectionWriter 方法或必须在 ODataCollectionStart 上设置 ODataCollectionStartSerializationInfo。</value>
+  </data>
+  <data name="ODataAtomServiceDocumentDeserializer_UnexpectedElementInWorkspace" xml:space="preserve">
+    <value>在命名空间“http://www.w3.org/2007/app”中找到了名为“{0}”的元素。工作区元素只能包含 {{http://www.w3.org/2005/Atom}}:title 元素、扩展元素和 {{http://www.w3.org/2007/app}}:collection 元素。</value>
+  </data>
+  <data name="ODataWriterCore_WriteEndCalledInInvalidState" xml:space="preserve">
+    <value>在无效状态(“{0}”)下调用了 ODataWriter.WriteEnd；仅在“Entry”、“Feed”、“NavigationLink”和“NavigationLinkWithContent”状态下支持 WriteEnd。</value>
+  </data>
+  <data name="ODataJsonLightEntryAndFeedDeserializer_DuplicateExpandedFeedAnnotation" xml:space="preserve">
+    <value>读取扩展导航链接“{1}”时找到多个属性批注“{0}”。只能为一个扩展导航链接指定一个属性批注“{0}”。</value>
+  </data>
+  <data name="ODataAtomPropertyAndValueDeserializer_InvalidCollectionElement" xml:space="preserve">
+    <value>名为“{0}”的元素不是有效的集合项。该集合项元素的名称必须是“element”，并且必须属于“{1}”命名空间。</value>
+  </data>
+  <data name="ValidationUtils_IncorrectTypeKind" xml:space="preserve">
+    <value>找到了不兼容的类型种类。发现类型“{0}”属于种类“{2}”，而非预期种类“{1}”。</value>
+  </data>
+  <data name="ODataAtomEntryAndFeedDeserializer_StreamPropertyWithMultipleReadLinks" xml:space="preserve">
+    <value>为流属性“{0}”找到了多个读取链接。对于某一给定的流属性，仅允许一个读取链接。</value>
+  </data>
+  <data name="WriterValidationUtils_NavigationLinkMustSpecifyIsCollection" xml:space="preserve">
+    <value>导航链接“{0}”上的 ODataNavigationLink.IsCollection 属性为 Null。将链接写入到请求中时，必须指定 ODataNavigationLink.IsCollection 属性。</value>
+  </data>
+  <data name="MetadataBinder_KeywordNotSupportedInThisRelease" xml:space="preserve">
+    <value>在此版本中不支持“{0}”查询。</value>
+  </data>
+  <data name="JsonReader_MultipleTopLevelValues" xml:space="preserve">
+    <value>无效的 JSON。在 JSON 内容的根处找到了多个值。JSON 内容在根级别只能具有一个值，该值可以是数组、对象或基元值。</value>
+  </data>
+  <data name="EpmExtensionMethods_AttributeNotAllowedForAtomPubMappingOnType" xml:space="preserve">
+    <value>如果某个属性映射到 AtomPub 元素，则不允许对类型“{1}”使用“{0}”特性。</value>
+  </data>
+  <data name="ODataJsonReader_CannotReadFeedStart" xml:space="preserve">
+    <value>在尝试读取源的开头时从 JSON 读取器读取了“{0}”类型的节点。应为“StartObject”或“StartArray”节点。</value>
+  </data>
+  <data name="ODataVersionChecker_GeographyAndGeometryNotSupported" xml:space="preserve">
+    <value>仅在 OData 协议的 3.0 版本和更高版本中支持 Geography 和 Geometry 类型。在版本 {0} 中不支持这些类型。</value>
+  </data>
+  <data name="ODataJsonLightMetadataUriParser_InvalidEntityReferenceLinkUriSuffix" xml:space="preserve">
+    <value>元数据 URI“{0}”以后缀“{1}”结尾。但是，包含集合导航属性的实体引用链接的元数据 URI 必须以“{2}”结尾。</value>
+  </data>
+  <data name="ODataBatchWriter_DuplicateContentIDsNotAllowed" xml:space="preserve">
+    <value>在同一个变更集中多次找到了内容 ID“{0}”。内容 ID 在一个变更集的所有操作中必须唯一。</value>
+  </data>
+  <data name="ODataWriterCore_InvalidTransitionFromStart" xml:space="preserve">
+    <value>无法从状态“{0}”转换到状态“{1}”。状态“{0}”下的有效操作仅是写入入口或馈送。</value>
+  </data>
+  <data name="JsonReader_EndOfInputWithOpenScope" xml:space="preserve">
+    <value>无效的 JSON。JSON 内容中的输入意外结束。不是所有对象和数组范围都已关闭。</value>
+  </data>
+  <data name="RequestUriProcessor_TargetEntitySetNotFound" xml:space="preserve">
+    <value>找不到导航属性“{0}”的目标实体集。很可能 IEdmModel 中出错。</value>
+  </data>
+  <data name="ODataAtomEntryAndFeedDeserializer_MultipleLinksInEntry" xml:space="preserve">
+    <value>在一个条目中发现具有“{0}”关系的多个 'link' 元素。在 Odata 中，最多只允许一个具有“{0}”关系的 link 元素。</value>
+  </data>
+  <data name="ReaderValidationUtils_MetadataUriValidationNonMatchingPropertyDeclaringTypes" xml:space="preserve">
+    <value>元数据 URI“{0}”引用类型“{2}”上名为“{1}”的属性；但是，使用相同名称的预期属性是在“{3}”类型上声明的。</value>
+  </data>
+  <data name="ODataJsonLightEntityReferenceLinkDeserializer_EntityReferenceLinkUrlCannotBeNull" xml:space="preserve">
+    <value>实体引用链接对象的“{0}”属性不能具有 Null 值。</value>
+  </data>
+  <data name="QueryOptionUtils_QueryParameterMustBeSpecifiedOnce" xml:space="preserve">
+    <value>多次指定了查询选项“{0}”，但是它最多只能指定一次。</value>
+  </data>
+  <data name="ExceptionUtils_ArgumentStringNullOrEmpty" xml:space="preserve">
+    <value>值不能为 null 或为空。</value>
+  </data>
+  <data name="ValidationUtils_NavigationPropertyExpected" xml:space="preserve">
+    <value>类型“{1}”上名为“{0}”的属性具有种类“{2}”，但它应为“Navigation”种类。</value>
+  </data>
+  <data name="UriQueryPathParser_SyntaxError" xml:space="preserve">
+    <value>错误的请求: 查询语法中存在错误。</value>
+  </data>
+  <data name="ODataWriterCore_InvalidTransitionFromError" xml:space="preserve">
+    <value>无法从状态“{0}”转换到状态“{1}”。在编写器进入错误状态后，将无法写入任何内容。</value>
+  </data>
+  <data name="ODataWriterCore_InvalidTransitionFromEntry" xml:space="preserve">
+    <value>无法从状态“{0}”转换到状态“{1}”。状态“{0}”中的唯一有效操作是写入导航链接。</value>
+  </data>
+  <data name="ReaderValidationUtils_NullNamedValueForNonNullableType" xml:space="preserve">
+    <value>找到了名为“{0}”的属性的 null 值，该属性的预期类型为“{1}[Nullable=False]”。预期类型“{1}[Nullable=False]”不允许 null 值。</value>
+  </data>
+  <data name="WriterValidationUtils_ResourceCollectionMustHaveUniqueName" xml:space="preserve">
+    <value>检测到重复值“{0}”作为资源集合的名称。资源集合在给定工作区中必须具有唯一名称。</value>
+  </data>
+  <data name="AtomInstanceAnnotation_MultipleAttributeValueNotationAttributes" xml:space="preserve">
+    <value>遇到具有来自以下集合的多个特性的 "annotation" 元素: "int"、"string"、"decimal"、"float" 和 "bool"。只有一个这样的特性可以出现在 "annotation" 元素上。</value>
+  </data>
+  <data name="ODataJsonOperationsDeserializerUtils_MetadataMustHaveArrayValue" xml:space="preserve">
+    <value>在开始读取“{2}”中的“{0}”属性的值时找到了“{1}”类型的节点；但应为 "StartArray" 类型的节点。“{2}”操作对象中的每个属性的值必须是数组值。</value>
+  </data>
+  <data name="ODataAtomWriterMetadataUtils_AuthorMetadataMustNotContainNull" xml:space="preserve">
+    <value>在“AtomEntryMetadata.Authors”Enumerable 中检测到一个 null 值；作者元数据不支持 null 值。</value>
+  </data>
+  <data name="ODataJsonPropertyAndValueDeserializer_CollectionWithoutResults" xml:space="preserve">
+    <value>找到了没有“results”属性的集合。在 OData 中，每个集合都必须表示为具有属性“results”的 JSON 对象。</value>
+  </data>
+  <data name="EpmSyndicationWriter_DateTimePropertyCanNotBeConverted" xml:space="preserve">
+    <value>与 SyndicationItemProperty 中的“{0}”属性相对应的属性值无法转换为 DateTimeOffset 类型。</value>
+  </data>
+  <data name="ODataUtils_UnexpectedIsAlwaysBindableAnnotationInANonBindableFunctionImport" xml:space="preserve">
+    <value>在非可绑定函数导入中找到具有“true”值的“IsAlwaysBindable”注释。非可绑定函数导入的“IsAlwaysBindable”注释不能为“true”。</value>
+  </data>
+  <data name="EpmTargetTree_AttributeInMiddle" xml:space="preserve">
+    <value>在 EntityPropertyMappingAttribute 的“TargetName”属性的中间提供了特性标识符“{0}”。</value>
+  </data>
+  <data name="ODataVersionChecker_CollectionPropertiesNotSupported" xml:space="preserve">
+    <value>检测到集合属性“{0}”；仅在 OData 协议的 3.0 版本和更高版本中支持集合属性。在版本 {1} 中不支持集合属性。</value>
+  </data>
+  <data name="AtomInstanceAnnotation_MissingTermAttributeOnAnnotationElement" xml:space="preserve">
+    <value>遇到缺少 "term" 特性的 "annotation" 元素。所有 "annotation" 元素必须具有 "term" 特性。</value>
+  </data>
+  <data name="ODataAtomWriterMetadataUtils_LinkMetadataMustNotContainNull" xml:space="preserve">
+    <value>在“AtomEntryMetadata.Links”Enumerable 中检测到一个 null 值；链接元数据不支持 null 值。</value>
+  </data>
+  <data name="ValidationUtils_InvalidCollectionTypeName" xml:space="preserve">
+    <value>类型名称“{0}”是无效的集合类型名称；集合类型名称必须为“Collection(&lt;itemTypeName&gt;)”格式。</value>
+  </data>
+  <data name="ReaderValidationUtils_MetadataUriValidationNonMatchingCollectionItemTypes" xml:space="preserve">
+    <value>元数据 URI“{0}”引用名为“{1}”的函数导入，该函数导入返回一个项类型为“{2}”的集合；但是，预期的生成函数导入返回的集合的项类型是“{3}”。</value>
+  </data>
+  <data name="RequestUriProcessor_BatchedActionOnEntityCreatedInSameChangeset" xml:space="preserve">
+    <value>无法调用批处理服务操作“{0}”，因为它已绑定到在同一变更集中创建的实体。</value>
+  </data>
+  <data name="ODataBatchWriter_InvalidTransitionFromOperationContentStreamDisposed" xml:space="preserve">
+    <value>检测到针对 ODataBatchWriter 的无效的方法调用。在写入操作的内容后，针对 ODataBatchWriter 的有效的方法仅为 CreateOperationRequestMessage、CreateOperationResponseMessage、WriteStartChangeset、WriteEndChangeset、WriteEndBatch 和 FlushAsync。</value>
+  </data>
+  <data name="ODataMessageReader_ProducingFunctionImportNonCollectionType" xml:space="preserve">
+    <value>集合读取器的生成函数导入“{0}”具有返回类型“{1}”。只可以将返回基元值或复杂值集合的函数导入指定为集合读取器的生成函数导入。</value>
+  </data>
+  <data name="ODataJsonEntityReferenceLinkDeserializer_EntityReferenceLinkUriCannotBeNull" xml:space="preserve">
+    <value>实体引用链接对象的“uri”属性不能具有 null 值。</value>
+  </data>
+  <data name="WriterValidationUtils_ExpandedLinkIsCollectionFalseWithFeedMetadata" xml:space="preserve">
+    <value>具有 URL 值“{0}”的 ODataNavigationLink 在其“IsCollection”属性中指定其负载是入口，但元数据将其负载声明为馈送。</value>
+  </data>
+  <data name="ODataJsonOperationsDeserializerUtils_MultipleTargetPropertiesInOperation" xml:space="preserve">
+    <value>为“{1}”中的操作“{0}”找到多个 "target" 属性。在 OData 中，一个操作必须有且仅有一个 "target" 属性。</value>
+  </data>
+  <data name="ODataExpandPath_OnlyLastSegmentMustBeNavigationProperty" xml:space="preserve">
+    <value>最后一个段(且只有此段)必须是 $expand 中的导航属性。</value>
+  </data>
+  <data name="HttpUtils_ClosingQuoteNotFound" xml:space="preserve">
+    <value>分析 HTTP 标头“{0}”时出错。位置“{2}”处的标头值“{1}”不正确，因为找不到带引号的字符串的右侧引号字符。</value>
+  </data>
+  <data name="ODataJsonReaderUtils_MultipleErrorPropertiesWithSameName" xml:space="preserve">
+    <value>在错误或内部错误对象中找到了多个“{0}”属性。在 OData 中，一个错误或内部错误最多只能有一个“{0}”属性。</value>
+  </data>
+  <data name="ExpressionLexer_InvalidCharacter" xml:space="preserve">
+    <value>语法错误: 字符“{0}”在“{2}”中的位置 {1} 处无效。</value>
+  </data>
+  <data name="ODataException_GeneralError" xml:space="preserve">
+    <value>处理 OData 消息时出错。</value>
+  </data>
+  <data name="HttpUtils_ContentTypeMissing" xml:space="preserve">
+    <value>缺少 Content-Type 标头值。</value>
+  </data>
+  <data name="ODataUriUtils_ConvertToUriLiteralUnsupportedType" xml:space="preserve">
+    <value>转换为 URI 文本时不支持“{0}”类型。</value>
+  </data>
+  <data name="ODataJsonLightPropertyAndValueDeserializer_TopLevelPropertyWithPrimitiveNullValue" xml:space="preserve">
+    <value>找到具有无效的基元 Null 值的顶级属性。在 OData 中，具有 Null 值的顶级属性必须序列化为具有包含值“{1}”的“{0}”批注的 JSON 对象。</value>
+  </data>
+  <data name="EpmExtensionMethods_AttributeNotAllowedForAtomPubMappingOnProperty" xml:space="preserve">
+    <value>如果类型“{2}”的属性“{1}”映射到某个 AtomPub 元素，则不允许对该属性使用“{0}”特性。</value>
+  </data>
+  <data name="ExpandTreeNormalizer_CallAddTermsOnUnexpandedTerms" xml:space="preserve">
+    <value>仅对已由 ExpandTerm 展开的 ExpandTermTokens 调用 AddTerms。</value>
+  </data>
+  <data name="ODataBatchReaderStream_InvalidHeaderSpecified" xml:space="preserve">
+    <value>消息标头“{0}”无效。标头值的格式必须为“&lt;header name&gt;: &lt;header value&gt;”。</value>
+  </data>
+  <data name="ODataCollectionWriterCore_CollectionNameDoesntMatchFunctionImportName" xml:space="preserve">
+    <value>要写入的集合的名称为“{0}”，而生成函数导入的名称为“{1}”。如果指定生成函数导入，则集合名称必须为 Null 或与函数导入的名称匹配。</value>
+  </data>
+  <data name="ODataBatchReaderStream_InvalidRequestLine" xml:space="preserve">
+    <value>请求行“{0}”无效。位于每个操作开头的请求行必须采用“HttpMethod RequestUrl HttpVersion”格式。</value>
+  </data>
+  <data name="ODataEntryMetadataContext_EntityTypeWithNoKeyProperties" xml:space="preserve">
+    <value>找到类型为“{0}”的 ODataEntry，它没有键属性。不使用用户模型编写时，每个条目必须包含至少一个将“ODataProperty.SerializationInfo.PropertyKind”设置为“ODataPropertyKind.Key”的属性。使用用户模型编写时，在模型中定义的实体类型“{0}”必须定义至少一个键属性。</value>
+  </data>
+  <data name="UriQueryExpressionParser_UnrecognizedLiteral" xml:space="preserve">
+    <value>“{3}”中“{2}”处的无法识别的“{0}”文本“{1}”。</value>
+  </data>
+  <data name="MetadataBinder_SpatialLengthFunctionWithInvalidArgs" xml:space="preserve">
+    <value>geo.length 函数包含的操作数的数量无效: 操作数的数量为“{0}”，但此数量应该为 1。</value>
+  </data>
+  <data name="ODataJsonCollectionDeserializer_MissingResultsPropertyForCollection" xml:space="preserve">
+    <value>在协议版本 2.0 和更高版本中对集合进行包装的对象上未找到必需的“results”属性。</value>
+  </data>
+  <data name="ODataBatchReader_CannotCreateResponseOperationWhenReadingRequest" xml:space="preserve">
+    <value>在读取批处理请求时，无法创建批处理操作响应消息。</value>
+  </data>
+  <data name="ODataJsonLightMetadataUriParser_InvalidAssociationLink" xml:space="preserve">
+    <value>元数据 URI“{0}”中 $links 的位置无效。元数据 URI 必须指定实体集、可选的类型段、$links 和一个导航属性。</value>
+  </data>
+  <data name="ODataMessageReader_ExpectedCollectionTypeWrongKind" xml:space="preserve">
+    <value>集合读取器的预期类型为种类“{0}”。只有 Primitive 或 ComplexType 种类的类型才能指定为集合读取器的预期类型。</value>
+  </data>
+  <data name="ODataResponseMessage_AsyncNotAvailable" xml:space="preserve">
+    <value>对某个 IODataResponseMessage 实例请求了异步操作。为使异步操作取得成功，该响应消息实例必须实现 IODataResponseMessageAsync。</value>
+  </data>
+  <data name="ODataAnnotatable_InstanceAnnotationsOnlyOnODataError" xml:space="preserve">
+    <value>对 ODataError 以外的对象设置了 InstanceAnnotationCollection。目前，仅对 ODataError 支持实例批注。</value>
+  </data>
+  <data name="ODataAtomCollectionDeserializer_TopLevelCollectionElementWrongNamespace" xml:space="preserve">
+    <value>在命名空间“{0}”中找到了一个根元素。顶级集合必须在“{1}”命名空间中具有根元素。</value>
+  </data>
+  <data name="ODataInstanceAnnotation_ReservedNamesNotAllowed" xml:space="preserve">
+    <value>“{0}”是保留的实例批注名称，因为它以“{1}”开头。保留的名称不允许用于自定义实例批注。</value>
+  </data>
+  <data name="ValidationUtils_ResourceCollectionUrlMustNotBeNull" xml:space="preserve">
+    <value>检测到没有 Url 的资源集合；资源集合必须具有非 null Url 值。</value>
+  </data>
+  <data name="ODataBatchWriter_InvalidTransitionFromOperationContentStreamRequested" xml:space="preserve">
+    <value>检测到针对 ODataBatchWriter 的无效的方法调用。在另一个编写器正在写入某一操作的内容时，不能使用该批处理编写器。请首先释放针对该操作的流，再继续使用 ODataBatchWriter。</value>
+  </data>
+  <data name="ODataParameterReaderCore_CreateReaderAlreadyCalled" xml:space="preserve">
+    <value>已经为参数“{1}”调用了“{0}”方法。对于每个入口、馈送或集合参数，只允许调用一次创建读取器方法。</value>
+  </data>
+  <data name="MetadataBinder_NullNavigationProperty" xml:space="preserve">
+    <value>导航属性不能为 null。</value>
+  </data>
+  <data name="ODataJsonEntryAndFeedDeserializer_MultipleFeedResultsPropertiesFound" xml:space="preserve">
+    <value>在协议版本 2.0 和更高版本中，在包装馈送的对象中找到了多个“results”属性。在 OData 中，馈送包装对象只能包含单个“results”属性。</value>
+  </data>
+  <data name="RequestUriProcessor_MissingSegmentAfterLink" xml:space="preserve">
+    <value>请求 URI 无效。必须在“{0}”段后指定一个段，且该段必须引用实体资源。</value>
+  </data>
+  <data name="ODataAtomErrorDeserializer_InvalidRootElement" xml:space="preserve">
+    <value>命名空间“{1}”中名为“{0}”的元素对错误而言不是有效的根元素。错误的根元素必须是“error”并且必须属于“http://schemas.microsoft.com/ado/2007/08/dataservices/metadata”命名空间。</value>
+  </data>
+  <data name="HttpUtils_InvalidCharsetName" xml:space="preserve">
+    <value>在标头“{0}”中找到无效的(空)字符集名称。</value>
+  </data>
+  <data name="ExpandItemBinder_TraversingANonNormalizedTree" xml:space="preserve">
+    <value>正在尝试遍历非标准化 expand 树。</value>
+  </data>
+  <data name="ODataJsonLightErrorDeserializer_PropertyAnnotationWithoutPropertyForError" xml:space="preserve">
+    <value>在错误负载中找到属性“{0}”的一个或多个属性批注，但是该错误负载中没有要批注的属性。错误负载不得包含不在此负载中的属性的属性批注。</value>
+  </data>
+  <data name="UriParser_ExpandDepthExceeded" xml:space="preserve">
+    <value>分析 $expand 的结果项深度至少为 {0}，但是允许的最大深度为 {1}。</value>
+  </data>
+  <data name="EntityPropertyMapping_TargetNamespaceUriNotValid" xml:space="preserve">
+    <value>为 EntityPropertyMappingAttribute 提供的 targetNamespaceUri 参数的值“{0}”不是有效的 URI 格式。</value>
+  </data>
+  <data name="JsonLightAnnotationGroupDeserializer_EncounteredMultipleNameProperties" xml:space="preserve">
+    <value>在一个批注组声明中遇到多个 "name" 属性。批注组必须有且仅有一个 "name" 属性。</value>
+  </data>
+  <data name="ReaderValidationUtils_TypeInMetadataUriDoesNotMatchExpectedType" xml:space="preserve">
+    <value>元数据 URI“{0}”引用类型“{1}”;  但是要求的类型为“{2}”。</value>
+  </data>
+  <data name="ODataParameterWriterCore_CannotCreateCollectionWriterOnNonCollectionTypeKind" xml:space="preserve">
+    <value>参数“{0}”为 Edm 类型种类“{1}”。不能对不是 Edm 类型种类“Collection”的参数调用 CreateCollectionWriter。</value>
+  </data>
+  <data name="Nodes_CollectionNavigationNode_MustHaveManyMultiplicity" xml:space="preserve">
+    <value>导航属性必须具有目标多重性 "Many" 才能创建 CollectionNavigationNode。</value>
+  </data>
+  <data name="ODataAtomWriterMetadataUtils_ContributorMetadataMustNotContainNull" xml:space="preserve">
+    <value>在“AtomEntryMetadata.Contributors”Enumerable 中检测到一个 null 值；参与者元数据不支持 null 值。</value>
+  </data>
+  <data name="ODataAtomReaderUtils_InvalidTypeName" xml:space="preserve">
+    <value>找到了具有类型名称“”的值。类型名称不能是空字符串。</value>
+  </data>
+  <data name="ODataRequestMessage_StreamTaskIsNull" xml:space="preserve">
+    <value>IODataRequestMessageAsync.GetStreamAsync 方法返回了 null。返回任务的异步方法永远不得返回 null。</value>
+  </data>
+  <data name="ODataJsonLightPropertyAndValueDeserializer_TypePropertyAfterValueProperty" xml:space="preserve">
+    <value>名为“{0}”的属性位于名为“{1}”的数据属性之后。如果为数据属性指定了类型，则该类型必须显示在数据属性之前。</value>
+  </data>
+  <data name="ODataJsonErrorDeserializer_TopLevelErrorWithInvalidProperty" xml:space="preserve">
+    <value>在读取顶级错误时在错误对象中找到了名为“{0}”的属性。在 OData 中，顶级错误对象必须具有恰好一个名为“error”的属性。</value>
+  </data>
+  <data name="FunctionOverloadResolver_MultipleActionOverloads" xml:space="preserve">
+    <value>找到多个对于“{0}”具有同一绑定参数的操作重载。</value>
+  </data>
+  <data name="ValidationUtils_LinkMustSpecifyName" xml:space="preserve">
+    <value>ODataNavigationLink 上的“Name”属性必须设置为非空字符串。</value>
+  </data>
+  <data name="ODataBatchWriter_FlushOrFlushAsyncCalledInStreamRequestedState" xml:space="preserve">
+    <value>在正用于写入操作内容(这些内容是通过使用 GetStream 或 GetStreamAsync 从操作消息获取的)的某一流仍处于活动状态时调用了 ODataBatchWriter.Flush 或 ODataBatchWriter.FlushAsync。这是不允许的。只有在针对操作内容的活动流不存在时，才能调用 ODataBatchWriter.Flush 或 ODataBatchWriter.FlushAsync。</value>
+  </data>
+  <data name="MetadataBinder_SkipRequiresNonNegativeInteger" xml:space="preserve">
+    <value>值“{0}”不是非负整数值。在 OData 中，$skip 查询选项必须指定非负整数值。</value>
+  </data>
+  <data name="ODataReaderCore_SyncCallOnAsyncReader" xml:space="preserve">
+    <value>对异步读取器调用了同步操作。对读取器实例的调用必须或者全都是同步的，或者全都是异步的。</value>
+  </data>
+  <data name="RequestUriProcessor_MustBeLeafSegment" xml:space="preserve">
+    <value>请求 URI 无效。段“{0}”必须为 URI 中的最后一个段，因为它是以下内容之一: $batch、$value、$metadata、集合属性、命名媒体资源、不返回值的服务操作或某个服务操作。</value>
+  </data>
+  <data name="ODataResponseMessage_MessageStreamIsNull" xml:space="preserve">
+    <value>IODataResponseMessage.GetStream 或 IODataResponseMessageAsync.GetStreamAsync 方法返回了 null 流值。该消息永远不得返回 null 流。</value>
+  </data>
+  <data name="EpmSyndicationWriter_EmptyCollectionMappedToAuthor" xml:space="preserve">
+    <value>集合属性“{0}”不具有任何项，但映射到作者元素。只有非空的集合属性才能映射到入口中的作者元素。</value>
+  </data>
+  <data name="ODataJsonOperationsDeserializerUtils_OperationMissingTargetProperty" xml:space="preserve">
+    <value>未在“{1}”中的操作“{0}”中找到 "target" 属性。在 OData 中，一个操作必须有且仅有一个 "target" 属性。</value>
+  </data>
+  <data name="MetadataBinder_BuiltInFunctionSignatureWithoutAReturnType" xml:space="preserve">
+    <value>找到了没有函数签名的内置函数。</value>
+  </data>
+  <data name="ODataJsonEntityReferenceLinkDeserializer_MultipleUriPropertiesInEntityReferenceLink" xml:space="preserve">
+    <value>在实体引用链接对象中找到了多个“uri”属性；但应该只有一个“uri”属性。</value>
+  </data>
+  <data name="WriterValidationUtils_PropertiesMustHaveNonEmptyName" xml:space="preserve">
+    <value>检测到没有名称的 ODataProperty 实例；ODataProperty 必须具有非 null 且非空的名称。</value>
+  </data>
+  <data name="UriSelectParser_TermIsNotValid" xml:space="preserve">
+    <value>术语“{0}”在 $select 或 $expand 表达式中无效。</value>
+  </data>
+  <data name="ODataJsonLightEntryAndFeedDeserializer_InvalidPropertyAnnotationInTopLevelFeed" xml:space="preserve">
+    <value>在读取顶级源时找到名称为“{0}”的属性的属性批注。读取顶级源时不允许使用任何属性批注，仅允许使用实例批注。</value>
+  </data>
+  <data name="MetadataBinder_MustBeCalledOnRoot" xml:space="preserve">
+    <value>在非根位置遇到了根段。</value>
+  </data>
+  <data name="AnnotationFilterPattern_InvalidPatternWildCardMustBeInLastSegment" xml:space="preserve">
+    <value>模式“{0}”不是匹配批注的受支持模式。"*" 必须是该模式的最后一个段。</value>
+  </data>
+  <data name="ExpressionLexer_SyntaxError" xml:space="preserve">
+    <value>在“{1}”中的位置 {0} 处存在语法错误。</value>
+  </data>
+  <data name="ODataParameterReaderCore_InvalidCreateReaderMethodCalledForState" xml:space="preserve">
+    <value>无法在状态“{1}”下调用方法“{0}”。</value>
+  </data>
+  <data name="ODataAtomWriterMetadataUtils_LinkMediaTypesMustMatch" xml:space="preserve">
+    <value>链接的媒体类型的“{0}”值(指定或计算得出)与在该链接的元数据中指定的“{1}”值不匹配。如果在元数据中指定了一个媒体类型，则这些媒体类型必须匹配。</value>
+  </data>
+  <data name="ODataMessageWriter_EntityReferenceLinksInRequestNotAllowed" xml:space="preserve">
+    <value>在请求中不允许使用顶级实体引用链接集合负载。</value>
+  </data>
+  <data name="JsonReaderExtensions_CannotReadValueAsDouble" xml:space="preserve">
+    <value>无法将值“{0}”作为双精度数值读取。</value>
+  </data>
+  <data name="ODataJsonLightPropertyAndValueDeserializer_UnexpectedDataPropertyAnnotation" xml:space="preserve">
+    <value>属性“{0}”具有属性批注“{1}”。基元、复杂、集合或开放属性只能具有 "odata.type" 属性批注。</value>
+  </data>
+  <data name="ODataBatchReader_MaxChangeSetSizeExceeded" xml:space="preserve">
+    <value>当前变更集中包含过多的操作。一个变更集中只允许最多包含“{0}”个操作。</value>
+  </data>
+  <data name="ODataBatchWriter_MaxChangeSetSizeExceeded" xml:space="preserve">
+    <value>当前变更集中包含过多的操作。仅允许最多包含“{0}”个操作的变更集。</value>
+  </data>
+  <data name="ODataBatchWriter_InvalidTransitionFromBatchStarted" xml:space="preserve">
+    <value>检测到针对 ODataBatchWriter 的无效的方法调用。在调用 WriteStartBatch 后，针对 ODataBatchWriter 的有效的方法仅为 WriteStartChangeset、CreateOperationRequestMessage、CreateOperationResponseMessage、WriteEndBatch 和 FlushAsync。</value>
+  </data>
+  <data name="UriSelectParser_InvalidSkipOption" xml:space="preserve">
+    <value>Skip 选项必须为整数，但它已设置为“{0}”。</value>
+  </data>
+  <data name="EpmSourceTree_StreamPropertyCannotBeMapped" xml:space="preserve">
+    <value>类型“{1}”上的属性“{0}”的类型为“Edm.Stream”。流属性不能使用实体属性映射进行映射。</value>
+  </data>
+  <data name="ODataBatchReaderStream_MissingContentTypeHeader" xml:space="preserve">
+    <value>缺少“Content-Type”标头。对于批处理消息的每个 MIME 部分，都必须指定“Content-Type”标头。</value>
+  </data>
+  <data name="ODataJsonLightMetadataUriBuilder_EntitySetOrNavigationPropertyMissingForTopLevelEntityReferenceLinkResponse" xml:space="preserve">
+    <value>顶级实体引用链接的实体集名称或导航属性名称是未知的。写入 JSON 响应时，必须将实体集和导航属性传递到 ODataMessageWriter.WriteEntityReferenceLink 方法或必须在 ODataEntityReferenceLink 上设置 ODataEntityReferenceLinkSerializationInfo。</value>
+  </data>
+  <data name="HttpHeaderValueLexer_InvalidSeparatorAfterQuotedString" xml:space="preserve">
+    <value>分析 HTTP 标头“{0}”时出错。位置“{2}”处的标头值“{1}”不正确，因为“{3}”不是带引号的字符串后面的有效分隔符。</value>
+  </data>
+  <data name="ODataBatchReaderStream_MissingOrInvalidContentEncodingHeader" xml:space="preserve">
+    <value>未找到“{0}”标头或找到了无效的标头。必须为每个批处理操作都指定“{0}”标头，并且其值必须是“{1}”。</value>
+  </data>
+  <data name="ODataBatchReader_NoMessageWasCreatedForOperation" xml:space="preserve">
+    <value>检测到一个操作，但没有为其创建任何消息。您必须为在批处理或变更集中找到的每个操作创建消息。</value>
+  </data>
+  <data name="SelectExpandBinder_UnknownPropertyType" xml:space="preserve">
+    <value>属性“{0}”属于无法识别的 EdmPropertyKind。</value>
+  </data>
+  <data name="XmlReaderExtension_InvalidNodeInStringValue" xml:space="preserve">
+    <value>在字符串值中找到了类型为“{0}”的 XML 节点。具有字符串值的元素只能包含 Text、CDATA、SignificantWhitespace、Whitespace 或 Comment 节点。</value>
+  </data>
+  <data name="ODataAtomEntryAndFeedDeserializer_DuplicateElements" xml:space="preserve">
+    <value>发现重复的“{{{0}}}:{1}”元素。在 Odata，最多只允许一个“{{{0}}}:{1}”元素。</value>
+  </data>
+  <data name="ODataCollectionReaderCore_ReadOrReadAsyncCalledInInvalidState" xml:space="preserve">
+    <value>在无效状态下调用了 ODataCollectionReader.ReadAsync 或 ODataCollectionReader.Read。在“{0}”状态下不能进一步调用读取器。</value>
+  </data>
+  <data name="ODataJsonReaderUtils_MultipleEntityReferenceLinksWrapperPropertiesWithSameName" xml:space="preserve">
+    <value>在实体引用链接包装对象中找到了多个“{0}”属性。在 OData 中，一个实体引用链接包装必须具有最多一个“{0}”属性。</value>
+  </data>
+  <data name="ODataUtils_UnsupportedVersionHeader" xml:space="preserve">
+    <value>DataServiceVersion HTTP 标头的值“{0}”无效。对于 DataServiceVersion 标头，仅支持“1.0”、“2.0”和“3.0”作为值。</value>
+  </data>
+  <data name="RequestUriProcessor_ValueSegmentAfterScalarPropertySegment" xml:space="preserve">
+    <value>请求 URI 中的段“{1}”无效。段“{0}”引用一个基元属性、函数或服务操作，因此下一个段中唯一受支持的值为“$value”。</value>
+  </data>
+  <data name="ODataMetadataInputContext_ErrorReadingMetadata" xml:space="preserve">
+    <value>无法从消息内容中读取元数据文档。
+{0}</value>
+  </data>
+  <data name="MetadataBinder_NoApplicableFunctionFound" xml:space="preserve">
+    <value>名称为“{0}”的函数签名都不匹配指定的参数。采用的函数签名是: {1}。</value>
+  </data>
+  <data name="ODataJsonLightServiceDocumentSerializer_ResourceCollectionMustSpecifyName" xml:space="preserve">
+    <value>发现没有名称的资源集合。在 JSON Light 中编写服务文档时，资源集合的 Name 属性不能为 Null 或空。</value>
+  </data>
+  <data name="Nodes_CollectionFunctionCallNode_ItemTypeMustBePrimitiveOrComplex" xml:space="preserve">
+    <value>CollectionFunctionCallNode 实例只能使用基元或复杂集合类型创建。对于返回实体集合的函数，请使用 EntityCollectionFunctionCallNode。</value>
+  </data>
+  <data name="DataServiceConfiguration_ResponseVersionIsBiggerThanProtocolVersion" xml:space="preserve">
+    <value>此响应要求使用协议版本 {0}，但数据服务的 MaxProtocolVersion 设置为 {1}。</value>
+  </data>
+  <data name="EpmSyndicationReader_MultipleValuesForNonCollectionProperty" xml:space="preserve">
+    <value>在映射到“{2}”的类型“{1}”上找到非集合属性“{0}”的多个值。</value>
+  </data>
+  <data name="ODataParameterReaderCore_DuplicateParametersInPayload" xml:space="preserve">
+    <value>在请求负载中遇到了名称为“{0}”的多个参数。</value>
+  </data>
+  <data name="ODataWriterCore_InvalidTransitionFromFeed" xml:space="preserve">
+    <value>无法从状态“{0}”转换到状态“{1}”。状态“{0}”下的有效操作仅是写入入口。</value>
+  </data>
+  <data name="ValidationUtils_EntryTypeNotAssignableToExpectedType" xml:space="preserve">
+    <value>找到了类型为“{0}”的入口，但无法向其分配预期类型“{1}”。在该入口中指定的类型必须是预期类型或派生类型。</value>
+  </data>
+  <data name="ODataAtomEntryMetadataDeserializer_InvalidTextConstructKind" xml:space="preserve">
+    <value>在具有本地名称“{1}”的 ATOM 文本构造元素上找到了具有值“{0}”的 type 特性。该 type 特性可能缺失或者它必须具有值“text”、“html”或“xhtml”。</value>
+  </data>
+  <data name="AtomValueUtils_CannotConvertValueToAtomPrimitive" xml:space="preserve">
+    <value>无法将“{0}”类型的值转换为 Atom 基元值的字符串表示形式。</value>
+  </data>
+  <data name="ODataJsonLightValueSerializer_MissingTypeNameOnCollection" xml:space="preserve">
+    <value>没有为 ODataCollectionValue 实例提供类型名称。</value>
+  </data>
+  <data name="ODataJsonLightWriter_EntityReferenceLinkAfterFeedInRequest" xml:space="preserve">
+    <value>检测到在将源写入请求中的同一导航链接之后在导航链接中写入实体引用链接的尝试。在 JSON Light 请求中，必须先写入导航链接中的所有实体引用链接，然后写入同一导航链接中的所有源。</value>
+  </data>
+  <data name="MetadataBinder_AnyAllExpressionNotSingleValue" xml:space="preserve">
+    <value>Any/All 查询表达式的计算结果必须为单个布尔值。</value>
+  </data>
+  <data name="JsonReader_UnrecognizedToken" xml:space="preserve">
+    <value>无效的 JSON。在 JSON 内容中无法识别标记。</value>
+  </data>
+  <data name="ODataUtils_UnsupportedVersionNumber" xml:space="preserve">
+    <value>为版本号指定了无效的枚举值。</value>
+  </data>
+  <data name="ODataWriterCore_DeltaLinkNotSupportedOnExpandedFeed" xml:space="preserve">
+    <value>ODataFeed.DeltaLink 属性对于展开的馈送必须为 null。展开的馈送不支持 Delta 链接。</value>
+  </data>
+  <data name="ODataJsonLightPropertyAndValueDeserializer_ODataTypeAnnotationInPrimitiveValue" xml:space="preserve">
+    <value>在表示基元值的 JSON 对象中读取了“{0}”批注；基元值的类型批注必须是所属属性的属性批注。</value>
+  </data>
+  <data name="ExpressionLexer_UnterminatedStringLiteral" xml:space="preserve">
+    <value>在“{1}”中的位置 {0} 处存在未终止的字符串文本。</value>
+  </data>
+  <data name="ODataWriterCore_MultipleItemsInNavigationLinkContent" xml:space="preserve">
+    <value>多个项被写入某一导航链接的内容。在 OData 中，仅当导航链接的 ODataNavigationLink.IsCollection 设置为 true 并且编写器正在写入请求时，导航链接在其内容中才能包含多项。</value>
+  </data>
+  <data name="ValidationUtils_IncorrectValueTypeKind" xml:space="preserve">
+    <value>找到了属于种类“{1}”的类型为“{0}”的值。值只能属于“Primitive”、“Complex”或“Collection”种类。</value>
+  </data>
+  <data name="ReaderValidationUtils_UndeclaredPropertyBehaviorKindSpecifiedForOpenType" xml:space="preserve">
+    <value>在标记为开放式的类型“{1}”上发现未声明的属性“{0}”；但使用的是 ODataUndeclaredPropertyBehaviorKinds.IgnoreUndeclaredValueProperty 或 ODataUndeclaredPropertyBehaviorKinds.ReportUndeclaredLinkProperty 设置。ODataUndeclaredPropertyBehaviorKinds.IgnoreUndeclaredValueProperty 或 ODataUndeclaredPropertyBehaviorKinds.ReportUndeclaredLinkProperty 设置不能用于开放类型。</value>
+  </data>
+  <data name="ODataJsonLightEntryAndFeedDeserializer_EncounteredAnnotationGroupInUnexpectedPosition" xml:space="preserve">
+    <value>在负载的意外位置找到一个批注组。批注组必须是所批注的对象的第一个属性，并且不能进行嵌套。</value>
+  </data>
+  <data name="JsonLightAnnotationGroupDeserializer_InvalidAnnotationFoundInsideNamedAnnotationGroup" xml:space="preserve">
+    <value>遇到一个包含属性“{1}”的名为“{0}”的批注组，该属性不是有效的批注名称。</value>
+  </data>
+  <data name="ODataJsonLightDeserializer_MetadataLinkNotFoundAsFirstProperty" xml:space="preserve">
+    <value>在响应负载的开头未找到必需的实例批注 "odata.metadata"。</value>
+  </data>
+  <data name="MetadataBinder_KeyValueApplicableOnlyToEntityType" xml:space="preserve">
+    <value>类型“{0}”不是实体类型。键值只能应用到实体类型。</value>
+  </data>
+  <data name="ODataJsonLightParameterDeserializer_PropertyAnnotationWithoutPropertyForParameters" xml:space="preserve">
+    <value>在没有要进行批注的属性的参数负载中找到属性“{0}”的一个或多个属性批注。参数负载不得包含不在此负载中的属性的属性批注。</value>
+  </data>
+  <data name="ValidationUtils_NullCollectionItemForNonNullableType" xml:space="preserve">
+    <value>在集合中找到 null 值，但预期集合项类型“{0}”不允许 null 值。</value>
+  </data>
+  <data name="ODataAtomWriterMetadataUtils_CategoriesHrefWithOtherValues" xml:space="preserve">
+    <value>只有在未设置其他属性的情况下，才能设置“AtomCategoriesMetadata.Href”属性。如果 Href 属性不是 null，则类别不能具有任何“Fixed”或“Scheme”值，并且“Categories”集合必须是 null 或空。</value>
+  </data>
+  <data name="ODataJsonLightEntryAndFeedDeserializer_AnnotationGroupWithoutName" xml:space="preserve">
+    <value>为某个项找到了使用 Null 或空名称的批注组。在 OData 中，批注组必须具有非 Null、非空的名称，而且该名称在整个负载中是唯一的。</value>
+  </data>
+  <data name="ODataJsonEntryAndFeedDeserializer_StreamPropertyInRequest" xml:space="preserve">
+    <value>已在 JSON 请求负载中找到流属性。流属性只在响应中受支持。</value>
+  </data>
+  <data name="MetadataBinder_UnaryOperatorOperandNotSingleValue" xml:space="preserve">
+    <value>一元运算符“{0}”的操作数不是单个值。一元运算符要求操作数是单个值。</value>
+  </data>
+  <data name="MetadataBinder_MultiValuePropertyNotSupportedInExpression" xml:space="preserve">
+    <value>多值属性“{0}”不能用于 $filter 或 $orderby 查询表达式中。多值属性不支持使用这些查询选项。</value>
+  </data>
+  <data name="ODataJsonLightInputContext_ItemTypeRequiredForCollectionReaderInRequests" xml:space="preserve">
+    <value>检测到在没有指定集合项类型的情况下尝试读取集合请求负载。读取请求中的集合负载时必须提供要求的项类型。</value>
+  </data>
+  <data name="FunctionCallBinder_FoundInvalidFunctionImports" xml:space="preserve">
+    <value>找到“{0}”的函数导入，但是这对 Filter/Orderby 无效。</value>
+  </data>
+  <data name="ODataAtomPropertyAndValueDeserializer_NonEmptyElementWithNullAttribute" xml:space="preserve">
+    <value>元素“{0}”具有非空的内容以及名称为 {{http://schemas.microsoft.com/ado/2007/08/dataservices/metadata}}:null 且值为“true”的特性。如果某个元素具有名称为 {{http://schemas.microsoft.com/ado/2007/08/dataservices/metadata}}:null 且值为“true”的特性，则该元素必须是空的。</value>
+  </data>
+  <data name="ODataAtomEntryAndFeedDeserializer_MultipleLinksInFeed" xml:space="preserve">
+    <value>在一个馈送中发现具有“{0}”关系的多个 'link' 元素。在 Odata 中，最多只允许一个具有“{0}”关系的 link 元素。</value>
+  </data>
+  <data name="ODataJsonLightEntryAndFeedSerializer_ActionsAndFunctionsGroupMustSpecifyTarget" xml:space="preserve">
+    <value>多个操作具有相同的 "Metadata" 属性值“{0}”。这些操作的 "Target" 属性值必须设置为非 Null 值。</value>
+  </data>
+  <data name="HttpUtils_NoOrMoreThanOneContentTypeSpecified" xml:space="preserve">
+    <value>指定的内容类型“{0}”不包含媒体类型或包含多个媒体类型，这是不允许的。必须指定一个媒体类型作为内容类型。</value>
+  </data>
+  <data name="ODataBatchReader_SyncCallOnAsyncReader" xml:space="preserve">
+    <value>对异步批处理读取器调用了同步操作。对批处理读取器实例的调用必须或者全都是同步的，或者全都是异步的。</value>
+  </data>
+  <data name="CastBinder_ChildTypeIsNotEntity" xml:space="preserve">
+    <value>转换中的子类型“{0}”不是实体类型。只能对实体类型执行转换。</value>
+  </data>
+  <data name="ODataJsonLightEntryAndFeedSerializer_DuplicateAnnotationGroup" xml:space="preserve">
+    <value>在负载中找到名称为“{0}”的多个批注组。在 OData 中，批注组名称在整个负载中必须是唯一的，并且在引用批注组时，必须对批注组的声明使用相同的批注组实例。</value>
+  </data>
+  <data name="ODataJsonLightEntryAndFeedDeserializer_NavigationPropertyWithoutValueAndEntityReferenceLink" xml:space="preserve">
+    <value>导航属性“{0}”没有扩展值或“{1}”属性批注。请求中没有扩展值的导航属性必须具有“{1}”属性批注。</value>
+  </data>
+  <data name="EpmSyndicationWriter_NullValueForAttributeTarget" xml:space="preserve">
+    <value>映射到“{2}”的类型“{1}”的属性“{0}”具有“null”值。映射到特性的属性不能是 null。</value>
+  </data>
+  <data name="EpmReader_OpenComplexOrCollectionEpmProperty" xml:space="preserve">
+    <value>具有源路径“{0}”的实体属性映射使用开放的复杂或集合属性。开放的复杂或集合属性不能通过实体属性映射读取。</value>
+  </data>
+  <data name="JsonReaderExtensions_UnexpectedNodeDetected" xml:space="preserve">
+    <value>从 JSON 读取器读取时找到了意外的“{1}”节点。应为“{0}”节点。</value>
+  </data>
+  <data name="ODataVersionChecker_ProtocolVersion3IsNotSupported" xml:space="preserve">
+    <value>此库不支持 OData 协议的 3.0 版本。请改用 1.0 或 2.0 版本。</value>
+  </data>
+  <data name="ODataJsonParameterReader_UnsupportedParameterTypeKind" xml:space="preserve">
+    <value>参数“{0}”是不支持的类型种类“{1}”。支持的类型种类为 Primitive、Complex、Primitive Collection 和 Complex Collection。</value>
+  </data>
+  <data name="SelectedPropertiesNode_StarSegmentNotLastSegment" xml:space="preserve">
+    <value>分析 select 子句时，在属性路径的最后一段的前面找到一个“*”段。在 OData 中，“*”段仅可显示为属性路径的最后一段。</value>
+  </data>
+  <data name="MetadataBinder_PropertyAccessSourceNotSingleValue" xml:space="preserve">
+    <value>属性“{0}”的属性访问父值不是单个值。属性访问只能应用到单个值。</value>
+  </data>
+  <data name="ODataJsonReaderUtils_EntityReferenceLinksInlineCountWithNullValue" xml:space="preserve">
+    <value>实体引用链接的集合的“{0}”属性具有 null 值。在 OData 中，“{0}”属性必须具有非 null 字符串值。</value>
+  </data>
+  <data name="ODataJsonLightValidationUtils_OperationPropertyCannotBeNull" xml:space="preserve">
+    <value>操作“{1}”的属性“{0}”不能为 Null 值。</value>
+  </data>
+  <data name="JsonReader_UnrecognizedEscapeSequence" xml:space="preserve">
+    <value>无效的 JSON。在 JSON 字符串值中找到了无法识别的转义序列“{0}”。</value>
+  </data>
+  <data name="RequestUriProcessor_CountOnRoot" xml:space="preserve">
+    <value>请求 URI 无效，段 $count 无法应用于服务的根。</value>
+  </data>
+  <data name="ReaderValidationUtils_MetadataUriValidationInvalidExpectedEntityType" xml:space="preserve">
+    <value>元数据 URI“{0}”引用名为“{1}”的实体类型；但是，预期的实体类型的名称为“{2}”，这与名为“{1}”的实体类型不兼容。</value>
+  </data>
+  <data name="MetadataBinder_BoundNodeCannotBeNull" xml:space="preserve">
+    <value>种类“{0}”的标记已绑定到值 null; 这是无效的。查询标记必须始终绑定到非 null 查询节点。</value>
+  </data>
+  <data name="ODataJsonReaderUtils_CannotConvertDateTimeOffset" xml:space="preserve">
+    <value>无法将类型为“Edm.DateTimeOffset”的值转换为预期目标类型“{0}”。</value>
+  </data>
+  <data name="ODataParameterWriterCore_CannotWriteValueOnNonSupportedValueType" xml:space="preserve">
+    <value>参数“{0}”的值为“{1}”类型。WriteValue 只能写入 null、ODataComplexValue 和非 Stream 类型的基元类型。</value>
+  </data>
+  <data name="MetadataBinder_SpatialIntersectsFunctionWithoutASingleValueArg" xml:space="preserve">
+    <value>调用 geo.intersects 函数时使用了非单一值操作数。</value>
+  </data>
+  <data name="EpmSourceTree_OpenComplexPropertyCannotBeMapped" xml:space="preserve">
+    <value>类型“{1}”上的开放属性“{0}”没有基元类型。只有开放基元属性可以使用实体属性映射进行映射。</value>
+  </data>
+  <data name="AsyncBufferedStream_WriterDisposedWithoutFlush" xml:space="preserve">
+    <value>编写器或流已释放，但数据仍处于缓冲区中。如果已写入某些数据，则必须首先调用 Flush 或 FlushAsync，再调用 Dispose。</value>
+  </data>
+  <data name="ValidationUtils_ActionsAndFunctionsMustSpecifyMetadata" xml:space="preserve">
+    <value>{0} 上的“Metadata”属性必须设置为非 null 值。</value>
+  </data>
+  <data name="ODataJsonDeserializer_RelativeUriUsedWithoutBaseUriSpecified" xml:space="preserve">
+    <value>在负载中指定了相对 URI 值“{0}”，但找不到该值的基 URI。如果负载包含相对 URI，则必须在读取器设置上指定了基 URI。</value>
+  </data>
+  <data name="SyntacticTree_MaxDepthInvalid" xml:space="preserve">
+    <value>最大深度设置必须为大于零的数字。</value>
+  </data>
+  <data name="ODataVersionChecker_StreamPropertiesNotSupported" xml:space="preserve">
+    <value>仅在 OData 协议的 3.0 版和更高版本中支持流属性。在版本 {0} 中不支持流属性。</value>
+  </data>
+  <data name="ODataAtomInputContext_NonEmptyElementWithNullAttribute" xml:space="preserve">
+    <value>元素“{0}”具有非空的内容以及名称为 {{http://schemas.microsoft.com/ado/2007/08/dataservices/metadata}}:null 且值为“true”的特性。如果某个元素具有名称为 {{http://schemas.microsoft.com/ado/2007/08/dataservices/metadata}}:null 且值为“true”的特性，则该元素必须是空的。</value>
+  </data>
+  <data name="ODataAtomReader_ExpandedFeedInEntryNavigationLink" xml:space="preserve">
+    <value>在 entry 类型的导航链接中找到了展开的馈送；但只有展开的入口才能出现在 entry 类型的导航链接中。</value>
+  </data>
+  <data name="ODataJsonEntryAndFeedDeserializer_CannotReadNavigationPropertyValue" xml:space="preserve">
+    <value>在尝试读取导航属性的值时找到了具有非 null 值的“PrimitiveValue”节点；但此处应为“StartArray”或“StartObject”节点，或者为具有 null 值的“PrimitiveValue”节点。</value>
+  </data>
+  <data name="ODataBatchReaderStream_NestedChangesetsAreNotSupported" xml:space="preserve">
+    <value>不支持批处理负载中嵌套的变更集。</value>
+  </data>
+  <data name="ExceptionUtils_ArgumentStringEmpty" xml:space="preserve">
+    <value>值不能为空。</value>
+  </data>
+  <data name="ODataJsonLightMetadataUriParser_IncompatibleEntityTypeInTypeCast" xml:space="preserve">
+    <value>元数据 URI“{0}”包含到实体类型“{1}”的类型转换。但是，实体类型“{1}”不是实体类型“{2}”(该实体类型是名为“{3}”的实体集的基类型)的子类型。</value>
+  </data>
+  <data name="MetadataBinder_ParameterNotInScope" xml:space="preserve">
+    <value>参数“{0}”不在范围内。</value>
+  </data>
+  <data name="ODataWriterCore_EntityReferenceLinkInResponse" xml:space="preserve">
+    <value>实体引用链接已写入某一响应。在写入请求时只能使用 WriteEntityReferenceLink 或 WriteEntityReferenceLinkAsync 方法。</value>
+  </data>
+  <data name="ODataJsonLightEntryAndFeedDeserializer_UnexpectedStreamPropertyAnnotation" xml:space="preserve">
+    <value>流属性“{0}”具有属性批注“{1}”。流属性只能具有 "odata.mediaEditLink"、"odata.mediaReadLink"、"odata.mediaETag" 和 "odata.mediaContentType" 属性批注。</value>
+  </data>
+  <data name="MediaTypeUtils_DidNotFindMatchingMediaType" xml:space="preserve">
+    <value>找不到与该请求的可接受 MIME 类型匹配的支持的 MIME 类型。支持的类型“{0}”不匹配任何可接受的 MIME 类型“{1}”。</value>
+  </data>
+  <data name="JsonLightInstanceAnnotationWriter_DuplicateAnnotationNameInCollection" xml:space="preserve">
+    <value>InstanceAnnotations 集合具有多个名称为“{0}”的实例批注。所有实例批注名称在集合中必须是唯一的。</value>
+  </data>
+  <data name="ExpressionLexer_UnbalancedBracketExpression" xml:space="preserve">
+    <value>找到不平衡的括号表达式。</value>
+  </data>
+  <data name="ODataBatchReaderStream_InvalidContentTypeSpecified" xml:space="preserve">
+    <value>“{0}”标头值“{1}”无效。如果这是变更集的开头，则该值必须是“{2}”；否则，该值必须是“{3}”。</value>
+  </data>
+  <data name="ODataWriterCore_InvalidStateTransition" xml:space="preserve">
+    <value>在 OData 编写器中检测到无效的状态转换。无法从状态“{0}”转换到状态“{1}”。</value>
+  </data>
+  <data name="ODataAtomEntryAndFeedDeserializer_OperationMissingTargetAttribute" xml:space="preserve">
+    <value>在 {{http://schemas.microsoft.com/ado/2007/08/dataservices/metadata}}:{0} 元素上缺少“target”特性。</value>
+  </data>
+  <data name="ODataBatchWriter_InvalidTransitionFromBatchCompleted" xml:space="preserve">
+    <value>检测到针对 ODataBatchWriter 的无效的方法调用。只能在调用了 ODataBatchWriter.WriteEndBatch 后调用 ODataBatchWriter.FlushAsync。</value>
+  </data>
+  <data name="RequestUriProcessor_SegmentDoesNotSupportKeyPredicates" xml:space="preserve">
+    <value>请求 URI 无效。段“{0}”不能包含键谓词，但它可以以空括号结尾。</value>
+  </data>
+  <data name="ODataVersionChecker_PropertyNotSupportedForODataVersionGreaterThanX" xml:space="preserve">
+    <value>ODataVersion 大于“{1}”时，不支持属性“{0}”。</value>
+  </data>
+  <data name="MetadataBinder_UnknownFunction" xml:space="preserve">
+    <value>找到名称为“{0}”的未知函数。它还可能是针对导航属性的键查找，这是不允许的。</value>
+  </data>
+  <data name="BadRequest_KeyCountMismatch" xml:space="preserve">
+    <value>URI 中指定的键数与资源“{0}”的键属性数不匹配。</value>
+  </data>
+  <data name="ODataUriUtils_ConvertToUriLiteralUnsupportedFormat" xml:space="preserve">
+    <value>转换为 URI 文本时不支持“{0}”格式。支持的格式为 ODataFormat.JsonLight 和 ODataFormat.VerboseJson。</value>
+  </data>
+  <data name="PathParser_ServiceOperationWithoutResultKindAttribute" xml:space="preserve">
+    <value>service operation“{0}”缺少 ODataServiceOperationResultKind 特性。</value>
+  </data>
+  <data name="ODataJsonLightEntityReferenceLinkDeserializer_EntityReferenceLinkMustBeObjectValue" xml:space="preserve">
+    <value>在尝试读取实体引用链接的开头时从 JSON 读取器读取了“{0}”类型的节点。在 JSON Light 中，实体引用链接必须是对象。</value>
+  </data>
+  <data name="Nodes_NonStaticEntitySetExpressionsAreNotSupportedInThisRelease" xml:space="preserve">
+    <value>当前只支持静态实体集引用表达式。</value>
+  </data>
+  <data name="ODataJsonOperationsDeserializerUtils_MultipleOptionalPropertiesInOperation" xml:space="preserve">
+    <value>在“{2}”的操作“{1}”中找到多个“{0}”属性。在 OData 中，一个操作最多可以有一个“{0}”属性。</value>
+  </data>
+  <data name="ODataJsonLightServiceDocumentDeserializer_PropertyAnnotationWithoutProperty" xml:space="preserve">
+    <value>发现属性“{0}”的属性批注没有紧接在该属性的前面出现。属性批注必须正好出现在所批注的属性的前面。</value>
+  </data>
+  <data name="ODataJsonLightMetadataUriBuilder_EntitySetOrNavigationPropertyMissingForTopLevelEntityReferenceLinksResponse" xml:space="preserve">
+    <value>顶级实体引用链接集合的实体集名称或导航属性名称是未知的。写入 JSON 响应时，必须将实体集和导航属性传递到 ODataMessageWriter.WriteEntityReferenceLinks 方法或必须在 ODataEntityReferenceLinks 上设置 ODataEntityReferenceLinksSerializationInfo。</value>
+  </data>
+  <data name="ODataJsonPropertyAndValueDeserializer_MultiplePropertiesInCollectionWrapper" xml:space="preserve">
+    <value>在一个集合中找到了多个“{0}”属性。在 OData 中，一个集合只能有一个“{0}”属性。</value>
+  </data>
+  <data name="RequestUriProcessor_ResourceNotFound" xml:space="preserve">
+    <value>未找到段“{0}”的资源。</value>
+  </data>
+  <data name="ODataBatchReaderStream_InvalidContentLengthSpecified" xml:space="preserve">
+    <value>内容长度标头“{0}”无效。内容长度标头必须是有效的 Int32 文本并且必须大于或等于 0。</value>
+  </data>
+  <data name="ODataJsonEntryAndFeedDeserializer_CannotParseStreamReference" xml:space="preserve">
+    <value>无法分析预期的流引用值。在 OData 中，流引用值必须是具有单个名为“__mediaresource”的属性的 JSON 对象。</value>
+  </data>
+  <data name="DuplicatePropertyNamesChecker_DuplicateAnnotationNotAllowed" xml:space="preserve">
+    <value>检测到多个名称为“{0}”的批注。在 OData 中，不允许使用重复的批注。</value>
+  </data>
+  <data name="WriterValidationUtils_NonNullablePropertiesMustNotHaveNullValue" xml:space="preserve">
+    <value>类型为“{1}”的属性“{0}[Nullable=False]”具有 null 值，这是不允许的。</value>
+  </data>
+  <data name="RequestUriProcessor_LinkSegmentMustBeFollowedByEntitySegment" xml:space="preserve">
+    <value>请求 URI 无效。因为上一个段标识符为“{1}”，所以段“{0}”必须引用导航属性。</value>
+  </data>
+  <data name="ODataVersionChecker_InlineCountNotSupported" xml:space="preserve">
+    <value>仅在 OData 协议的 2.0 版本和更高版本中支持内联计数功能。在版本 {0} 中不支持该功能。</value>
+  </data>
+  <data name="WriterValidationUtils_StreamPropertiesMustNotHaveNullValue" xml:space="preserve">
+    <value>流属性“{0}”具有 null 值，这是不允许的。在 Odata 中，流属性不能具有 null 值。</value>
+  </data>
+  <data name="ODataAtomCollectionWriter_CollectionNameMustNotBeNull" xml:space="preserve">
+    <value>具有“null”名称的 ODataCollectionStart 已传递到 ATOM 集合编写器。在 ATOM 中，ODataCollectionStart 不能具有“null”名称。</value>
+  </data>
+  <data name="ODataJsonLightPropertyAndValueDeserializer_InvalidPrimitiveTypeName" xml:space="preserve">
+    <value>"odata.type" 实例批注值“{0}”无效。仅当基元属性是空间属性时，才能指定类型名称。请确保类型名称是空间类型名称或非基元类型名称。</value>
+  </data>
+  <data name="ODataJsonReader_ParsingWithoutMetadata" xml:space="preserve">
+    <value>不支持在没有模型的情况下对 JSON 源或入口进行分析。</value>
+  </data>
+  <data name="ReaderValidationUtils_EntityReferenceLinkMissingUri" xml:space="preserve">
+    <value>找不到实体引用链接的任何 URI 值。需要一个 URI 值。</value>
+  </data>
+  <data name="ODataVerboseJsonErrorDeserializer_TopLevelErrorValueWithInvalidProperty" xml:space="preserve">
+    <value>在顶级错误的错误值中找到了名为“{0}”的属性。在 OData 中，顶级错误值只能具有名为 "code"、"message" 或 "innererror" 的属性。</value>
+  </data>
+  <data name="ODataCollectionReaderCore_ExpectedItemTypeSetInInvalidState" xml:space="preserve">
+    <value>集合读取器的当前状态为“{0}”；但是，集合读取器的预期项类型只能在状态“{1}”下进行设置。</value>
+  </data>
+  <data name="ODataSelectPath_OperationSegmentCanOnlyBeLastSegment" xml:space="preserve">
+    <value>操作只能是 $select 中的最后一个段。</value>
+  </data>
+  <data name="ODataMessageReader_EntityReferenceLinksInRequestNotAllowed" xml:space="preserve">
+    <value>在请求中不允许使用顶级实体引用链接集合负载。</value>
+  </data>
+  <data name="EdmValueUtils_IncorrectPrimitiveTypeKind" xml:space="preserve">
+    <value>找到不兼容的基元类型种类。发现类型“{0}”属于种类“{2}”，而非预期的种类“{1}”。</value>
+  </data>
+  <data name="ODataUriUtils_ConvertFromUriLiteralTypeVerificationFailure" xml:space="preserve">
+    <value>类型验证失败。应为类型“{0}”，但收到了值“{1}”。</value>
+  </data>
+  <data name="OperationSegment_ReturnTypeForMultipleOverloads" xml:space="preserve">
+    <value>无法为此段计算任何类型，因为有多个操作可能具有变化的返回类型。</value>
+  </data>
+  <data name="MetadataBinder_TopRequiresNonNegativeInteger" xml:space="preserve">
+    <value>值“{0}”不是非负整数值。在 OData 中，$top 查询选项必须指定非负整数值。</value>
+  </data>
+  <data name="ODataAtomServiceDocumentMetadataDeserializer_InvalidFixedAttributeValue" xml:space="preserve">
+    <value>在“categories”元素上找到了具有值“{0}”的“fixed”特性。如果存在“fixed”特性，它的值必须为“yes”或“no”。</value>
+  </data>
+  <data name="ODataModelAnnotationEvaluator_AnnotationTermWithInvalidQualifier" xml:space="preserve">
+    <value>在元素“{2}”上为带无效标识符“{1}”的术语“{0}”找到一个批注。仅可以为不带任何标识符的术语“{0}”指定一个批注。</value>
+  </data>
+  <data name="EpmSourceTree_InvalidSourcePath" xml:space="preserve">
+    <value>在类型“{0}”的 EntityPropertyMappingAttribute 中设置的 PropertyName 属性值“{1}”无效。</value>
+  </data>
+  <data name="EpmExtensionMethods_AttributeNotAllowedForCustomMappingOnType" xml:space="preserve">
+    <value>如果某个属性映射到非 AtomPub 元素，则不允许对类型“{1}”使用“{0}”特性。</value>
+  </data>
+  <data name="ODataVersionChecker_AssociationLinksNotSupported" xml:space="preserve">
+    <value>仅在 OData 协议的 3.0 版和更高版本中支持关联链接。在版本 {0} 中不支持关联链接。</value>
+  </data>
+  <data name="ODataAtomEntryAndFeedDeserializer_AnnotationWithNonDotTarget" xml:space="preserve">
+    <value>遇到了一个其“target”属性值为“{0}”且词条名称为“{1}”的“annotation”元素。当“annotation”元素发生为“entry”或“feed”元素的直接子级时，它必须没有“target”属性，或者具有值为“.”的“target”属性。</value>
+  </data>
+  <data name="ValidationUtils_InvalidEtagValue" xml:space="preserve">
+    <value>ETag 值“{0}”无效。ETag 值必须是带引号的字符串或者后面跟有带引号的字符串的“W/”。有关有效 ETag 格式的详细信息，请参考 HTTP RFC 2616。</value>
+  </data>
+  <data name="MediaTypeUtils_BoundaryMustBeSpecifiedForBatchPayloads" xml:space="preserve">
+    <value>内容类型“{0}”指定了批处理负载；但是，该负载不包括批处理边界或包括多个边界。在 Odata 中，批处理负载内容类型必须在内容类型的“{1}”参数中正好指定一个批处理边界。</value>
+  </data>
+  <data name="ODataBatchReader_CannotCreateRequestOperationWhenReadingResponse" xml:space="preserve">
+    <value>在读取批处理响应时，无法创建批处理操作请求消息。</value>
+  </data>
+  <data name="ODataJsonLightEntryAndFeedDeserializer_UnexpectedDeferredLinkPropertyAnnotation" xml:space="preserve">
+    <value>导航属性“{0}”具有属性批注“{1}”。延迟导航链接只能具有 "odata.navigationLinkUrl" 和 "odata.associationLinkUrl" 属性批注。</value>
+  </data>
+  <data name="ODataUriUtils_ConvertFromUriLiteralTypeRefWithoutModel" xml:space="preserve">
+    <value>必须向 IEdmTypeReference 提供匹配的 IEdmModel。但未提供任何模型。</value>
+  </data>
+  <data name="ODataMessageReader_PayloadKindDetectionRunning" xml:space="preserve">
+    <value>负载种类检测尚未完成。在负载种类检测完成之前，无法对 ODataMessageReader 调用读取或创建方法。</value>
+  </data>
+  <data name="ODataJsonReaderUtils_CannotConvertDateTime" xml:space="preserve">
+    <value>无法将“Edm.DateTime”类型的值转换为预期的目标类型“{0}”。</value>
+  </data>
+  <data name="MetadataBinder_CastOrIsOfFunctionWithoutATypeArgument" xml:space="preserve">
+    <value>Cast 或 IsOf 函数的参数中必须包含一个类型。</value>
+  </data>
+  <data name="ODataConventionalUriBuilder_EntityTypeWithNoKeyProperties" xml:space="preserve">
+    <value>实体类型“{0}”没有任何键属性。实体类型必须定义至少一个键属性。</value>
+  </data>
+  <data name="HttpUtils_UnexpectedEndOfQValue" xml:space="preserve">
+    <value>在标头“{0}”中检测到 q-Value 的意外结束。</value>
+  </data>
+  <data name="ODataExpandPath_InvalidExpandPathSegment" xml:space="preserve">
+    <value>在 expand 路径中找到了“{0}”类型的段，但只允许 NavigationProperty 和 Type 段。</value>
+  </data>
+  <data name="RequestUriProcessor_SyntaxError" xml:space="preserve">
+    <value>错误的请求 -- 查询语法中有错误。</value>
+  </data>
+  <data name="ODataJsonLightPropertyAndValueDeserializer_UnexpectedProperty" xml:space="preserve">
+    <value>找到名为“{0}”的属性。此属性批注无法被识别或者不是当前位置所预期的。</value>
+  </data>
+  <data name="ODataSelectPath_NavPropSegmentCanOnlyBeLastSegment" xml:space="preserve">
+    <value>导航属性只能是 $select 中的最后一个段。</value>
+  </data>
+  <data name="ODataBatchWriter_CannotCompleteBatchWithActiveChangeSet" xml:space="preserve">
+    <value>检测到针对 ODataBatchWriter 的无效的方法调用。不能使用活动的变更集调用 ODataBatchWriter.WriteEndBatch；必须首先调用 ODataBatchWriter.WriteEndChangeset。</value>
+  </data>
+  <data name="JsonFullMetadataLevel_MissingEntitySet" xml:space="preserve">
+    <value>如果将 ODataMessageWriterSettings.AutoComputePayloadMetadataInJson 设置为 true，在使用全部元数据编写 JSON 时必须指定实体集。</value>
+  </data>
+  <data name="WriterValidationUtils_StreamReferenceValueEmptyContentType" xml:space="preserve">
+    <value>检测到具有空字符串“ContentType”属性的 ODataStreamReferenceValue。在 OData 中，流资源必须具有非空内容类型或者必须为 null。</value>
+  </data>
+  <data name="MetadataUtils_ResolveTypeName" xml:space="preserve">
+    <value>ODataMessageWriterSettings.EnableWcfDataServicesClientBehavior 中设置的自定义类型解析程序在解析类型“{0}”时返回了“null”。如果指定了自定义类型解析程序，则它不能返回 null。</value>
+  </data>
+  <data name="ODataMessageReader_ExpectedPropertyTypeEntityCollectionKind" xml:space="preserve">
+    <value>用于属性读取的预期类型为实体集合种类。顶级属性只能为基元、复杂、原始集合或复杂集合种类。</value>
+  </data>
+  <data name="ODataJsonLightMetadataUriParser_InvalidPropertyForEntityReferenceLinkUri" xml:space="preserve">
+    <value>元数据 URI“{0}”引用名为“{1}”的属性。但是，实体引用链接的元数据 URI 必须引用不是“{1}”的导航属性。</value>
+  </data>
+  <data name="ODataParameterWriterCore_MissingParameterInParameterPayload" xml:space="preserve">
+    <value>编写参数负载时，找不到函数导入“{1}”的参数 {0}。函数导入中存在的所有参数都必须写入参数负载。</value>
+  </data>
+  <data name="HttpUtils_InvalidCharacterInQuotedParameterValue" xml:space="preserve">
+    <value>分析 HTTP 标头“{0}”时出错。位置“{2}”处的标头值“{1}”不正确，因为在带引号的字符串中不允许有字符“{3}”。有关详细信息，请参见 RFC 2616 的第 3.6 和 2.2 节。</value>
+  </data>
+  <data name="ODataJsonLightEntryAndFeedDeserializer_OpenPropertyWithoutValue" xml:space="preserve">
+    <value>在负载中只有属性批注但没有属性值的属性“{0}”是开放属性。在 OData 中，开放属性必须表示为具有值的属性。</value>
+  </data>
+  <data name="ODataVersionChecker_EpmVersionNotSupported" xml:space="preserve">
+    <value>仅在 OData 协议的 {1} 版本和更高版本中支持对类型“{0}”指定的实体属性映射。在版本 {2} 中不支持此类映射。</value>
+  </data>
+  <data name="ODataJsonLightDeserializer_RequiredPropertyNotFound" xml:space="preserve">
+    <value>在负载的预期位置中未找到必需属性“{0}”。相反，找到一个名为“{1}”的属性。</value>
+  </data>
+  <data name="ODataAtomDeserializer_RelativeUriUsedWithoutBaseUriSpecified" xml:space="preserve">
+    <value>在负载中指定了相对 URI 值“{0}”，但找不到该值的基 URI。如果负载包含相对 URI，则负载中必须存在 xml:base，否则必须在读取器设置中指定基 URI。</value>
+  </data>
+  <data name="BinaryOperatorQueryNode_OperandsMustHaveSameTypes" xml:space="preserve">
+    <value>二元运算符的两个操作数必须具有相同类型。找到不同的操作数类型“{0}”和“{1}”。</value>
+  </data>
+  <data name="ODataCollectionWriterCore_NonCollectionType" xml:space="preserve">
+    <value>为集合编写器指定的生成函数导入“{0}”返回的类型为“{1}”，该类型不是基元值或复杂值的集合。ODataCollectionWriter 只能编写基元值或复杂值的集合。</value>
+  </data>
+  <data name="ODataMessageWriter_CannotSpecifyFunctionImportWithoutModel" xml:space="preserve">
+    <value>在 ODataMessageWriterSettings 中未指定任何模型；在使用非 null 函数导入调用 CreateODataParameterWriter 时，在 ODataMessageWriterSettings 中必须提供模型。</value>
+  </data>
+  <data name="ODataJsonEntryAndFeedDeserializer_MultipleUriPropertiesInDeferredLink" xml:space="preserve">
+    <value>在延迟链接对象中找到了多个“uri”属性；但应该只有一个“uri”属性。</value>
+  </data>
+  <data name="ODataMessageWriter_WriteErrorAlreadyCalled" xml:space="preserve">
+    <value>已经调用针对 ODataMessageWriter 的 WriteError 方法或 WriteErrorAsync 方法以便写入错误负载。只有单个错误负载可与各 ODataMessageWriter 实例一起写入。</value>
+  </data>
+  <data name="SelectPropertyVisitor_DisparateTypeSegmentsInSelectExpand" xml:space="preserve">
+    <value>扩展的任何选择对选择和扩展必须具有相同的类型限定符。</value>
+  </data>
+  <data name="SyntacticTree_InvalidInlineCountQueryOptionValue" xml:space="preserve">
+    <value>找到 $inlinecount 查询选项的无效值“{0}”。有效值为“{1}”。</value>
+  </data>
+  <data name="ValidationUtils_AssociationLinkMustSpecifyUrl" xml:space="preserve">
+    <value>ODataAssociationLink 上的“Url”属性必须设置为表示链接引用的关联的非 null 值。</value>
+  </data>
+  <data name="ODataJsonLightEntryAndFeedDeserializer_OperationMissingTargetProperty" xml:space="preserve">
+    <value>操作“{0}”遇到多个目标绑定，但操作值中未找到 'target' 属性。若要区分多个目标绑定，每个操作值必须有且仅有一个 'target' 属性。</value>
+  </data>
+  <data name="ODataMessageReader_WildcardInContentType" xml:space="preserve">
+    <value>在内容类型标头的值“{0}”中检测到通配符“*”。内容类型标头的值中不能包含通配符。</value>
+  </data>
+  <data name="ODataJsonLightServiceDocumentDeserializer_InstanceAnnotationInServiceDocument" xml:space="preserve">
+    <value>在服务文档的“{1}”对象中找到一个无法识别的实例批注“{0}”。工作区中不允许使用 OData 实例批注。</value>
+  </data>
+  <data name="RequestUriProcessor_IEnumerableServiceOperationsCannotBeFurtherComposed" xml:space="preserve">
+    <value>找不到资源 -“{0}”引用了不允许进一步复合的服务操作或函数。</value>
+  </data>
+  <data name="ODataJsonLightEntryAndFeedSerializer_AnnotationGroupMemberWithoutName" xml:space="preserve">
+    <value>在名为“{0}”的批注组中找到了使用空名称的批注组成员。在 OData 中，批注组成员必须具有非 Null、非空的名称。</value>
+  </data>
+  <data name="ODataJsonLightEntryAndFeedDeserializer_EntryTypeAnnotationNotFirst" xml:space="preserve">
+    <value>某个项对象中的 "odata.type" 实例批注前面有无效属性。在 OData 中，如果存在 "odata.metadata" 实例批注，则 "odata.type" 实例批注必须是 JSON 对象的第一个属性或第二个属性。</value>
+  </data>
+  <data name="ODataUtils_NullValueForHttpMethodAnnotation" xml:space="preserve">
+    <value>HTTP 方法注释不得具有 null 值。</value>
+  </data>
+  <data name="ValidationUtils_UnrecognizedTypeName" xml:space="preserve">
+    <value>名为“{0}”的类型无法由该模型解析。在某一模型可用时，每个类型名称必须解析为有效的类型。</value>
+  </data>
+  <data name="ODataMediaTypeUtils_BoundaryMustBeSpecifiedForBatchPayloads" xml:space="preserve">
+    <value>内容类型“{0}”指定批处理负载，但不包含批处理边界。在 OData 中，批处理负载内容类型必须在该内容类型的“{1}”参数中指定批处理边界。</value>
+  </data>
+  <data name="ODataAtomErrorDeserializer_MultipleInnerErrorElementsWithSameName" xml:space="preserve">
+    <value>在内部错误值中找到了多个“{{http://schemas.microsoft.com/ado/2007/08/dataservices/metadata}}:{0}”元素。在 OData 中，内部错误值的值最多只能具有一个“{{http://schemas.microsoft.com/ado/2007/08/dataservices/metadata}}:{0}”元素。</value>
+  </data>
+  <data name="SelectExpandPathBinder_FollowNonTypeSegment" xml:space="preserve">
+    <value>尝试在一个不是类型的段后面跟随类型段。该段是“{0}”。</value>
+  </data>
+  <data name="ODataJsonLightEntryAndFeedDeserializer_ExpectedFeedPropertyNotFound" xml:space="preserve">
+    <value>未找到预期源的必需“{0}”属性。</value>
+  </data>
+  <data name="ODataMessageReader_ExpectedPropertyTypeEntityKind" xml:space="preserve">
+    <value>用于属性读取的预期类型为实体种类。顶级属性不能是实体类型。</value>
+  </data>
+  <data name="WriterValidationUtils_MessageWriterSettingsMetadataDocumentUriMustBeNullOrAbsolute" xml:space="preserve">
+    <value>在 ODataMessageWriterSettings.MetadataDocumentUri 中指定的元数据文档 URI“{0}”无效；它必须为 Null 或绝对 URI。</value>
+  </data>
+  <data name="ODataMessageWriter_InvalidContentTypeForWritingRawValue" xml:space="preserve">
+    <value>在写入原始值时，不支持内容类型“{0}”。</value>
+  </data>
+  <data name="UriParser_UriMustBeAbsolute" xml:space="preserve">
+    <value>URI“{0}”必须是绝对 URI。</value>
+  </data>
+  <data name="ODataWriterCore_CannotWriteTopLevelEntryWithFeedWriter" xml:space="preserve">
+    <value>不能使用为写入顶级馈送而创建的编写器写入顶级入口。</value>
+  </data>
+  <data name="ODataErrorException_GeneralError" xml:space="preserve">
+    <value>从负载读取了错误。有关详细信息，请参见“Error”属性。</value>
+  </data>
+  <data name="ODataJsonReaderUtils_EntityReferenceLinksPropertyWithNullValue" xml:space="preserve">
+    <value>实体引用链接的集合中的“{0}”属性具有 null 值。在 OData 中，“{0}”属性必须具有非 null 字符串值。</value>
+  </data>
+  <data name="ODataJsonLightServiceDocumentDeserializer_UnexpectedPropertyInResourceCollection" xml:space="preserve">
+    <value>在资源集合中遇到异常属性“{0}”。在服务文档中，资源集合可能只包含“{1}”和“{2}”属性。</value>
+  </data>
+  <data name="ODataJsonPropertyAndValueDeserializer_CannotReadPropertyValue" xml:space="preserve">
+    <value>在尝试读取属性值时从 JSON 读取器读取了“{0}”类型的节点；但应为“PrimitiveValue”或“StartObject”节点。</value>
+  </data>
+  <data name="ODataJsonLightWriter_InstanceAnnotationNotSupportedOnExpandedFeed" xml:space="preserve">
+    <value>ODataFeed.InstanceAnnotations 集合对于展开的馈送必须为空。展开的馈送不支持自定义实例批注。</value>
+  </data>
+  <data name="ReaderValidationUtils_NonMatchingPropertyNames" xml:space="preserve">
+    <value>已从负载中读取属性或函数导入名称“{0}”；但是，预期的属性或函数导入的名称是“{1}”。</value>
+  </data>
+  <data name="ODataMessageWriter_InvalidPropertyProducingFunctionImport" xml:space="preserve">
+    <value>ODataMessageWriter.WriteProperty 方法是通过返回类型为“{0}”的生成函数导入调用的。属性负载的生成函数导入必须返回的类型可以是基元、复杂、复杂集合类型的基元集合。</value>
+  </data>
+  <data name="ODataSelectPath_InvalidSelectPathSegmentType" xml:space="preserve">
+    <value>在 select 路径中找到了“{0}”类型的段，但只允许使用 TypeSegment、NavigationPropertySegment、PropertySegment、OperationSegment 或 OpenPropertySegments。</value>
+  </data>
+  <data name="ODataJsonCollectionReader_CannotReadCollectionStart" xml:space="preserve">
+    <value>在尝试读取没有集合包装对象的集合的开头时从 JSON 读取器读取了“{0}”类型的节点；但此处应为“StartArray”节点。</value>
+  </data>
+  <data name="HttpUtils_InvalidSeparatorBetweenCharsets" xml:space="preserve">
+    <value>标头“{0}”中的字符集值之间缺少分隔符。</value>
+  </data>
+  <data name="ODataJsonEntryAndFeedDeserializer_CannotReadCollectionNavigationPropertyValue" xml:space="preserve">
+    <value>在尝试读取实体集引用导航链接时从 JSON 读取器读取了“{0}”类型的节点；但此处应为“StartObject”或“StartArray”节点。</value>
+  </data>
+  <data name="UriQueryExpressionParser_CloseParenOrOperatorExpected" xml:space="preserve">
+    <value>“{1}”中的位置 {0} 上要求为 ')' 或运算符。</value>
+  </data>
+  <data name="ODataJsonPropertyAndValueDeserializer_MultipleMetadataPropertiesInComplexValue" xml:space="preserve">
+    <value>在一个复杂值中找到了多个“__metadata”属性。在 OData 中，一个复杂值只能有一个“__metadata”属性。</value>
+  </data>
+  <data name="ODataJsonLightServiceDocumentDeserializer_MissingValuePropertyInServiceDocument" xml:space="preserve">
+    <value>未找到服务文档的任何“{0}”属性。在 OData 中，一个服务文档必须有且仅有一个“{0}”属性。</value>
+  </data>
+  <data name="UriSelectParser_SystemTokenInSelectExpand" xml:space="preserve">
+    <value>在 select 或 expand 子句“{1}”中找到了系统标记“{0}”。</value>
+  </data>
+  <data name="ODataJsonLightMetadataUriParser_NullMetadataDocumentUri" xml:space="preserve">
+    <value>在负载中找到 Null 元数据 URI。元数据 URI 不得为 Null。</value>
+  </data>
+  <data name="ODataMessageWriter_NonCollectionType" xml:space="preserve">
+    <value>指定为集合的项类型的类型“{0}”不是基元类型或复杂类型。ODataCollectionWriter 只能编写基元或复杂值的集合。</value>
+  </data>
+  <data name="ODataAtomWriterMetadataUtils_LinkMustSpecifyHref" xml:space="preserve">
+    <value>“AtomLinkMetadata.Href”属性是必需的并且不能为 null。</value>
+  </data>
+  <data name="UriParser_NeedServiceRootForThisOverload" xml:space="preserve">
+    <value>必须为 ODataUriParser 提供服务根 URI 才能使用此方法。</value>
+  </data>
+  <data name="ODataJsonLightEntryAndFeedDeserializer_MultipleOptionalPropertiesInOperation" xml:space="preserve">
+    <value>找到操作“{1}”的多个“{0}”属性。在 OData 中，一个操作最多可以有一个“{0}”属性。</value>
+  </data>
+  <data name="WriterValidationUtils_ExpandedLinkIsCollectionTrueWithEntryMetadata" xml:space="preserve">
+    <value>具有 URL 值“{0}”的 ODataNavigationLink 在其“IsCollection”属性中指定其负载是馈送，但元数据将其负载声明为入口。</value>
+  </data>
+  <data name="FeedWithoutExpectedTypeValidator_IncompatibleTypes" xml:space="preserve">
+    <value>在本应具有“{1}”类型的条目的馈送中发现“{0}”类型的条目。在 Odata 中，馈送中的所有条目必须有公共基类型。</value>
+  </data>
+  <data name="ODataMessageWriter_InvalidPropertyOwningType" xml:space="preserve">
+    <value>ODataMessageWriter.WriteProperty 方法通过“{1}”种类的所属类型“{0}”调用。属性的所属类型可以是 "Complex" 或 "Entity" 种类。</value>
+  </data>
+  <data name="ReaderValidationUtils_EntryWithoutType" xml:space="preserve">
+    <value>找到了没有类型名称的入口，但未指定预期类型。若要允许没有类型信息的入口，在指定该模型时也必须指定预期类型。</value>
+  </data>
+  <data name="ODataJsonLightValidationUtils_OpenMetadataReferencePropertyNotSupported" xml:space="preserve">
+    <value>遇到一个对元数据“{0}”的引用，它未引用已知的元数据 URL“{1}”。不支持开放元数据引用属性。</value>
+  </data>
+  <data name="ODataAtomPropertyAndValueSerializer_NullValueNotAllowedForInstanceAnnotation" xml:space="preserve">
+    <value>不允许为实例批注“{0}”写入 null 值。实例批注“{0}”具有预期类型“{1}[Nullable=False]”。</value>
+  </data>
+  <data name="ODataJsonReaderUtils_CannotConvertInt64OrDecimal" xml:space="preserve">
+    <value>“Edm.Decimal”和“Edm.Int64”类型的基元值必须在负载中用引号引起来。请确保值用引号引起来。</value>
+  </data>
+  <data name="CollectionWithoutExpectedTypeValidator_IncompatibleItemTypeName" xml:space="preserve">
+    <value>在类型名称为“{1}”的项目集合中发现类型名称为“{0}”的项目。在 Odata 中，集合中所有项目的类型名称必须相同。</value>
+  </data>
+  <data name="CollectionWithoutExpectedTypeValidator_IncompatibleItemTypeKind" xml:space="preserve">
+    <value>在本应包含“{1}”类型的项目的集合中发现“{0}”类型的项目。在 Odata 中，集合中所有项目的类型必须相同。</value>
+  </data>
+  <data name="ValidationUtils_EnumerableContainsANullItem" xml:space="preserve">
+    <value>“{0}”enumerable 包含 null 项。此 enumerable 不能包含 null 项。</value>
+  </data>
+  <data name="ValidationUtils_EntryWithMediaResourceAndNonMLEType" xml:space="preserve">
+    <value>找到了类型为“{0}”且具有媒体资源的入口，但该实体类型不是 Media Link Entry (MLE)。如果该类型不是 MLE 实体，则该入口不能具有媒体资源。</value>
+  </data>
+  <data name="ODataFeedAndEntryTypeContext_MetadataOrSerializationInfoMissing" xml:space="preserve">
+    <value>编写 JSON 响应时，必须指定用户模型且必须将实体集和实体类型传递到 ODataMessageWriter.CreateEntryWriter 方法，或必须对正在编写的 ODataEntry 或 ODataFeed 设置 ODataFeedAndEntrySerializationInfo。</value>
+  </data>
+  <data name="ODataBatchReader_OperationRequestMessageAlreadyCreated" xml:space="preserve">
+    <value>已经为该操作创建了请求消息。不能尝试多次为同一个操作创建请求消息。</value>
+  </data>
+  <data name="RequestUriProcessor_InvalidTypeIdentifier_UnrelatedType" xml:space="preserve">
+    <value>在 URI 中指定的类型“{0}”既不是以前指定的类型“{1}”的基类型，也不是其子类型。</value>
+  </data>
+  <data name="ODataAtomCollectionDeserializer_WrongCollectionItemElementName" xml:space="preserve">
+    <value>集合的子元素已命名为“{0}”。表示集合值的每个子元素都必须命名为“element”并且该子元素必须属于“{1}”命名空间。</value>
+  </data>
+  <data name="MetadataBinder_HierarchyNotFollowed" xml:space="preserve">
+    <value>遇到无效的类型转换。“{0}”不能从“{1}”赋给。</value>
+  </data>
+  <data name="ODataMessageReader_ExpectedTypeSpecifiedWithoutMetadata" xml:space="preserve">
+    <value>使用非 null 值指定了参数“{0}”，但没有可用于读取器的元数据。只有在元数据可用于读取器时，才能指定预期的类型。</value>
+  </data>
+  <data name="ODataRequestMessage_MessageStreamIsNull" xml:space="preserve">
+    <value>IODataRequestMessage.GetStream 或 IODataRequestMessageAsync.GetStreamAsync 方法返回了 null 流值。该消息永远不得返回 null 流。</value>
+  </data>
+  <data name="ODataCollectionWriterCore_WriteEndCalledInInvalidState" xml:space="preserve">
+    <value>在无效状态(“{0}”)下调用了 ODataCollectionWriter.WriteEnd；仅在“Start”、“Collection”和“Item”状态下支持 WriteEnd。</value>
+  </data>
+  <data name="ODataVersionChecker_CollectionNotSupported" xml:space="preserve">
+    <value>仅在 OData 协议的 3.0 版和更高版本中支持集合类型。在版本 {0} 中不支持集合类型。</value>
+  </data>
+  <data name="MetadataBinder_CastOrIsOfCollectionsNotSupported" xml:space="preserve">
+    <value>Cast 和 IsOf 函数不支持集合参数或类型。</value>
+  </data>
+  <data name="ODataJsonLightMetadataUriParser_InvalidEntityWithTypeCastUriSuffix" xml:space="preserve">
+    <value>元数据 URI“{0}”以后缀“{1}”结尾。但是，包含实体集和类型转换的元数据 URI 不得包含任何后缀或者必须以“{2}”结尾。</value>
+  </data>
+  <data name="MetadataBinder_NonValidTypeArgument" xml:space="preserve">
+    <value>Type 参数的类型名称无效。</value>
+  </data>
+  <data name="ODataBatchReaderStream_NonIntegerHttpStatusCode" xml:space="preserve">
+    <value>HTTP 状态代码“{0}”无效。HTTP 状态代码必须是整数值。</value>
+  </data>
+  <data name="ODataJsonReaderUtils_FeedPropertyWithNullValue" xml:space="preserve">
+    <value>源包装中的“{0}”属性具有 null 值。在 OData 中，“{0}”属性必须具有非 null 值。</value>
+  </data>
+  <data name="MetadataBinder_NoTypeSupported" xml:space="preserve">
+    <value>不带关联类型的段已被指定为输入。</value>
+  </data>
+  <data name="ODataMessageReader_ParameterPayloadInResponse" xml:space="preserve">
+    <value>无法从响应负载中读取参数负载。参数负载仅在请求中受支持。</value>
+  </data>
+  <data name="ODataJsonLightEntryAndFeedDeserializer_ArrayValueForSingletonBindPropertyAnnotation" xml:space="preserve">
+    <value>资源引用导航属性“{0}”具有一个包含数组值的属性批注“{1}”。资源引用导航属性只能具有包含字符串值的属性批注“{1}”。</value>
+  </data>
+  <data name="ODataModelAnnotationEvaluator_AmbiguousAnnotationTerm" xml:space="preserve">
+    <value>在元素“{1}”上为术语“{0}”找到多个批注。仅能为术语“{0}”指定一个批注。</value>
+  </data>
+  <data name="SelectPropertyVisitor_SystemTokenInSelect" xml:space="preserve">
+    <value>分析 select 子句时找到了系统标记“{0}”。</value>
+  </data>
+  <data name="ODataBatchUtils_RelativeUriStartingWithDollarUsedWithoutBaseUriSpecified" xml:space="preserve">
+    <value>在批处理操作中指定了相对 URI“{0}”，但没有为批处理编写器或批处理读取器指定基 URI。如果该相对 URI 是对某一内容 ID 的引用，则该内容 ID 在当前变更集中不存在。</value>
+  </data>
+  <data name="ODataJsonReaderUtils_CannotConvertInt32" xml:space="preserve">
+    <value>无法将“Edm.Int32”类型的值转换为预期的目标类型“{0}”。</value>
+  </data>
+  <data name="ODataJsonLightMetadataUriParser_ModelResolverReturnedNull" xml:space="preserve">
+    <value>IODataJsonLightModelResolver 或 IODataJsonLightModelResolverAsync 返回 Null 或核心模型。模型分析器必须返回有效用户模型。</value>
+  </data>
+  <data name="PropertyInfoTypeAnnotation_CannotFindProperty" xml:space="preserve">
+    <value>找不到结构化类型“{0}”的实例类型“{1}”的属性“{2}”。</value>
+  </data>
+  <data name="JsonLightAnnotationGroupDeserializer_UndefinedAnnotationGroupReference" xml:space="preserve">
+    <value>遇到指向名为“{0}”的批注组的引用，但此时负载中未定义任何使用该名称的批注组。</value>
+  </data>
+  <data name="ODataJsonLightEntryAndFeedDeserializer_StreamPropertyWithValue" xml:space="preserve">
+    <value>流属性“{0}”在负载中具有值。在 OData 中，流属性不得具有值，必须仅使用属性批注。</value>
+  </data>
+  <data name="EpmSourceTree_TraversalOfNonComplexType" xml:space="preserve">
+    <value>在某一类型上 EntityPropertyMappingAttribute 的 PropertyName 属性的中部提供的属性“{0}”不是复杂类型。</value>
+  </data>
+  <data name="EpmSourceTree_MissingPropertyOnType" xml:space="preserve">
+    <value>类型“{1}”的属性“{0}”不存在。</value>
+  </data>
+  <data name="ODataWriterCore_OnlyTopLevelFeedsSupportInlineCount" xml:space="preserve">
+    <value>只有顶级馈送才能指定“ODataFeed.Count”属性值。展开的链接不支持内联计数。</value>
+  </data>
+  <data name="RequestUriProcessor_EmptySegmentInRequestUrl" xml:space="preserve">
+    <value>在请求 URL 中遇到空段。请确保指定有效的请求 URL。</value>
+  </data>
+  <data name="EpmSourceTree_DuplicateEpmAttributesWithSameSourceName" xml:space="preserve">
+    <value>类型“{0}”的多个 EntityPropertyMappingAttribute 具有“PropertyName”值“{1}”。在 OData 中，一个实体属性最多只能被映射一次。</value>
+  </data>
+  <data name="ODataBatchReader_ReadOrReadAsyncCalledInInvalidState" xml:space="preserve">
+    <value>在无效状态下调用了 ODataBatchReader.ReadAsync 或 ODataBatchReader.Read。在“{0}”状态下不能进一步调用读取器。</value>
+  </data>
+  <data name="SelectionItemBinder_NoExpandForSelectedProperty" xml:space="preserve">
+    <value>只能在 $select 查询选项中遍历在 $expand 中指定的属性。选定项为“{0}”。</value>
+  </data>
+  <data name="MetadataBinder_PropertyNotDeclared" xml:space="preserve">
+    <value>在类型“{0}”上找不到名为“{1}”的属性。</value>
+  </data>
+  <data name="DuplicatePropertyNamesChecker_DuplicatePropertyNamesNotAllowed" xml:space="preserve">
+    <value>在入口或复杂值中检测到多个名为“{0}”的不同属性。在 OData 中，不允许使用重复的属性名称。</value>
+  </data>
+  <data name="ODataJsonLightEntryAndFeedSerializer_AnnotationGroupMemberWithInvalidValue" xml:space="preserve">
+    <value>批注组“{1}”中名称为“{0}”的批注组成员具有无效值。在 OData 中，批注组成员值必须是字符串；不支持“{2}”类型的值。</value>
+  </data>
+  <data name="ODataJsonLightEntryAndFeedDeserializer_UnexpectedExpandedCollectionNavigationLinkPropertyAnnotation" xml:space="preserve">
+    <value>导航属性“{0}”具有属性批注“{1}”。扩展源导航链接只能具有 "odata.navigationLinkUrl"、"odata.associationLinkUrl" 和 "odata.nextLink" 属性批注。</value>
+  </data>
+  <data name="ODataMessageReader_NoneOrEmptyContentTypeHeader" xml:space="preserve">
+    <value>在尝试读取消息时未找到内容类型标头或者找到了空的内容类型标头。内容类型标头是必需的。</value>
+  </data>
+  <data name="SegmentFactory_LinksSegmentNotFollowedByNavProp" xml:space="preserve">
+    <value>链接段必须总是后跟导航属性。</value>
+  </data>
+  <data name="ODataJsonLightServiceDocumentDeserializer_PropertyAnnotationInResourceCollection" xml:space="preserve">
+    <value>在服务文档的资源集合中找到一个无法识别的属性批注“{0}”。资源集合中不允许使用 OData 属性批注。</value>
+  </data>
+  <data name="ODataJsonOperationsDeserializerUtils_OperationsPropertyMustHaveObjectValue" xml:space="preserve">
+    <value>在开始读取“{0}”操作值时找到了“{1}”类型的节点，但应为 "StartObject" 类型的节点。“{0}”操作值必须具有对象值。</value>
+  </data>
+  <data name="ODataBatch_InvalidHttpMethodForQueryOperation" xml:space="preserve">
+    <value>为查询操作检测到无效的 HTTP 方法“{0}”。查询操作仅支持 HTTP“GET”方法。</value>
+  </data>
+  <data name="ValidationUtils_ResourceCollectionMustSpecifyUrl" xml:space="preserve">
+    <value>资源集合上的“Url”属性必须设置为非 null 值。</value>
+  </data>
+  <data name="ReaderValidationUtils_MetadataUriValidationNonMatchingDeclaringTypes" xml:space="preserve">
+    <value>元数据 URI“{0}”引用类型“{2}”上名为“{1}”的属性；但是，预期的属性的声明类型是“{3}”。</value>
+  </data>
+  <data name="ODataFeed_MustNotContainBothNextPageLinkAndDeltaLink" xml:space="preserve">
+    <value>源可以包含下一个页面链接和增量链接中的一个或者两者都不包含，但不能两者都包含。</value>
+  </data>
+  <data name="ODataJsonLightEntryMetadataContext_MetadataAnnotationMustBeInPayload" xml:space="preserve">
+    <value>负载中缺少 {0} 批注。</value>
+  </data>
+  <data name="ODataJsonLightEntryAndFeedDeserializer_AnnotationGroupMemberWithoutName" xml:space="preserve">
+    <value>在名为“{0}”的批注组中找到了使用空名称的批注组成员。在 OData 中，批注组成员必须具有非 Null、非空的名称。</value>
+  </data>
+  <data name="EpmExtensionMethods_InvalidTargetTextContentKindOnProperty" xml:space="preserve">
+    <value>不允许类型“{2}”的属性“{1}”的“{0}”特性值。支持的值为“text”、“html”和“xhtml”。</value>
+  </data>
+  <data name="ODataBatchOperationMessage_VerifyNotCompleted" xml:space="preserve">
+    <value>尝试更改消息的属性或检索消息的负载流失败。要么已经请求该负载流，要么消息的处理已完成。在这两种情况下，都不能继续对消息进行更改。</value>
+  </data>
+  <data name="ODataAtomWriterMetadataUtils_InvalidAnnotationValue" xml:space="preserve">
+    <value>需要“{{http://schemas.microsoft.com/ado/2007/08/dataservices/metadata}}:{0}”的字符串类型的注释，但找到了“{1}”类型的注释。</value>
+  </data>
+  <data name="EpmSyndicationWriter_InvalidValueForCategorySchemeCriteriaAttribute" xml:space="preserve">
+    <value>映射到“category/@scheme”的类型“{2}”的属性“{1}”的值“{0}”无效。映射到“category/@scheme”的属性必须具有是 URI 的值并且不能以命名空间“http://schemas.microsoft.com/ado/2007/08/dataservices”开头。</value>
+  </data>
+  <data name="ODataQueryUtils_FoundMultipleServiceOperations" xml:space="preserve">
+    <value>在单个实体容器中找到多个名称为“{0}”的服务操作。不支持服务操作重载。</value>
+  </data>
+  <data name="UriBuilder_NotSupportedQueryToken" xml:space="preserve">
+    <value>不支持将 QueryToken“{0}”写为 Uri 部分。</value>
+  </data>
+  <data name="ODataUtils_CannotSaveAnnotationsToBuiltInModel" xml:space="preserve">
+    <value>在尝试保存注释时检测到内置模型。注释只能保存到用户定义的模型。</value>
+  </data>
+  <data name="ODataJsonOperationsDeserializerUtils_OperationMetadataArrayExpectedAnObject" xml:space="preserve">
+    <value>在开始读取“{0}”属性的数组值中的项时找到了“{1}”类型的节点；但应为 "StartObject" 类型的节点。“{2}”操作对象中的“{0}”属性的数组值中的项必须是对象值。</value>
+  </data>
+  <data name="ODataVersionChecker_DeltaLinkNotSupported" xml:space="preserve">
+    <value>仅在 OData 协议的 3.0 和更高版本中支持 delta link 功能。在版本 {0} 中不支持它。</value>
+  </data>
+  <data name="ODataMessageReader_ExpectedPropertyTypeStream" xml:space="preserve">
+    <value>用于属性读取的预期类型为 Edm.Stream。顶级属性不能是流类型。</value>
+  </data>
+  <data name="ODataParameterWriterCore_CannotWriteInErrorOrCompletedState" xml:space="preserve">
+    <value>编写器处于“Error”或“Completed”状态。不能对该编写器执行进一步的写入。</value>
+  </data>
+  <data name="RequestUriProcessor_OperationSegmentBoundToANonEntityType" xml:space="preserve">
+    <value>找到绑定到非实体类型的操作。</value>
+  </data>
+  <data name="ODataJsonLightMetadataUriParser_ServiceDocumentUriMustNotHaveFragment" xml:space="preserve">
+    <value>在服务文档负载中找到元数据 URI“{0}”。服务文档的元数据 URI 不得包含片段。</value>
+  </data>
+  <data name="ODataParameterReaderCore_SubReaderMustBeInCompletedStateBeforeTheNextReadOrReadAsyncCall" xml:space="preserve">
+    <value>在“{0}”状态下调用了 ODataParameterReader.ReadAsync 或 ODataParameterReader.Read 并且调用了“{1}”，但创建的读取器未处于“Completed”状态。创建的读取器必须处于“Completed”状态，之后才能调用下一个 ODataParameterReader.ReadAsync 或 ODataParameterReader.Read。</value>
+  </data>
+  <data name="ODataParameterWriterCore_DuplicatedParameterNameNotAllowed" xml:space="preserve">
+    <value>已写入参数“{0}”。参数负载中不允许重复的参数名称。</value>
+  </data>
+  <data name="AnnotationFilterPattern_InvalidPatternMissingDot" xml:space="preserve">
+    <value>模式“{0}”不是匹配批注的有效模式。它必须至少包含一个 "." 来分隔批注的命名空间和名称段。</value>
+  </data>
+  <data name="ODataJsonEntryAndFeedDeserializer_CannotReadSingletonNavigationPropertyValue" xml:space="preserve">
+    <value>在尝试读取资源引用导航链接的内容时从 JSON 读取器读取了“{0}”类型的节点；但此处应为“StartObject”节点或具有 null 值的“PrimitiveValue”节点。</value>
+  </data>
+  <data name="FunctionCallBinder_CallingFunctionOnOpenProperty" xml:space="preserve">
+    <value>找到开放属性上的函数“{0}”。不支持开放属性上的函数。</value>
+  </data>
+  <data name="ODataJsonLightEntryAndFeedDeserializer_UnexpectedExpandedSingletonNavigationLinkPropertyAnnotation" xml:space="preserve">
+    <value>导航属性“{0}”具有属性批注“{1}”。扩展项导航链接只能具有 "odata.navigationLinkUrl" 和 "odata.associationLinkUrl" 属性批注。</value>
+  </data>
+  <data name="ODataWriter_StreamPropertiesMustBePropertiesOfODataEntry" xml:space="preserve">
+    <value>属性“{0}”是流属性，但不是 ODataEntry 实例的属性。在 Odata 中，流属性必须是 ODataEntry 实例的属性。</value>
+  </data>
+  <data name="ODataModelAnnotationEvaluator_AnnotationTermWithUnsupportedQualifier" xml:space="preserve">
+    <value>在元素“{2}”上为带无效标识符“{1}”的术语“{0}”找到一个批注。应为带标识符“{3}”的术语“{0}”的一个批注。</value>
+  </data>
+  <data name="ODataUriUtils_ConvertFromUriLiteralNullTypeVerificationFailure" xml:space="preserve">
+    <value>类型验证失败。应为类型“{0}”，但收到了具有关联类型“{1}”的不匹配的 null 值。</value>
+  </data>
+  <data name="HttpUtils_MediaTypeMissingParameterValue" xml:space="preserve">
+    <value>MIME 类型缺少名称为“{0}”的参数的参数值。</value>
+  </data>
+  <data name="ValidationUtils_MaxNumberOfEntityPropertyMappingsExceeded" xml:space="preserve">
+    <value>已超出实体类型及其所有基类型上所允许的最大实体属性映射数。总共找到 {0} 个实体属性映射，但允许的最大实体映射数为 {1}。</value>
+  </data>
+  <data name="ReaderValidationUtils_MetadataUriValidationInvalidExpectedEntitySet" xml:space="preserve">
+    <value>元数据 URI“{0}”引用名为“{1}”的实体集；但是，预期的实体集的名称为“{2}”且与元数据 URI 中引用的实体集不匹配。</value>
+  </data>
+  <data name="OpenNavigationPropertiesNotSupportedOnOpenTypes" xml:space="preserve">
+    <value>对于 OpenTypes 不支持开放导航属性。属性名称:“{0}”。</value>
+  </data>
+  <data name="ODataAtomEntityReferenceLinkDeserializer_InvalidEntityReferenceLinksStartElement" xml:space="preserve">
+    <value>命名空间“{1}”中名称为“{0}”的元素不是实体引用链接的有效的开始元素。实体引用链接的开始元素必须是“links”并且它必须属于“http://schemas.microsoft.com/ado/2007/08/dataservices”命名空间。</value>
+  </data>
+  <data name="MetadataBinder_ServiceOperationParameterMissing" xml:space="preserve">
+    <value>服务操作“{0}”缺少必需的参数“{1}”。</value>
+  </data>
+  <data name="ExpandItemBinder_TypeSegmentNotFollowedByPath" xml:space="preserve">
+    <value>在 select 或 expand 查询选项中找到了不是以非类型段结尾的路径。</value>
+  </data>
+  <data name="ODataMessageWriter_ServiceDocumentInRequest" xml:space="preserve">
+    <value>服务文档不能写入请求负载。仅在响应中支持服务文档。</value>
+  </data>
+  <data name="EpmExtensionMethods_AttributeNotAllowedForCustomMappingOnProperty" xml:space="preserve">
+    <value>如果类型“{2}”的属性“{1}”映射到某个非 AtomPub 元素，则不允许对该属性使用“{0}”特性。</value>
+  </data>
+  <data name="ODataJsonLightEntryAndFeedDeserializer_UnexpectedPropertyAnnotationAfterExpandedFeed" xml:space="preserve">
+    <value>发现属性批注“{0}”位于所批注的属性“{1}”之后。只有 "odata.nextLink" 属性批注才能在所批注的属性之后使用。</value>
+  </data>
+  <data name="ODataAtomWriterMetadataUtils_CategoryMetadataMustNotContainNull" xml:space="preserve">
+    <value>在“AtomEntryMetadata.Categories”Enumerable 中检测到一个 null 值；类别元数据不支持 null 值。</value>
+  </data>
+  <data name="ODataBatchReaderStream_InvalidHttpVersionSpecified" xml:space="preserve">
+    <value>在批处理操作请求或响应中使用的 HTTP 版本“{0}”无效。该值必须为“{1}”。</value>
+  </data>
+  <data name="ODataAtomEntryAndFeedDeserializer_MultipleExpansionsInInline" xml:space="preserve">
+    <value>在 {{http://schemas.microsoft.com/ado/2007/08/dataservices/metadata}}:inline 中找到了另一个展开的“{0}”，但它已包含展开的馈送或入口。{{http://schemas.microsoft.com/ado/2007/08/dataservices/metadata}}:inline 元素中只允许一个展开的馈送或一个展开的入口。</value>
+  </data>
+  <data name="WriterValidationUtils_MissingTypeNameWithMetadata" xml:space="preserve">
+    <value>没有为开放属性的 ODataComplexValue、ODataEntry 或自定义实例批注找到 TypeName，即使指定了元数据也是如此。如果将某一模型传递到编写器，则针对开放属性、项或自定义实例批注的每个复杂值都必须具有类型名称。</value>
+  </data>
+  <data name="ODataJsonLightOutputContext_MetadataDocumentUriMissing" xml:space="preserve">
+    <value>用于写入 JSON Light 负载的 ODataMessageWriterSettings 未指定元数据文档 URI。若要写入 JSON Light 负载，需要元数据文档 URI。</value>
+  </data>
+  <data name="MetadataBinder_CannotConvertToType" xml:space="preserve">
+    <value>类型“{0}”的表达式不能转换为类型“{1}”。</value>
+  </data>
+  <data name="ODataBatchWriter_CannotCompleteChangeSetWithoutActiveChangeSet" xml:space="preserve">
+    <value>检测到针对 ODataBatchWriter 的无效的方法调用。不能在没有活动的变更集的情况下调用 ODataBatchWriter.WriteEndChangeset；必须首先调用 ODataBatchWriter.WriteStartChangeset。</value>
+  </data>
+  <data name="ODataJsonLightParameterDeserializer_NullCollectionExpected" xml:space="preserve">
+    <value>在尝试读取 JSON Light 中的 Null 集合参数值时，从 JSON 读取器读取了包含值“{1}”的“{0}”类型的节点；但应为基元 'null' 值。</value>
+  </data>
+  <data name="ODataBatchWriter_CannotWriteInStreamErrorForBatch" xml:space="preserve">
+    <value>当使用 ODataBatchWriter 编写批处理时，无法调用 ODataMessageWriter 上的 WriteError 和 WriteErrorAsync 方法。在 Odata 中，不支持对批处理负载写入流中的错误。</value>
+  </data>
+  <data name="ODataMessageWriter_MetadataDocumentInRequest" xml:space="preserve">
+    <value>元数据文档不能写入请求负载。仅在响应中支持元数据文档。</value>
+  </data>
+  <data name="ODataMessageWriter_CannotWriteStreamPropertyAsTopLevelProperty" xml:space="preserve">
+    <value>流属性“{0}”不能作为顶级属性写入负载。</value>
+  </data>
+  <data name="ODataJsonLightEntryAndFeedSerializer_ActionsAndFunctionsGroupMustNotHaveDuplicateTarget" xml:space="preserve">
+    <value>多个操作具有相同的 "Metadata" 属性值“{0}”和相同的 "Target" 属性值“{1}”。当多个操作具有相同的 "Metadata" 属性值时，其 "Target" 属性值必须是唯一的。</value>
+  </data>
+  <data name="WriterValidationUtils_PropertyNameDoesntMatchFunctionImportName" xml:space="preserve">
+    <value>将写入名为“{0}”的顶级属性和名为“{1}”的生成函数导入。如果指定了生成函数导入，则属性名称必须为 Null 或必须与函数导入名称匹配。</value>
+  </data>
+  <data name="ValidationUtils_InvalidMetadataReferenceProperty" xml:space="preserve">
+    <value>遇到要求是对 $metadata 文档中位置的引用的属性“{0}”，但是它不包含 '#' 字符或不是有效的元数据引用属性。元数据引用属性必须包含 '#'，必须是有效的绝对 URI 或者必须以 '#' 开头且为有效 URI 片段。</value>
+  </data>
+  <data name="DuplicatePropertyNamesChecker_MultipleLinksForSingleton" xml:space="preserve">
+    <value>在入口上检测到某个单一导航属性具有多个名为“{0}”的导航链接。在 OData 中，单一导航属性只能具有一个导航链接。</value>
+  </data>
+  <data name="ValidationUtils_InvalidCollectionTypeReference" xml:space="preserve">
+    <value>找到了无效的集合类型种类“{0}”。在 OData 中，集合类型的种类必须为“Collection”。</value>
+  </data>
+  <data name="ODataJsonLightEntryAndFeedDeserializer_CannotReadNavigationPropertyValue" xml:space="preserve">
+    <value>在尝试读取导航属性的值时找到了具有非 null 值的“PrimitiveValue”节点；但此处应为“StartArray”或“StartObject”节点，或者为具有 null 值的“PrimitiveValue”节点。</value>
+  </data>
+  <data name="ODataWriter_RelativeUriUsedWithoutBaseUriSpecified" xml:space="preserve">
+    <value>在要写入的数据中指定了相对 URI 值“{0}”，但没有为编写器指定基 URI。在使用相对 URI 值时必须设置基 URI。</value>
+  </data>
+  <data name="UriParser_NegativeLimit" xml:space="preserve">
+    <value>限制必须大于或等于零</value>
+  </data>
+  <data name="RequestUriProcessor_Forbidden" xml:space="preserve">
+    <value>禁止</value>
+  </data>
+  <data name="ODataJsonCollectionReader_ParsingWithoutMetadata" xml:space="preserve">
+    <value>不支持在没有模型的情况下分析 JSON 集合。</value>
+  </data>
+  <data name="ODataBatchReader_InvalidStateForCreateOperationResponseMessage" xml:space="preserve">
+    <value>在 {0} 状态下调用了方法 CreateOperationResponseMessage，这是不允许的。只能在“Operation”状态下调用 CreateOperationResponseMessage。</value>
+  </data>
+  <data name="ODataJsonLightEntryAndFeedDeserializer_AnnotationGroupInRequest" xml:space="preserve">
+    <value>写入请求负载时检测到 JSON Light 批注组。在 OData 中，仅在响应中支持 JSON Light 批注组。</value>
+  </data>
+  <data name="ODataAtomErrorDeserializer_MultipleErrorElementsWithSameName" xml:space="preserve">
+    <value>在顶级错误值中找到了多个“{{http://schemas.microsoft.com/ado/2007/08/dataservices/metadata}}:{0}”元素。在 OData 中，顶级错误值的值最多只能具有一个“{{http://schemas.microsoft.com/ado/2007/08/dataservices/metadata}}:{0}”元素。</value>
+  </data>
+  <data name="EpmExtensionMethods_MissingAttributeOnProperty" xml:space="preserve">
+    <value>类型“{2}”的属性“{1}”缺少必需的“{0}”特性。</value>
+  </data>
+  <data name="JsonReader_MissingColon" xml:space="preserve">
+    <value>无效的 JSON。在属性名称“{0}”后应该有一个冒号字符“:”，但未找到该字符。</value>
+  </data>
+  <data name="JsonReader_MissingComma" xml:space="preserve">
+    <value>无效的 JSON。范围“{0}”中需要逗号字符“,”。在对象中，数组或属性的每两个元素之间必须用逗号分隔。</value>
+  </data>
+  <data name="ODataRequestMessage_AsyncNotAvailable" xml:space="preserve">
+    <value>对 IODataRequestMessage 实例请求了一个异步操作。为使异步操作取得成功，该请求消息实例必须实现 IODataRequestMessageAsync。</value>
+  </data>
+  <data name="UriQueryExpressionParser_CannotCreateStarTokenFromNonStar" xml:space="preserve">
+    <value>需要 Star 标记，但获得的是“{0}”。</value>
+  </data>
+  <data name="ReaderValidationUtils_ValueWithoutType" xml:space="preserve">
+    <value>找到了没有类型名称的值，并且没有可用的预期类型。如果指定该模型，则负载中的每个值都必须具有可在负载中指定、显式由调用方调用或隐式从父值推断的类型。</value>
+  </data>
+  <data name="ODataAtomReader_EntryXmlCustomizationCallbackReturnedSameInstance" xml:space="preserve">
+    <value>ODataMessageReaderSettings.EnableWcfDataServicesClientBehavior 中的 entryXmlCustomizationCallback 集永远不得返回在其参数中提供的同一 XmlReader 实例。</value>
+  </data>
+  <data name="SyntacticTree_InvalidSkipQueryOptionValue" xml:space="preserve">
+    <value>找到 $skip 查询选项的无效值“{0}”。$skip 查询选项需要非负整数值。</value>
+  </data>
+  <data name="WriterValidationUtils_EntityReferenceLinksLinkMustNotBeNull" xml:space="preserve">
+    <value>“ODataEntityReferenceLinks.Links”enumerable 包含 null 项。此 enumerable 不能包含 null 项。</value>
+  </data>
+  <data name="RequestUriProcessor_KeysMustBeNamed" xml:space="preserve">
+    <value>具有多个键值的段必须以“名称=值”形式指定这些键值。</value>
+  </data>
+  <data name="ODataMessageWriter_CannotWriteNullInRawFormat" xml:space="preserve">
+    <value>不能以原始格式写入值“null”。</value>
+  </data>
+  <data name="ValidationUtils_InvalidBatchBoundaryDelimiterLength" xml:space="preserve">
+    <value>边界分隔符“{0}”无效。边界分隔符必须是非 null 且非空的，并且具有最多 {1} 个字符。</value>
+  </data>
+  <data name="ODataJsonReaderUtils_CannotConvertDouble" xml:space="preserve">
+    <value>无法将“Edm.Double”类型的值转换为预期的目标类型“{0}”。</value>
+  </data>
+  <data name="ODataWriterCore_EntityReferenceLinkWithoutNavigationLink" xml:space="preserve">
+    <value>实体引用链接已写入并且未环绕导航链接。在写入导航链接的内容时只能使用 WriteEntityReferenceLink 或 WriteEntityReferenceLinkAsync 方法。</value>
+  </data>
+  <data name="ValidationUtils_MismatchPropertyKindForStreamProperty" xml:space="preserve">
+    <value>属性“{0}”不能为流属性，因为其种类不是 EdmPrimitiveTypeKind.Stream。</value>
+  </data>
+  <data name="ODataMessageWriter_EntityReferenceLinksWithSingletonNavPropNotAllowed" xml:space="preserve">
+    <value>提供给 ODataMessageWriter.WriteEntityReferenceLinks 的名为“{0}”的导航属性表示单一属性。当编写多个实体引用链接时，导航属性必须是集合。</value>
+  </data>
+  <data name="RequestUriProcessor_CannotQueryCollections" xml:space="preserve">
+    <value>请求 URI 无效。因为段“{0}”引用一个集合，所以这必须是请求 URI 中的最后一个段。所有中间段都必须引用单个资源。</value>
+  </data>
+  <data name="HttpUtils_MissingSeparatorBetweenCharsets" xml:space="preserve">
+    <value>在标头“{0}”的字符集值之间缺少分隔符“,”。</value>
+  </data>
+  <data name="ODataAtomEntityReferenceLinkDeserializer_MultipleEntityReferenceLinksElementsWithSameName" xml:space="preserve">
+    <value>在实体引用链接元素中找到了多个“{{{0}}}:{1}”元素。在 OData 中，实体引用链接元素的值必须具有最多一个“{{{0}}}:{1}”元素。</value>
+  </data>
+  <data name="ODataCollectionReaderCore_SyncCallOnAsyncReader" xml:space="preserve">
+    <value>对异步集合读取器调用了同步操作。对集合读取器实例的所有调用必须全都是同步的，或者全都是异步的。</value>
+  </data>
+  <data name="ODataConventionalUriBuilder_NullKeyValue" xml:space="preserve">
+    <value>类型“{1}”上的键属性“{0}”具有 Null 值。键属性不得包含 Null 值。</value>
+  </data>
+  <data name="MetadataBinder_SpatialIntersectsFunctionWithInvalidArgTypes" xml:space="preserve">
+    <value>调用 geo.intersects 函数时使用了无效的参数类型。</value>
+  </data>
+  <data name="EpmSourceTree_SpatialTypeCannotBeMapped" xml:space="preserve">
+    <value>类型“{1}”的属性“{0}”是空间类型。不能使用实体属性映射来映射空间类型属性。</value>
+  </data>
+  <data name="ODataAtomWriterMetadataUtils_LinkTitlesMustMatch" xml:space="preserve">
+    <value>链接的标题的“{0}”值(指定或计算得出)与在该链接的元数据中指定的“{1}”值不匹配。如果在元数据中指定了一个标题，则这些标题必须匹配。</value>
+  </data>
+  <data name="ODataParameterReaderCore_ReadOrReadAsyncCalledInInvalidState" xml:space="preserve">
+    <value>在无效状态下调用了 ODataParameterReader.ReadAsync 或 ODataParameterReader.Read。在“{0}”状态下不能进一步调用读取器。</value>
+  </data>
+  <data name="ODataAtomEntryAndFeedDeserializer_MultipleInlineElementsInLink" xml:space="preserve">
+    <value>在 {http://www.w3.org/2005/Atom}:link 元素中找到了多个 {http://schemas.microsoft.com/ado/2007/08/dataservices/metadata}:inline 元素。每个 {http://www.w3.org/2005/Atom}:link 元素最多可包含一个 {http://schemas.microsoft.com/ado/2007/08/dataservices/metadata}:inline 子元素。</value>
+  </data>
+  <data name="ODataWriterCore_DeferredLinkInRequest" xml:space="preserve">
+    <value>延迟链接已写入某一请求。在请求中，每个导航链接都必须具有可向其中写入内容的馈送、入口或实体引用链接。</value>
+  </data>
+  <data name="ODataJsonLightDeserializer_AnnotationTargetingInstanceAnnotationWithoutValue" xml:space="preserve">
+    <value>找到针对实例批注“{1}”的批注“{0}”。但是未在其后找到实例批注“{1}”的值。在 JSON Light 中，针对实例批注的批注之后必须紧跟所针对的实例批注的值。</value>
+  </data>
+  <data name="ODataJsonReader_CannotReadEntryStart" xml:space="preserve">
+    <value>在尝试读取入口的开头时从 JSON 读取器读取了“{0}”类型的节点。应为“StartObject”节点。</value>
+  </data>
+  <data name="MetadataBinder_FunctionArgumentNotSingleValue" xml:space="preserve">
+    <value>名称为“{0}”的函数调用的参数不是单个值。此函数的所有参数必须为单个值。</value>
+  </data>
+  <data name="Nodes_EntityCollectionFunctionCallNode_ItemTypeMustBeAnEntity" xml:space="preserve">
+    <value>EntityCollectionFunctionCallNode 实例只能使用实体集合类型创建。对于返回基元或复杂值的函数，请使用 CollectionFunctionCallNode。</value>
+  </data>
+  <data name="RequestUriProcessor_CountNotSupported" xml:space="preserve">
+    <value>请求 URI 无效，$count 无法应用于段“{0}”，因为 $count 只能跟在资源段之后。</value>
+  </data>
+  <data name="ODataJsonLightServiceDocumentDeserializer_DuplicatePropertiesInServiceDocument" xml:space="preserve">
+    <value>在服务文档中找到多个“{0}”属性。在 OData 中，一个服务文档必须有且仅有一个“{0}”属性。</value>
+  </data>
+  <data name="ODataParameterReaderCore_ParametersMissingInPayload" xml:space="preserve">
+    <value>请求负载中缺少函数导入“{0}”的一个或多个参数。缺失的参数为: {1}。</value>
+  </data>
+  <data name="ODataJsonLightEntryAndFeedDeserializer_CannotReadCollectionNavigationPropertyValue" xml:space="preserve">
+    <value>在尝试读取实体集引用导航链接的内容时从 JSON 读取器读取了“{0}”类型的节点；但此处应为“StartArray”节点。</value>
+  </data>
+  <data name="ODataJsonLightEntityReferenceLinkDeserializer_InvalidPropertyAnnotationInEntityReferenceLinks" xml:space="preserve">
+    <value>读取实体引用链接负载时，找到一个名称为“{0}”的属性的属性批注。读取实体引用链接时不允许使用任何属性批注，仅允许使用实例批注。</value>
+  </data>
+  <data name="ODataJsonCollectionReader_CannotReadWrappedCollectionStart" xml:space="preserve">
+    <value>在尝试读取具有集合包装对象的集合的开头时从 JSON 读取器读取了“{0}”类型的节点。应为“StartObject”节点。</value>
+  </data>
+  <data name="ODataWriterCore_InlineCountInRequest" xml:space="preserve">
+    <value>对于请求负载，ODataFeed.Count 必须为 null。仅在响应中支持内联计数。</value>
+  </data>
+  <data name="ODataJsonLightMetadataUriParser_InvalidEntityTypeInTypeCast" xml:space="preserve">
+    <value>元数据 URI“{0}”包含到实体类型“{1}”的类型转换。但是，未在元数据中声明任何实体类型“{1}”。</value>
+  </data>
+  <data name="ODataMessageReader_DetectPayloadKindMultipleTimes" xml:space="preserve">
+    <value>已多次调用 DetectPayloadKind 或 DetectPayloadKindAsync；DetectPayloadKind 或 DetectPayloadKindAsync 只能调用一次。</value>
+  </data>
+  <data name="Nodes_PropertyAccessShouldBeNonEntityProperty" xml:space="preserve">
+    <value>此种类的节点要求关联属性是结构性非集合类型，但是属性“{0}”不是结构性的。</value>
+  </data>
+  <data name="ODataJsonLightInputContext_PayloadKindDetectionForRequest" xml:space="preserve">
+    <value>为请求负载调用了 ODataMessageReader.DetectPayloadKind。负载种类检测仅在 JSON Light 的响应中受支持。</value>
+  </data>
+  <data name="ODataJsonLightCollectionDeserializer_CannotReadCollectionContentStart" xml:space="preserve">
+    <value>在尝试读取集合项时从 JSON 读取器读取了“{0}”类型的节点；但此处应为'StartArray'节点。</value>
+  </data>
+  <data name="FunctionCallParser_DuplicateParameterName" xml:space="preserve">
+    <value>参数名称必须是唯一的。模型中可能有错误。</value>
+  </data>
+  <data name="ODataJsonEntryAndFeedDeserializer_MultipleMetadataPropertiesInEntryValue" xml:space="preserve">
+    <value>在入口中找到了多个“__metadata”属性。在 OData 中，一个入口只能包含一个“__metadata”属性。</value>
+  </data>
+  <data name="ODataWriterCore_InvalidTransitionFromCompleted" xml:space="preserve">
+    <value>无法从状态“{0}”转换到状态“{1}”。在完成编写器后，将不会进一步写入任何内容。</value>
+  </data>
+  <data name="ODataAtomEntryAndFeedDeserializer_ContentWithWrongType" xml:space="preserve">
+    <value>元素 {{http://www.w3.org/2005/Atom}}:content 的“type”特性缺失或具有无效值“{0}”。只有“application/xml”和“application/atom+xml”支持作为 {{http://www.w3.org/2005/Atom}}:content 元素上“type”特性的值。</value>
+  </data>
+  <data name="EpmExtensionMethods_InvalidTargetTextContentKindOnType" xml:space="preserve">
+    <value>不允许类型“{1}”的“{0}”特性值。支持的值为“text”、“html”和“xhtml”。</value>
+  </data>
+  <data name="ODataCollectionReaderCore_AsyncCallOnSyncReader" xml:space="preserve">
+    <value>对同步集合读取器调用了异步操作。对集合读取器实例的所有调用必须全都是同步的，或者全都是异步的。</value>
+  </data>
+  <data name="ODataMessageWriterSettings_MessageWriterSettingsXmlCustomizationCallbacksMustBeSpecifiedBoth" xml:space="preserve">
+    <value>startEntryXmlCustomizationCallback 和 endEntryXmlCustomizationCallback 必须均为 null 或均为非 null。</value>
+  </data>
+  <data name="ODataAtomPropertyAndValueDeserializer_TopLevelPropertyElementWrongNamespace" xml:space="preserve">
+    <value>在命名空间“{0}”中找到了一个根元素。顶级属性负载必须在“{1}”命名空间中具有根元素。</value>
+  </data>
+  <data name="FunctionCallBinder_BuiltInFunctionMustHaveHaveNullParent" xml:space="preserve">
+    <value>找到具有父标记的内置函数“{0}”。内置函数不能具有父标记。 </value>
+  </data>
+  <data name="ODataJsonLightEntryAndFeedDeserializer_EmptyBindArray" xml:space="preserve">
+    <value>“{0}”属性批注的值为空数组。“{0}”属性批注的值必须是非空数组。</value>
+  </data>
+  <data name="WriterValidationUtils_StreamReferenceValueMustHaveEditLinkOrReadLink" xml:space="preserve">
+    <value>检测到 EditLink 和 ReadLink 的值均为 null 的 ODataStreamReferenceValue。在 OData 中，流资源必须具有至少一个编辑链接或一个读取链接。</value>
+  </data>
+  <data name="ODataJsonLightInputContext_MetadataDocumentUriMissing" xml:space="preserve">
+    <value>用于读取 JSON Light 负载的 ODataMessageReaderSettings 未指定元数据文档 URI。若要读取 JSON Light 负载，需要元数据文档 URI。</value>
+  </data>
+  <data name="ODataJsonParameterReader_NullCollectionExpected" xml:space="preserve">
+    <value>在尝试读取详细 JSON 中的 Null 集合参数值时，从 JSON 读取器读取了包含值“{1}”的“{0}”类型的节点；但应为 "null" 值。</value>
+  </data>
+  <data name="ODataParameterWriterCore_CannotWriteValueOnNonValueTypeKind" xml:space="preserve">
+    <value>参数“{0}”为 Edm 类型种类“{1}”。不能对不是 Edm 类型种类“Primitive”或“Complex”的参数调用 WriteValue。</value>
+  </data>
+  <data name="ODataWriterCore_SyncCallOnAsyncWriter" xml:space="preserve">
+    <value>对异步编写器调用了同步操作。对编写器实例的调用必须或者全都是同步的，或者全都是异步的。</value>
+  </data>
+  <data name="ODataJsonLightEntryAndFeedDeserializer_FunctionImportIsNotActionOrFunction" xml:space="preserve">
+    <value>遇到无法解析为 ODataAction 或 ODataFunction 的函数导入“{0}”。</value>
+  </data>
+  <data name="MediaType_EncodingNotSupported" xml:space="preserve">
+    <value>不支持字符集“{0}”。</value>
+  </data>
+  <data name="MetadataBinder_SpatialLengthFunctionWithoutASingleValueArg" xml:space="preserve">
+    <value>调用 geo.length 函数时使用了非单一值操作数。</value>
+  </data>
+  <data name="AtomInstanceAnnotation_AttributeValueNotationUsedOnNonEmptyElement" xml:space="preserve">
+    <value>遇到非空 "annotation" 元素上的特性“{0}”。如果特性值标记用于指定批注的值，则该元素可以没有主体。</value>
+  </data>
+  <data name="ReaderValidationUtils_UndeclaredPropertyBehaviorKindSpecifiedOnRequest" xml:space="preserve">
+    <value>未将 ODataMessageReaderSettings.UndeclaredPropertyBehaviorKinds 设置为 ODataUndeclaredPropertyBehaviorKinds.None。当读取请求负载时，必须将 ODataMessageReaderSettings.UndeclaredPropertyBehaviorKinds 属性设置为 ODataUndeclaredPropertyBehaviorKinds.None；不支持其他值。</value>
+  </data>
+  <data name="ODataUriParser_InvalidInlineCount" xml:space="preserve">
+    <value>“{0}”不是有效的 InlineCount 选项。</value>
+  </data>
+  <data name="ODataJsonLightEntityReferenceLinkDeserializer_MissingEntityReferenceLinkProperty" xml:space="preserve">
+    <value>未找到实体引用链接的必需属性“{0}”。</value>
+  </data>
+  <data name="ODataJsonDeserializer_DataWrapperPropertyNotFound" xml:space="preserve">
+    <value>顶级数据包装对象不具有属性“d”。在 JSON 响应中，需要一个具有“d”属性的顶级数据包装对象。</value>
+  </data>
+  <data name="ODataJsonDeserializer_DataWrapperMultipleProperties" xml:space="preserve">
+    <value>在顶级数据包装对象中找到了多个“d”属性。在 JSON 中，顶级数据包装对象应该具有单个“d”属性。</value>
+  </data>
+  <data name="MetadataBinder_PropertyNotDeclaredOrNotKeyInKeyValue" xml:space="preserve">
+    <value>未对类型“{1}”声明属性“{0}”或该属性不是键属性。只有键属性可以用在键查找中。</value>
+  </data>
+  <data name="ODataAtomServiceDocumentMetadataDeserializer_MultipleAcceptElementsFoundInCollection" xml:space="preserve">
+    <value>在一个“collection”元素内找到了多个“accept”元素。一个“collection”元素只能包含一个 {http://www.w3.org/2007/app}:accept 元素。</value>
+  </data>
+  <data name="WriterValidationUtils_NavigationLinkMustSpecifyUrl" xml:space="preserve">
+    <value>导航链接“{0}”上的 ODataNavigationLink.Url 属性为 Null。ODataNavigationLink.Url 属性必须设置为表示导航链接引用的一个或多个实体的非 Null 值。</value>
+  </data>
+  <data name="HttpUtils_InvalidQualityValue" xml:space="preserve">
+    <value>在标头字符串“{1}”中检测到无效的质量值“{0}”；质量值必须在范围 [0, 1] 内。</value>
+  </data>
+  <data name="SingleEntityFunctionCallNode_CallFunctionImportsUsingLegacyConstructor" xml:space="preserve">
+    <value>请在访问 FunctionImports 前使用 IEnumerable&lt;IEdmFunctionImport&gt; 重载构造此 SingleEntityFunctionCallNode。</value>
+  </data>
+  <data name="DuplicatePropertyNamesChecker_DuplicateAnnotationForInstanceAnnotationNotAllowed" xml:space="preserve">
+    <value>检测到名称为“{1}”的实例批注具有多个名称为“{0}”的批注。在 OData 中，不允许重复的批注。</value>
+  </data>
+  <data name="ODataJsonLightEntryAndFeedSerializer_AnnotationGroupMemberMustBeAnnotation" xml:space="preserve">
+    <value>批注组“{1}”中名称为“{0}”的批注组成员不是批注。在 OData 中，JSON Light 批注组只能包含实例和属性批注。</value>
+  </data>
+  <data name="ODataAtomWriterMetadataUtils_CategorySchemesMustMatch" xml:space="preserve">
+    <value>类别的方案的“{0}”值(指定或计算得出)与在该类别的 ATOM 元数据中指定的“{1}”值不匹配。如果在 Atom 元数据中指定了一个方案，则这些方案必须匹配。</value>
+  </data>
+  <data name="ODataMessage_MustNotModifyMessage" xml:space="preserve">
+    <value>已尝试修改消息。但消息无法修改。</value>
+  </data>
+  <data name="HttpUtils_MediaTypeRequiresSemicolonBeforeParameter" xml:space="preserve">
+    <value>MIME 类型“{0}”要求在参数定义之前具有分号字符(“;”)。</value>
+  </data>
+  <data name="ODataMessageWriter_JsonPaddingOnInvalidContentType" xml:space="preserve">
+    <value>指定了 JsonPaddingFunctionName，但内容类型“{0}”不受 Json Padding 支持。</value>
+  </data>
+  <data name="EdmLibraryExtensions_CollectionItemCanBeOnlyPrimitiveOrComplex" xml:space="preserve">
+    <value>仅支持包含基元类型或复杂类型的集合属性。</value>
+  </data>
+  <data name="ReaderValidationUtils_MetadataUriValidationNonMatchingCollectionNames" xml:space="preserve">
+    <value>元数据 URI“{0}”引用名为“{1}”的函数导入；但是，预期的生成函数导入的名称是“{2}”。</value>
+  </data>
+  <data name="ODataJsonLightCollectionDeserializer_CannotReadCollectionEnd" xml:space="preserve">
+    <value>在读取顶级集合的项之后找到一个名称为“{0}”的属性或属性批注，或名称为“{0}”的实例批注。集合属性之后不允许使用任何其他属性或批注。</value>
+  </data>
+  <data name="ODataJsonLightMetadataUriParser_MetadataUriDoesNotMatchExpectedPayloadKind" xml:space="preserve">
+    <value>元数据 URI“{0}”对于预期负载种类“{1}”无效。</value>
+  </data>
+  <data name="ODataAtomMetadataDeserializer_MultipleSingletonMetadataElements" xml:space="preserve">
+    <value>在“{1}”元素中找到了多个“{0}”元素。一个“{1}”元素不能包含多个“{0}”元素。</value>
+  </data>
+  <data name="WriterValidationUtils_MessageWriterSettingsBaseUriMustBeNullOrAbsolute" xml:space="preserve">
+    <value>在 ODataMessageWriterSettings.BaseUri 中指定的基 URI“{0}”无效；它必须或者是 null，或者是绝对 URI。</value>
+  </data>
+  <data name="ODataAtomWriterMetadataUtils_LinkHrefsMustMatch" xml:space="preserve">
+    <value>链接的 href 的“{0}”值(指定或计算得出)与在该链接的元数据中指定的“{1}”值不匹配。如果在元数据中指定了一个 href，则这些 href 值必须匹配。</value>
+  </data>
+  <data name="HttpUtils_MediaTypeRequiresSubType" xml:space="preserve">
+    <value>MIME 类型“{0}”要求子类型定义。</value>
+  </data>
+  <data name="HttpUtils_CannotConvertCharToInt" xml:space="preserve">
+    <value>将字符“{0}”转换为整数时出错。</value>
+  </data>
+  <data name="SelectTreeNormalizer_NonPathProperty" xml:space="preserve">
+    <value>在 select 标记中找到了非路径属性。</value>
+  </data>
+  <data name="ODataAtomMetadataEpmMerge_TextKindConflict" xml:space="preserve">
+    <value>atom 元数据属性“{0}”指定的文本种类“{1}”与通过使用实体属性映射映射到此属性的文本种类“{2}”冲突。在元数据和实体属性映射均指定文本种类时，这些文本种类必须相等。</value>
+  </data>
+  <data name="ODataMessageReader_EntitySetSpecifiedWithoutMetadata" xml:space="preserve">
+    <value>使用非 Null 值指定了参数“{0}”，但没有可用于读取器的元数据。仅当元数据可用于读取器时，才能指定实体集。</value>
+  </data>
+  <data name="ValidationUtils_OpenStreamProperty" xml:space="preserve">
+    <value>找到了开放流属性“{0}”。在 OData 中，不支持开放流属性。</value>
+  </data>
+  <data name="HttpHeaderValueLexer_UnrecognizedSeparator" xml:space="preserve">
+    <value>分析 HTTP 标头“{0}”时出错。位置“{2}”处的标头值“{1}”不正确，因为“{3}”是无法识别的分隔符。支持的分隔符为 ","、";" 和 "="。</value>
+  </data>
+  <data name="MetadataBinder_QueryOptionNotApplicable" xml:space="preserve">
+    <value>“{0}”选项不能应用到查询路径。“{0}”只能应用到实体集合。 </value>
+  </data>
+  <data name="ODataInstanceAnnotation_NeedPeriodInName" xml:space="preserve">
+    <value>“{0}”是无效的实例批注名称。实例批注名称中包含的句点不能位于名称的开头或结尾。</value>
+  </data>
+  <data name="PathParser_LinksNotSupported" xml:space="preserve">
+    <value>请求 URI 无效。$links 无法应用于段“{0}”，因为 $links 只能跟在 entity 段之后。</value>
+  </data>
+  <data name="ODataJsonLightPropertyAndValueDeserializer_InvalidTypeName" xml:space="preserve">
+    <value>"odata.type" 实例批注值“{0}”不是有效的类型名称。"odata.type" 实例批注的值必须为非空字符串。</value>
+  </data>
+  <data name="XmlReaderExtension_InvalidRootNode" xml:space="preserve">
+    <value>在根级别找到了“{0}”类型的 XML 节点。OData 负载的根级别必须包含单个 XML 元素并且不包含文本节点。</value>
+  </data>
+  <data name="BadRequest_ValuesCannotBeReturnedForSpatialTypes" xml:space="preserve">
+    <value>不得为空间值指定 $value。</value>
+  </data>
+  <data name="ODataAtomEntityReferenceLinkDeserializer_InvalidEntityReferenceLinkStartElement" xml:space="preserve">
+    <value>命名空间“{1}”中名称为“{0}”的元素不是实体引用链接的有效的开始元素。实体引用链接的开始元素必须是“uri”并且它必须属于“http://schemas.microsoft.com/ado/2007/08/dataservices”命名空间。</value>
+  </data>
+  <data name="JsonReaderExtensions_CannotReadPropertyValueAsString" xml:space="preserve">
+    <value>无法将属性“{1}”的值“{0}”作为带引号的 JSON 字符串值读取。</value>
+  </data>
+  <data name="ODataParameterReaderCore_AsyncCallOnSyncReader" xml:space="preserve">
+    <value>对同步参数读取器调用了异步操作。对参数读取器实例的所有调用必须全都是同步的，或者全都是异步的。</value>
+  </data>
+  <data name="ODataResponseMessage_StreamTaskIsNull" xml:space="preserve">
+    <value>IODataResponseMessageAsync.GetStreamAsync 方法返回了 null。返回任务的异步方法永远不得返回 null。</value>
+  </data>
+  <data name="ODataAtomEntryAndFeedDeserializer_StreamPropertyWithMultipleEditLinks" xml:space="preserve">
+    <value>为流属性“{0}”找到了多个编辑链接。对于某一给定的流属性，仅允许一个编辑链接。</value>
+  </data>
+  <data name="ODataParameterWriterCore_SyncCallOnAsyncWriter" xml:space="preserve">
+    <value>对异步参数编写器调用了同步操作。对参数编写器实例的所有调用必须全都是同步的，或者全都是异步的。</value>
+  </data>
+  <data name="HttpUtils_EscapeCharAtEnd" xml:space="preserve">
+    <value>分析 HTTP 标头“{0}”时出错。位置“{2}”处的标头值“{1}”不正确，因为它以转义符“{3}”结束。在带引号的字符串中，转义符的后面必须始终跟有某个字符。</value>
+  </data>
+  <data name="ODataJsonEntityReferenceLinkDeserializer_ExpectedEntityReferenceLinksResultsPropertyNotFound" xml:space="preserve">
+    <value>在协议版本 2.0 和更高版本中，在包装实体引用链接的对象上找不到必需的“results”属性。</value>
+  </data>
+  <data name="ODataAtomCollectionDeserializer_TypeOrNullAttributeNotAllowed" xml:space="preserve">
+    <value>集合的根元素不能包含 {http://schemas.microsoft.com/ado/2007/08/dataservices/metadata}:type 特性或 {http://schemas.microsoft.com/ado/2007/08/dataservices/metadata}:null 特性。</value>
+  </data>
+  <data name="ODataJsonLightEntryAndFeedDeserializer_MetadataReferencePropertyInRequest" xml:space="preserve">
+    <value>在 JSON Light 请求负载中找到元数据引用属性。仅在响应中支持元数据引用属性。</value>
+  </data>
+  <data name="SelectionItemBinder_NonNavigationPathToken" xml:space="preserve">
+    <value>内部或开始路径段在 $select 中必须是导航属性。</value>
+  </data>
+  <data name="SegmentArgumentParser_TryConvertValuesForNamedValues" xml:space="preserve">
+    <value>正在调用错误的重载来将命名的值转换为类型。</value>
+  </data>
+  <data name="ODataJsonLightPropertyAndValueDeserializer_UnexpectedMetadataReferenceProperty" xml:space="preserve">
+    <value>在项之外的范围中遇到元数据引用属性“{0}”。在 OData 中，包含 '#' 字符的属性名称指示元数据中的引用，并且仅支持描述绑定到项的操作。</value>
+  </data>
+  <data name="ODataJsonLightServiceDocumentDeserializer_PropertyAnnotationInServiceDocument" xml:space="preserve">
+    <value>在服务文档的“{1}”对象中找到一个无法识别的属性批注“{0}”。工作区中不允许使用 OData 属性批注。</value>
+  </data>
+  <data name="FunctionCallBinder_CannotFindASuitableOverload" xml:space="preserve">
+    <value>找不到采用“ {1}”参数的函数“{0}”的合适重载。</value>
+  </data>
+  <data name="ODataReaderCore_NoReadCallsAllowed" xml:space="preserve">
+    <value>在“{0}”状态下不允许对 ODataReader 实例调用 Read 或 ReadAsync。</value>
+  </data>
+  <data name="ODataMessageWriter_CannotWriteInStreamErrorForRawValues" xml:space="preserve">
+    <value>不能在调用 WriteValue 方法或 WriteValueAsync 方法后对 ODataMessageWriter 调用 WriteError 方法或 WriteErrorAsync 方法。在 OData 中，不支持为原始值写入流中错误。</value>
+  </data>
+  <data name="MetadataBinder_NavigationPropertyNotFollowingSingleEntityType" xml:space="preserve">
+    <value>导航属性只能跟着单个实体节点。</value>
+  </data>
+  <data name="ODataJsonLightEntityReferenceLinkDeserializer_PropertyAnnotationForEntityReferenceLinks" xml:space="preserve">
+    <value>找到了实体引用链接的属性批注；但是，实体引用链接仅支持实例批注。</value>
+  </data>
+  <data name="RequestUriProcessor_CannotQuerySingletons" xml:space="preserve">
+    <value>请求 URI 无效，因为段“{0}”引用单一实例，且段“{1}”只能跟在资源集合之后。</value>
+  </data>
+  <data name="ODataJsonLightInputContext_ModelRequiredForReading" xml:space="preserve">
+    <value>只有错误负载支持在不使用模型的情况下分析 JSON Light 负载。</value>
+  </data>
+  <data name="ODataParameterWriter_CannotCreateParameterWriterOnResponseMessage" xml:space="preserve">
+    <value>对响应消息调用了 CreateParameterWriter。仅在请求消息中才允许参数负载。</value>
+  </data>
+  <data name="ODataMessageWriter_WriterAlreadyUsed" xml:space="preserve">
+    <value>ODataMessageWriter 已用于写入消息负载。ODataMessageWriter 只能使用一次以便写入给定消息的负载。</value>
+  </data>
+  <data name="ODataJsonLightMetadataUriParser_InvalidPayloadKindWithSelectQueryOption" xml:space="preserve">
+    <value>未找到负载种类“{0}”的 '$select' 查询选项。在 OData 中，仅负载种类 'Entry' 和 'Feed' 支持 '$select' 查询选项。</value>
+  </data>
+  <data name="Nodes_CollectionNavigationNode_MustHaveSingleMultiplicity" xml:space="preserve">
+    <value>导航属性必须具有目标多重性 "One" 或 "ZeroOrOne" 才能创建 SingleNavigationNode。</value>
+  </data>
+  <data name="MetadataBinder_UnnamedKeyValueOnTypeWithMultipleKeyProperties" xml:space="preserve">
+    <value>在对类型“{0}”的键查找中使用了未命名的键值，该类型具有多个键属性。未命名的键值只能用于包含一个键属性的类型。</value>
+  </data>
+  <data name="ODataBatchWriter_CannotStartChangeSetWithActiveChangeSet" xml:space="preserve">
+    <value>检测到针对 ODataBatchWriter 的无效的方法调用。不能使用活动的变更集调用 ODataBatchWriter.WriteStartChangeset；必须首先调用 ODataBatchWriter.WriteEndChangeset。</value>
+  </data>
+  <data name="ReaderValidationUtils_MetadataUriValidationNonMatchingFunctionImportNames" xml:space="preserve">
+    <value>元数据 URI“{0}”引用名为“{1}”的函数；但是，预期的函数导入的名称是“{2}”。</value>
+  </data>
+  <data name="HttpUtils_InvalidHttpMethodString" xml:space="preserve">
+    <value>字符串“{0}”不能转换为支持的 HTTP 方法。支持的 HTTP 方法只有 GET、DELETE、PUT、POST、PATCH 和 MERGE。</value>
+  </data>
+  <data name="ODataBatchUtils_RelativeUriUsedWithoutBaseUriSpecified" xml:space="preserve">
+    <value>在批处理操作中指定了相对 URI“{0}”，但没有为批处理编写器或批处理读取器指定基 URI。</value>
+  </data>
+  <data name="EpmTargetTree_DuplicateEpmAttributesWithSameTargetName" xml:space="preserve">
+    <value>类型“{0}”的多个 EntityPropertyMappingAttribute 具有相同的“TargetName”值“{1}”。冲突的属性是“{2}”和“{3}”。在 OData 中，对于给定类型，实体属性映射的目标名称必须唯一。</value>
+  </data>
+  <data name="ODataJsonReader_CannotReadEntriesOfFeed" xml:space="preserve">
+    <value>在尝试读取源的入口时从 JSON 读取器读取了“{0}”类型的节点。应为“StartObject”或“EndArray”节点。</value>
+  </data>
+  <data name="WriterValidationUtils_NextPageLinkInRequest" xml:space="preserve">
+    <value>对于请求负载，ODataFeed.NextPageLink 必须为 null。仅在响应中支持前进链接。</value>
+  </data>
+  <data name="AtomInstanceAnnotation_AttributeValueNotationUsedWithIncompatibleType" xml:space="preserve">
+    <value>"annotation" 元素上的 "type" 特性的值是“{0}”，这与“{1}”特性不兼容。</value>
+  </data>
+  <data name="ReaderValidationUtils_MetadataUriValidationNonMatchingFunctionImportReturnTypes" xml:space="preserve">
+    <value>元数据 URI“{0}”引用名为“{1}”且返回类型为“{2}”的函数；但是，预期的返回类型是“{3}”。</value>
+  </data>
+  <data name="EpmSyndicationWriter_InvalidValueForLinkRelCriteriaAttribute" xml:space="preserve">
+    <value>映射到“link/@rel”的类型“{2}”的属性“{1}”的值“{0}”无效。映射到“link/@rel”的属性的值不能是 Atom 定义的简单标识符，例如 alternate、related、self、enclosure、via、describedby、service、edit 或 edit-media；不能是以 IANA 命名空间开头的 Atom 定义的简单标识符，例如“http://www.iana.org/assignments/relation/edit”；也不能以命名空间“http://schemas.microsoft.com/ado/2007/08/dataservices”开头。</value>
+  </data>
+  <data name="JsonReader_InvalidPropertyNameOrUnexpectedComma" xml:space="preserve">
+    <value>无效的 JSON。属性名称“{0}”无效。属性的名称不能为空。</value>
+  </data>
+  <data name="ODataJsonLightEntryAndFeedSerializer_AnnotationGroupWithoutName" xml:space="preserve">
+    <value>为某个项找到了使用 Null 或空名称的批注组。在 OData 中，批注组必须具有非 Null、非空的名称，且该名称在整个负载中是唯一的。</value>
+  </data>
+  <data name="ODataAtomEntryAndFeedDeserializer_UnknownElementInInline" xml:space="preserve">
+    <value>在 {{http://schemas.microsoft.com/ado/2007/08/dataservices/metadata}}:inline 元素内找到了在命名空间“http://www.w3.org/2005/Atom”中具有名称“{0}”的元素。{{http://schemas.microsoft.com/ado/2007/08/dataservices/metadata}}:inline 元素内仅允许来自“http://www.w3.org/2005/Atom”命名空间的“entry”和“feed”元素或者来自其他命名空间的元素。</value>
+  </data>
+  <data name="ODataParameterReaderCore_ParameterNameNotInMetadata" xml:space="preserve">
+    <value>请求负载中的参数“{0}”不是函数导入“{1}”的有效参数。</value>
+  </data>
+  <data name="UriQueryExpressionParser_RangeVariableAlreadyDeclared" xml:space="preserve">
+    <value>已声明范围变量“{0}”。</value>
+  </data>
+  <data name="ODataAtomEntryAndFeedDeserializer_InvalidTypeAttributeOnAssociationLink" xml:space="preserve">
+    <value>导航属性“{0}”的关联链接上“type”特性的值无效。关联链接上的“type”特性的值必须为“application/xml”。 </value>
+  </data>
+  <data name="ValidationUtils_PropertyDoesNotExistOnType" xml:space="preserve">
+    <value>属性“{0}”在类型“{1}”上不存在。请确保仅使用该类型定义的属性名称。</value>
+  </data>
+  <data name="ODataBatchWriter_InvalidTransitionFromOperationCreated" xml:space="preserve">
+    <value>检测到针对 ODataBatchWriter 的无效的方法调用。在调用 CreateOperationRequestMessage 或 CreateOperationResponseMessage 后，针对 ODataBatchWriter 的有效的方法仅为 WriteStartChangeset、WriteEndChangeset、WriteEndBatch 和 FlushAsync。</value>
+  </data>
+  <data name="EpmTargetTree_InvalidTargetPath_EmptySegment" xml:space="preserve">
+    <value>在 EntityPropertyMappingAttribute 中设置的 TargetName 属性路径“{0}”无效，因为它包含空段。</value>
+  </data>
+  <data name="ODataJsonLightParameterDeserializer_UnsupportedParameterTypeKind" xml:space="preserve">
+    <value>参数“{0}”是不支持的类型种类“{1}”。仅支持基元、复杂、基元集合和复杂集合类型。</value>
+  </data>
+  <data name="ValidationUtils_NonPrimitiveTypeForPrimitiveValue" xml:space="preserve">
+    <value>指定了一个基元值；但需要非基元类型“{0}”的值。</value>
+  </data>
+  <data name="General_InternalError" xml:space="preserve">
+    <value>发生了内部错误“{0}”。</value>
+  </data>
+  <data name="UriQueryExpressionParser_ExpressionExpected" xml:space="preserve">
+    <value>“{1}”中的位置 {0} 上要求为表达式。</value>
+  </data>
+  <data name="ODataFeedAndEntryTypeContext_ODataEntryTypeNameMissing" xml:space="preserve">
+    <value>在 ODataMessageWriterSettings.AutoComputePayloadMetadataInJson 设置为 true 的情况下，在完整元数据模式中写入 JSON 响应时，必须指定用户模型，且必须将实体集和实体类型传递到 ODataMessageWriter.CreateEntryWriter 方法，或者必须设置 ODataEntry.TypeName。</value>
+  </data>
+  <data name="MetadataBinder_FilterExpressionNotSingleValue" xml:space="preserve">
+    <value>$filter 表达式的计算结果必须为单个布尔值。</value>
+  </data>
+  <data name="ODataAtomServiceDocumentDeserializer_ServiceDocumentRootElementWrongNameOrNamespace" xml:space="preserve">
+    <value>在命名空间“{1}”中找到了名为“{0}”的根元素。服务文档的根元素必须命名为“service”并且必须属于“http://www.w3.org/2007/app”命名空间。</value>
+  </data>
+  <data name="ODataMessageReader_FunctionImportSpecifiedWithoutMetadata" xml:space="preserve">
+    <value>使用非 null 值指定了参数“{0}”，但没有可用于读取器的元数据。只有在元数据可用于读取器时，才能指定函数导入。</value>
+  </data>
+  <data name="ODataJsonLightEntryAndFeedDeserializer_PropertyWithoutValueWithWrongType" xml:space="preserve">
+    <value>在负载中只有属性批注但没有属性值的属性“{0}”将声明为“{1}”类型。在 OData 中，只有导航属性和命名流才可以表示为没有值的属性。</value>
+  </data>
+  <data name="WriterValidationUtils_OperationInRequest" xml:space="preserve">
+    <value>编写请求时检测到具有元数据“{0}”的操作或函数；操作和函数仅在响应中受支持。</value>
+  </data>
+  <data name="ODataInstanceAnnotation_ValueCannotBeODataStreamReferenceValue" xml:space="preserve">
+    <value>实例批注的值不能属于 ODataStreamReferenceValue 类型。</value>
+  </data>
+  <data name="ODataJsonLightEntityReferenceLinkDeserializer_InvalidPropertyInEntityReferenceLink" xml:space="preserve">
+    <value>读取实体引用链接时，找到名称为“{0}”的属性。除了实体引用链接属性之外，不允许其他任何属性使用名称“{1}”。</value>
+  </data>
+  <data name="CollectionWithoutExpectedTypeValidator_InvalidItemTypeKind" xml:space="preserve">
+    <value>发现无效项目类型“{0}”。集合中的项目只能是“Primitive”或“Complex”类型，而不是“{0}”类型。</value>
+  </data>
+  <data name="ODataAtomEntryAndFeedDeserializer_ElementExpected" xml:space="preserve">
+    <value>发现类型为“{0}”的节点，但需要类型为“Element”的节点。其中一个条目必须表示为 XML 元素。</value>
+  </data>
+  <data name="EdmValueUtils_UnsupportedPrimitiveType" xml:space="preserve">
+    <value>发现一个基元值的类型为“{0}”。在 OData 中，类型“{0}”是不受支持的基元类型。</value>
+  </data>
+  <data name="ReaderValidationUtils_MetadataUriValidationPropertyWithExpectedFunctionImport" xml:space="preserve">
+    <value>元数据 URI“{0}”引用类型“{2}”上名为“{1}”的属性；但是，已指定名为“{3}”生成函数导入。</value>
+  </data>
+  <data name="ODataParameterWriterCore_CannotWriteEnd" xml:space="preserve">
+    <value>只能在 WriteStart 之后并且以前创建的子编写器已完成后调用 WriteEnd。</value>
+  </data>
+  <data name="ODataPrimitiveValue_CannotCreateODataPrimitiveValueFromUnsupportedValueType" xml:space="preserve">
+    <value>ODataPrimitiveValue 已使用“{0}”类型的值实例化。ODataPrimitiveValue 仅可以包装可表示为基元 EDM 类型的值。</value>
+  </data>
+  <data name="ODataJsonLightInputContext_NoItemTypeSpecified" xml:space="preserve">
+    <value>创建集合编写器时，必须在 JSON 中指定项类型。</value>
+  </data>
+  <data name="ODataJsonWriter_UnsupportedValueType" xml:space="preserve">
+    <value>不支持“{0}”类型的值并且不能转换为 JSON 表示形式。</value>
+  </data>
+  <data name="ReaderValidationUtils_CannotConvertPrimitiveValue" xml:space="preserve">
+    <value>无法将基元值转换为预期类型“{0}”。有关详细信息，请参见内部异常。</value>
+  </data>
+  <data name="JsonLightAnnotationGroupDeserializer_MultipleAnnotationGroupsWithSameName" xml:space="preserve">
+    <value>遇到多个名为“{0}”的批注组。批注组名称在负载中必须是唯一的。</value>
+  </data>
+  <data name="ODataJsonLightErrorDeserializer_TopLevelErrorValueWithInvalidProperty" xml:space="preserve">
+    <value>在顶级错误的错误值中找到了名为“{0}”的属性。在 OData 中，顶级错误值只能具有名为 "code"、"message" 或 "innererror" 的属性或自定义实例批注。</value>
+  </data>
+  <data name="ODataOutputContext_UnsupportedPayloadKindForFormat" xml:space="preserve">
+    <value>格式“{0}”不支持写入类型“{1}”的有效负载。</value>
+  </data>
+  <data name="MetadataBinder_QueryServiceOperationOfNonEntityType" xml:space="preserve">
+    <value>种类“{1}”的服务操作“{0}”返回了不是实体类型的类型“{2}”。种类 QueryWithMultipleResults 或 QueryWithSingleResult 的服务操作只能返回实体类型。</value>
+  </data>
+  <data name="ODataBatchOperationHeaderDictionary_KeyNotFound" xml:space="preserve">
+    <value>名称为“{0}”的标头在批处理操作的标头集合中不存在。</value>
+  </data>
+  <data name="HttpUtils_EscapeCharWithoutQuotes" xml:space="preserve">
+    <value>分析 HTTP 标头“{0}”时出错。位置“{2}”处的标头值“{1}”不正确，因为转义符“{3}”不在带引号的字符串内。</value>
+  </data>
+  <data name="EdmValueUtils_IncorrectPrimitiveTypeKindNoTypeName" xml:space="preserve">
+    <value>找到不兼容的基元类型种类。发现类型种类“{0}”，而不是预期的种类“{1}”。</value>
+  </data>
+  <data name="ODataMessageWriter_IncompatiblePayloadKinds" xml:space="preserve">
+    <value>在对 ODataUtils.SetHeadersForPayload 的上次调用中使用的负载种类“{0}”与要写入的种类为“{1}”的负载不兼容。</value>
+  </data>
+  <data name="UriSelectParser_FunctionsAreNotAllowed" xml:space="preserve">
+    <value>$select 表达式中不允许使用函数，但在表达式“{0}”中找到一个函数。</value>
+  </data>
+  <data name="ODataJsonLightPropertyAndValueSerializer_NoExpectedTypeOrTypeNameSpecifiedForCollectionValueInRequest" xml:space="preserve">
+    <value>在 OData 对象模型中未为集合属性提供预期类型或类型名称。写入请求负载时，必须指定预期类型或类型名称。</value>
+  </data>
+  <data name="ODataJsonLightEntityReferenceLinkDeserializer_MultipleUriPropertiesInEntityReferenceLink" xml:space="preserve">
+    <value>在实体引用链接对象中找到了多个“{0}”属性；但应只有一个“{0}”属性。</value>
+  </data>
+  <data name="ODataUriUtils_ConvertFromUriLiteralNullOnNonNullableType" xml:space="preserve">
+    <value>类型验证失败。应为不可为 null 的类型“{0}”，但收到了 null 值。</value>
+  </data>
+  <data name="ODataAtomEntryAndFeedDeserializer_ContentWithInvalidNode" xml:space="preserve">
+    <value>在 {{http://www.w3.org/2005/Atom}}:content 元素中找到了 XML 节点“{0}”。{{http://www.w3.org/2005/Atom}}:content 元素的唯一有效子节点是不重要节点和 {{http://schemas.microsoft.com/ado/2007/08/dataservices/metadata}}:properties 元素。</value>
+  </data>
+  <data name="MetadataBinder_SpatialLengthFunctionWithOutLineStringArg" xml:space="preserve">
+    <value>调用 geo.length 函数时使用了非 LineString 操作数。</value>
+  </data>
+  <data name="SelectionItemBinder_NonPathSelectToken" xml:space="preserve">
+    <value>找到了不是 select 语法树中的路径的属性标记。</value>
+  </data>
+  <data name="ExceptionUtils_CheckIntegerNotNegative" xml:space="preserve">
+    <value>应为非负整数值，但值“{0}”不是有效的非负整数。</value>
+  </data>
+  <data name="ExpandTreeNormalizer_NonPathInPropertyChain" xml:space="preserve">
+    <value>分析 select 或 expand 查询选项中的路径时找到了不是路径的段。</value>
+  </data>
+  <data name="ODataJsonInputContext_FunctionImportCannotBeNullForCreateParameterReader" xml:space="preserve">
+    <value>使用 null 值指定了参数“{0}”。对于 JSON 而言，“CreateParameterReader”方法的“{0}”参数不能为 null。</value>
+  </data>
+  <data name="ODataJsonReaderUtils_MetadataPropertyWithNullValue" xml:space="preserve">
+    <value>“__metadata”属性值中的“{0}”属性具有 null 值。在 OData 中，“{0}”属性必须具有非 null 字符串值。</value>
+  </data>
+  <data name="ODataJsonCollectionDeserializer_MultipleResultsPropertiesForCollection" xml:space="preserve">
+    <value>为某个集合找到了多个“results”属性。在 OData 中，一个集合最多只能有一个“results”属性。</value>
+  </data>
+  <data name="ODataJsonLightSerializer_RelativeUriUsedWithoutMetadataDocumentUriOrMetadata" xml:space="preserve">
+    <value>在要写入的数据中指定了一个相对 URI 值“{0}”，但没有为编写器指定要写入的项的元数据文档 URI 或元数据。必须在使用相对 URI 值时向编写器提供要写入的项的元数据文档 URI 和元数据。</value>
+  </data>
+  <data name="MetadataBinder_LambdaParentMustBeCollection" xml:space="preserve">
+    <value>Any/All 只能在一个集合后面使用。</value>
+  </data>
+  <data name="ODataAtomReader_MediaLinkEntryMismatch" xml:space="preserve">
+    <value>Atom 入口可以是一般的入口或 Media Link Entry (MLE)。这意味着它不能在 {http://www.w3.org/2005/Atom}:content 元素(表示一般入口)和 {http://schemas.microsoft.com/ado/2007/08/dataservices/metadata}:properties 元素(表示 MLE)中都具有数据。 </value>
+  </data>
+  <data name="ODataBatchReader_DuplicateContentIDsNotAllowed" xml:space="preserve">
+    <value>在同一个变更集中多次找到了内容 ID“{0}”。内容 ID 在一个变更集的所有操作中必须唯一。</value>
+  </data>
+  <data name="ReaderValidationUtils_MessageReaderSettingsBaseUriMustBeNullOrAbsolute" xml:space="preserve">
+    <value>在 ODataMessageReaderSettings.BaseUri 中指定的基 URI“{0}”无效；它必须为 null 或绝对 URI。</value>
+  </data>
+  <data name="ODataMessageReader_ServiceDocumentInRequest" xml:space="preserve">
+    <value>无法从请求负载读取服务文档。仅在响应中支持服务文档。</value>
+  </data>
+  <data name="ODataJsonLightPropertyAndValueDeserializer_ComplexValuePropertyAnnotationWithoutProperty" xml:space="preserve">
+    <value>在没有要进行批注的属性的复杂值中找到属性“{0}”的一个或多个属性批注。复杂值必须只包含现有属性的属性批注。</value>
+  </data>
+  <data name="ODataJsonLightServiceDocumentDeserializer_UnexpectedPropertyInServiceDocument" xml:space="preserve">
+    <value>在服务文档中遇到异常属性“{0}”。服务文档的顶级对象可能只有“{1}”属性。</value>
+  </data>
+  <data name="ODataMessageReader_ExpectedValueTypeWrongKind" xml:space="preserve">
+    <value>值的预期类型为“{0}”种类。只有 Primitive 种类的类型才能指定为用于读取值的预期类型。</value>
+  </data>
+  <data name="PathParser_TypeMustBeRelatedToSet" xml:space="preserve">
+    <value>类型“{0}”并非继承自“{1}”，也不是后者的基类型。类型“{2}”必须与 EntitySet 的类型相关。</value>
+  </data>
+  <data name="ODataJsonPropertyAndValueDeserializer_InvalidPrimitiveTypeName" xml:space="preserve">
+    <value>“type”属性值“{0}”无效。仅当基元属性是空间属性时，才能指定类型名称。请确保类型名称是空间类型名称或非基元类型名称。</value>
+  </data>
+  <data name="ODataJsonLightEntityReferenceLinkDeserializer_InvalidEntityReferenceLinksPropertyFound" xml:space="preserve">
+    <value>尝试读取实体引用链接的集合时找到名称为“{0}”的属性或名称为“{0}”的属性的属性批注；但是，属性的名称应为“{1}”。</value>
+  </data>
+  <data name="HttpUtils_MediaTypeUnspecified" xml:space="preserve">
+    <value>MIME 类型“{0}”无效或未指定。</value>
+  </data>
+  <data name="ODataAtomWriter_FeedsMustHaveNonEmptyId" xml:space="preserve">
+    <value>检测到没有 ID 的 ODataFeed；在 OData 中，源必须具有非 Null、非空的 ID 值。</value>
+  </data>
+  <data name="Nodes_PropertyAccessTypeShouldNotBeCollection" xml:space="preserve">
+    <value>此种类的节点要求关联属性是结构性非集合类型，但是属性“{0}”是集合。</value>
+  </data>
+  <data name="ODataMessageReader_ErrorPayloadInRequest" xml:space="preserve">
+    <value>无法从请求负载读取顶级错误。仅在响应中支持顶级错误。</value>
+  </data>
+  <data name="ODataUtils_NullValueForMimeTypeAnnotation" xml:space="preserve">
+    <value>MIME 类型注释不得具有 null 值。</value>
+  </data>
+  <data name="ODataJsonLightPropertyAndValueDeserializer_UnexpectedPropertyAnnotation" xml:space="preserve">
+    <value>属性“{0}”具有属性批注“{1}”。此批注无法识别或不应出现在当前位置。</value>
+  </data>
+  <data name="ODataMessageWriter_ErrorPayloadInRequest" xml:space="preserve">
+    <value>无法将错误写入到请求负载。只有在响应中才支持错误。</value>
+  </data>
+  <data name="ExpandItemBinder_PropertyIsNotANavigationProperty" xml:space="preserve">
+    <value>类型“{1}”上的属性“{0}”不是导航属性。只能扩展导航属性。</value>
+  </data>
+  <data name="ODataJsonLightReaderUtils_InvalidValueForODataNullAnnotation" xml:space="preserve">
+    <value>找到具有无效值的“{0}”批注。在 OData 中，“{0}”批注的唯一有效值为“{1}”。</value>
+  </data>
+  <data name="ValidationUtils_TypeNameMustNotBeEmpty" xml:space="preserve">
+    <value>找到了空的类型名称；某一类型的名称不能是空字符串。</value>
+  </data>
+  <data name="ODataJsonLightEntryAndFeedDeserializer_StreamPropertyInRequest" xml:space="preserve">
+    <value>在 JSON Light 请求负载中找到流属性。仅在响应中支持流属性。</value>
+  </data>
+  <data name="ODataJsonLightPropertyAndValueDeserializer_NoPropertyAndAnnotationAllowedInNullPayload" xml:space="preserve">
+    <value>在 null 负载中找到名称为“{0}”的属性。在 OData 中，任何属性或 OData 注释都不能出现在 null 负载中。</value>
+  </data>
+  <data name="ODataJsonPropertyAndValueDeserializer_InvalidTypeName" xml:space="preserve">
+    <value>“type”属性值“{0}”不是有效的类型名称。“type”属性值必须为非空的字符串。</value>
+  </data>
+  <data name="ODataJsonLightInputContext_FunctionImportCannotBeNullForCreateParameterReader" xml:space="preserve">
+    <value>参数“{0}”指定了 Null 值。对于 JSON Light 而言，'CreateParameterReader' 方法的“{0}”参数不能为 Null。</value>
+  </data>
+  <data name="ODataJsonLightEntityReferenceLinkDeserializer_PropertyAnnotationForEntityReferenceLink" xml:space="preserve">
+    <value>读取实体引用链接时检测到名称为“{0}”的属性批注；实体引用链接不支持属性批注。</value>
+  </data>
+  <data name="WriterValidationUtils_EntityReferenceLinkUrlMustNotBeNull" xml:space="preserve">
+    <value>检测到具有 null Url 的 ODataEntityReferenceLink；ODataEntityReferenceLink 必须具有非 null Url。</value>
+  </data>
+  <data name="SegmentArgumentParser_TryConvertValuesForPositionalValues" xml:space="preserve">
+    <value>正在调用错误的重载来将位置值转换为类型。</value>
+  </data>
+  <data name="MessageStreamWrappingStream_ByteLimitExceeded" xml:space="preserve">
+    <value>已超出允许从流中读取的最大字节数。上次读取操作之后，总共从流中读取了 {0} 字节；但允许的最大字节数为 {1}。</value>
+  </data>
+  <data name="ODataAtomServiceDocumentDeserializer_MultipleWorkspaceElementsFound" xml:space="preserve">
+    <value>在服务文档内找到了多个“workspace”元素。一个服务文档必须包含单个 {http://www.w3.org/2007/app}:workspace 元素。</value>
+  </data>
+  <data name="ODataAtomEntryAndFeedDeserializer_StreamPropertyDuplicatePropertyName" xml:space="preserve">
+    <value>找到了流属性“{0}”，但该实体上已存在具有相同名称的另一个属性。该流属性名称不能与其他属性的名称冲突。</value>
+  </data>
+  <data name="ODataJsonEntryAndFeedDeserializer_CannotReadFeedContentStart" xml:space="preserve">
+    <value>在尝试读取馈送的入口时从 JSON 读取器读取了“{0}”类型的节点；但此处应为“StartArray”节点。</value>
+  </data>
+  <data name="Nodes_PropertyAccessTypeMustBeCollection" xml:space="preserve">
+    <value>此种类的节点要求关联属性是结构性集合类型，但是属性“{0}”不是集合。</value>
+  </data>
+  <data name="ODataReaderCore_ReadOrReadAsyncCalledInInvalidState" xml:space="preserve">
+    <value>在无效状态下调用了 ODataReader.ReadAsync 或 ODataReader.Read。在“{0}”状态下不能进一步调用读取器。</value>
+  </data>
+  <data name="ODataBatchWriter_SyncCallOnAsyncWriter" xml:space="preserve">
+    <value>对异步批处理编写器调用了同步操作。对批处理编写器实例的调用必须或者全都是同步的，或者全都是异步的。</value>
+  </data>
+  <data name="HttpUtils_MediaTypeRequiresSlash" xml:space="preserve">
+    <value>MIME 类型“{0}”要求在类型和子类型之间存在“/”字符，例如“text/plain”。</value>
+  </data>
+  <data name="ODataJsonLightInputContext_NavigationPropertyRequiredForReadEntityReferenceLinkInRequests" xml:space="preserve">
+    <value>检测到在未指定导航属性的情况下尝试读取请求中的实体引用链接的行为。读取请求中的实体引用链接负载时，必须提供导航属性。</value>
+  </data>
+  <data name="ODataAtomServiceDocumentDeserializer_UnexpectedElementInServiceDocument" xml:space="preserve">
+    <value>在命名空间“http://www.w3.org/2007/app”中找到了名为“{0}”的元素。除了扩展元素之外，服务文档只能包含单个 {{http://www.w3.org/2007/app}}:workspace 元素。</value>
+  </data>
+  <data name="JsonLightAnnotationGroupDeserializer_InvalidAnnotationFoundInsideAnnotationGroup" xml:space="preserve">
+    <value>遇到一个包含属性“{0}”的批注组，该属性不是有效的批注名称。</value>
+  </data>
+  <data name="ODataJsonLightPropertyAndValueDeserializer_ComplexTypeAnnotationNotFirst" xml:space="preserve">
+    <value>复杂对象中的 "odata.type" 实例批注不是对象的第一个属性。在 OData 中，"odata.type" 实例批注必须是复杂对象的第一个属性。</value>
+  </data>
+  <data name="ODataJsonLightMetadataUriParser_InvalidEntitySetName" xml:space="preserve">
+    <value>元数据 URI“{0}”引用了实体集“{1}”。但是在元数据中未声明实体集名称“{1}”。</value>
+  </data>
+  <data name="ODataJsonOperationsDeserializerUtils_OperationPropertyCannotBeNull" xml:space="preserve">
+    <value>“{2}”中的操作“{1}”的“{0}”属性不能有 Null 值。</value>
+  </data>
+  <data name="ODataAtomMetadataEpmMerge_TextValueConflict" xml:space="preserve">
+    <value>atom 元数据属性“{0}”指定的值“{1}”与通过使用实体属性映射映射到此属性的值“{2}”冲突。在元数据和实体属性映射均指定某一值时，这些值必须相等。</value>
+  </data>
+  <data name="ODataWriterCore_AsyncCallOnSyncWriter" xml:space="preserve">
+    <value>对同步编写器调用了异步操作。对编写器实例的调用必须或者全都是同步的，或者全都是异步的。</value>
+  </data>
+  <data name="UriParser_ExpandCountExceeded" xml:space="preserve">
+    <value>分析 $expand 的结果至少包含 {0} 项，但是允许的最大项数为 {1}。</value>
+  </data>
+  <data name="ODataJsonPropertyAndValueDeserializer_TopLevelPropertyWithoutMetadata" xml:space="preserve">
+    <value>不支持在没有模型的情况下对 JSON 顶级属性进行分析。</value>
+  </data>
+  <data name="ReaderUtils_EnumerableModified" xml:space="preserve">
+    <value>在读取器报告所属入口结束之前，不能修改“{0}”属性返回的值。</value>
+  </data>
+  <data name="ODataMessageReader_MetadataDocumentInRequest" xml:space="preserve">
+    <value>无法从请求负载读取元数据文档。仅在响应中支持元数据文档。</value>
+  </data>
+  <data name="ODataJsonLightPropertyAndValueDeserializer_UnexpectedAnnotationProperties" xml:space="preserve">
+    <value>找到批注“{0}”。此批注无法识别或不应出现在当前位置。</value>
+  </data>
+  <data name="BadRequest_ResourceCanBeCrossReferencedOnlyForBindOperation" xml:space="preserve">
+    <value>处理请求流时出错。在批处理模式下，只能为绑定/取消绑定操作交叉引用资源。</value>
+  </data>
+  <data name="SelectedPropertiesNode_StarSegmentAfterTypeSegment" xml:space="preserve">
+    <value>分析 select 子句时，在属性路径中的类型段的紧后面找到一个“*”段。在 OData 中，“*”段不能跟在类型段的后面。</value>
+  </data>
+  <data name="ODataUriParserException_GeneralError" xml:space="preserve">
+    <value>分析 URI 的部分时出错。</value>
+  </data>
+  <data name="SegmentArgumentParser_TryConvertValuesToNonPrimitive" xml:space="preserve">
+    <value>不能使用非基元类型作为参数。</value>
+  </data>
+  <data name="RequestUriProcessor_EntitySetNotSpecified" xml:space="preserve">
+    <value>未指定操作“{0}”的实体集。很可能 IEdmModel 中出错。</value>
+  </data>
+  <data name="MetadataBinder_IllegalSegmentType" xml:space="preserve">
+    <value>只能绑定是 Navigation、Structural、Complex 或 Collections 的段。我们找到不属于这些类型的段“{0}”。请修改查询。</value>
+  </data>
+  <data name="DuplicatePropertyNamesChecker_PropertyAnnotationAfterTheProperty" xml:space="preserve">
+    <value>检测到属性“{1}”的名为“{0}”的批注在该属性之后，或者在另一个属性的批注之后。在 OData 中，属性的批注必须位于单独的一个组中，并且必须在所批注的属性前显示。</value>
+  </data>
+  <data name="UriQueryPathParser_InvalidKeyValueLiteral" xml:space="preserve">
+    <value>键值“{0}”未识别为有效文本。</value>
+  </data>
+  <data name="ODataBatchWriter_CannotCreateRequestOperationWhenWritingResponse" xml:space="preserve">
+    <value>在写入批处理响应时，不能创建批处理操作请求消息。</value>
+  </data>
+  <data name="ODataAtomEntryAndFeedDeserializer_EntryElementWrongName" xml:space="preserve">
+    <value>在命名空间“{1}”中找到了名为“{0}”的元素；但此处应为入口。入口必须表示为 {{http://www.w3.org/2005/Atom}}:entry 元素。</value>
+  </data>
+  <data name="ValidationUtils_ActionsAndFunctionsMustSpecifyTarget" xml:space="preserve">
+    <value>{0} 上的“Target”属性必须设置为非 null 值。</value>
+  </data>
+  <data name="ODataJsonLightPropertyAndValueDeserializer_TopLevelPropertyAnnotationWithoutProperty" xml:space="preserve">
+    <value>在没有要进行批注的属性的顶级属性或集合负载中找到属性“{0}”的一个或多个属性批注。顶级属性负载和集合负载必须包含一个属性以及此属性的可选批注。</value>
+  </data>
+  <data name="OperationSegment_CannotReturnNull" xml:space="preserve">
+    <value>操作的返回类型不可能具有指定的实体集。</value>
+  </data>
+  <data name="ODataJsonLightEntryAndFeedDeserializer_UnexpectedNavigationLinkInRequestPropertyAnnotation" xml:space="preserve">
+    <value>导航属性“{0}”具有属性批注“{1}”。请求负载中的导航链接只能具有“{2}”属性批注。</value>
+  </data>
+  <data name="ODataJsonEntityReferenceLinkDeserializer_EntityReferenceLinkMustBeObjectValue" xml:space="preserve">
+    <value>在尝试读取实体引用链接的开头时从 JSON 读取器读取了“{0}”类型的节点。在 OData 中，实体引用链接必须是对象。</value>
+  </data>
+  <data name="ODataJsonLightServiceDocumentDeserializer_MissingRequiredPropertyInResourceCollection" xml:space="preserve">
+    <value>遇到没有“{0}”属性的资源集合。在服务文档中，资源集合必须包含“{0}”属性。</value>
+  </data>
+  <data name="ODataAtomEntryAndFeedDeserializer_StreamPropertyWithMultipleContentTypes" xml:space="preserve">
+    <value>为流属性“{0}”找到了多个内容类型值。如果某个流属性表示为两个 {{http://www.w3.org/2005/Atom}}:link 元素并且这两个元素都具有“type”特性，则这两个值必须相同。</value>
+  </data>
+  <data name="MetadataBinder_SpatialIntersectsFunctionWithInvalidArgs" xml:space="preserve">
+    <value>geo.intersects 函数包含的操作数的数量无效: 操作数的数量为“{0}”，但此数量应该为 2。</value>
+  </data>
+  <data name="ODataReaderCore_AsyncCallOnSyncReader" xml:space="preserve">
+    <value>对同步参数读取器调用了异步操作。对读取器实例的调用必须或者全都是同步的，或者全都是异步的。</value>
+  </data>
+  <data name="ODataJsonLightEntryAndFeedDeserializer_CannotReadSingletonNavigationPropertyValue" xml:space="preserve">
+    <value>在尝试读取资源引用导航链接的内容时从 JSON 读取器读取了“{0}”类型的节点；但此处应为“StartObject”节点或具有 null 值的“PrimitiveValue”节点。</value>
+  </data>
+  <data name="MediaTypeUtils_NoOrMoreThanOneContentTypeSpecified" xml:space="preserve">
+    <value>指定的内容类型“{0}”不包含媒体类型或包含多个媒体类型，这是不允许的。必须指定一个媒体类型作为内容类型。</value>
+  </data>
+  <data name="ODataAtomServiceDocumentDeserializer_UnexpectedElementInResourceCollection" xml:space="preserve">
+    <value>在命名空间“http://www.w3.org/2007/app”中找到了名为“{0}”的元素。{{http://www.w3.org/2007/app}}:collection 元素只能包含 {{http://www.w3.org/2005/Atom}}:title 元素、扩展元素以及 {{http://www.w3.org/2007/app}}:accept 或 {{http://www.w3.org/2007/app}}:categories 元素。</value>
+  </data>
+  <data name="ODataParameterReaderCore_SubReaderMustBeCreatedAndReadToCompletionBeforeTheNextReadOrReadAsyncCall" xml:space="preserve">
+    <value>在“{0}”状态下调用了 ODataParameterReader.ReadAsync 或 ODataParameterReader.Read。必须在此状态下调用“{1}”，并且创建的读取器必须处于“Completed”状态，之后才能调用下一个 ODataParameterReader.ReadAsync 或 ODataParameterReader.Read。</value>
+  </data>
+  <data name="SelectionItemBinder_NonEntityTypeSegment" xml:space="preserve">
+    <value>找到了不是实体类型的类型段“{0}”。</value>
+  </data>
+  <data name="ODataUtils_IsAlwaysBindableAnnotationSetForANonBindableFunctionImport" xml:space="preserve">
+    <value>无法将非可绑定函数导入的“IsAlwaysBindable”注释设置为“true”。</value>
+  </data>
+  <data name="MetadataBinder_IncompatibleOperandsError" xml:space="preserve">
+    <value>检测到包含不兼容类型的二元运算符。找到运算符种类“{2}”的操作数类型“{0}”和“{1}”。</value>
+  </data>
+  <data name="ODataAtomWriterMetadataUtils_CategoryTermsMustMatch" xml:space="preserve">
+    <value>类别的术语的“{0}”值(指定或计算得出)与在该类别的 ATOM 元数据中指定的“{1}”值不匹配。如果在 Atom 元数据中指定了一个术语，则这些术语必须匹配。</value>
+  </data>
+  <data name="ODataAtomWriter_StartEntryXmlCustomizationCallbackReturnedSameInstance" xml:space="preserve">
+    <value>在 ODataMessageWriterSettings.EnableWcfDataServicesClientBehavior 中设置的 startEntryXmlCustomizationCallback 永远不得返回与在其参数中提供的相同的 XmlWriter 实例。</value>
+  </data>
+  <data name="ODataCollectionWriterCore_InvalidTransitionFromStart" xml:space="preserve">
+    <value>无法从状态“{0}”转换到状态“{1}”。状态“{0}”下的有效操作仅是写入集合或者完全不写入任何内容。</value>
+  </data>
+  <data name="ODataInstanceAnnotation_BadTermName" xml:space="preserve">
+    <value>“{0}”是无效的实例批注名称。</value>
+  </data>
+  <data name="WriterValidationUtils_CollectionPropertiesMustNotHaveNullValue" xml:space="preserve">
+    <value>集合属性“{0}”具有 null 值，这是不允许的。在 Odata 中，集合属性不能具有 null 值。</value>
+  </data>
+  <data name="ODataBatchWriter_AsyncCallOnSyncWriter" xml:space="preserve">
+    <value>对同步批处理编写器调用了异步操作。对批处理编写器实例的调用必须或者全都是同步的，或者全都是异步的。</value>
+  </data>
+  <data name="SelectExpandBinder_CantFindProperty" xml:space="preserve">
+    <value>无法在模型中找到属性“{0}”。</value>
+  </data>
+  <data name="ODataBatchReader_CannotUseReaderWhileOperationStreamActive" xml:space="preserve">
+    <value>在操作内容的流仍处于活动状态时，无法使用批处理读取器。您必须首先释放操作流，然后再进一步调用批处理读取器。</value>
+  </data>
+  <data name="MetadataBinder_CastOrIsOfExpressionWithWrongNumberOfOperands" xml:space="preserve">
+    <value>Cast 或 IsOf 表达式包含的操作数的数量无效: 操作数的数量为“{0}”，而此数量应该为 1 或 2。</value>
+  </data>
+  <data name="MetadataBinder_UnsupportedSystemQueryOption" xml:space="preserve">
+    <value>不支持系统查询选项“{0}”。</value>
+  </data>
+  <data name="ODataOutputContext_CustomInstanceAnnotationsNotSupportedForFormat" xml:space="preserve">
+    <value>格式“{0}”不支持编写自定义实例批注。</value>
+  </data>
+  <data name="ODataMetadataBuilder_MissingEntitySetUri" xml:space="preserve">
+    <value>实体集“{0}”没有 "OData.EntitySetUri" 批注。此批注是必需的。</value>
+  </data>
+  <data name="DuplicatePropertyNamesChecker_DuplicateAnnotationForPropertyNotAllowed" xml:space="preserve">
+    <value>为名为“{1}”的属性检测到多个名为“{0}”的批注。在 OData 中，不允许使用重复的批注。</value>
+  </data>
+  <data name="ODataBatchReaderStream_MultiByteEncodingsNotSupported" xml:space="preserve">
+    <value>检测到无效多字节编码“{0}”。只有操作负载支持除 UTF-8 之外的多字节编码。它们在批处理或变更集部件中不受支持。</value>
+  </data>
+  <data name="ODataJsonLightCollectionDeserializer_ExpectedCollectionPropertyNotFound" xml:space="preserve">
+    <value>尝试读取集合的开头时，未找到预期的名称为“{0}”的集合属性。</value>
+  </data>
+  <data name="ExpandItemBinder_PathTooDeep" xml:space="preserve">
+    <value>正在尝试分析过长的类型段路径。</value>
+  </data>
+  <data name="MediaTypeUtils_CannotDetermineFormatFromContentType" xml:space="preserve">
+    <value>找不到与响应的内容类型匹配的支持的 MIME 类型。没有任何支持的类型“{0}”与内容类型“{1}”匹配。</value>
+  </data>
+  <data name="ODataMetadataOutputContext_ErrorWritingMetadata" xml:space="preserve">
+    <value>无法写入元数据文档的指定。
+{0}</value>
+  </data>
+  <data name="ODataInputContext_UnsupportedPayloadKindForFormat" xml:space="preserve">
+    <value>格式“{0}”不支持读取类型“{1}”的有效负载。</value>
+  </data>
+  <data name="HttpHeaderValueLexer_FailedToReadTokenOrQuotedString" xml:space="preserve">
+    <value>分析 HTTP 标头“{0}”时出错。位置“{2}”处的标头值“{1}”不正确，因为要求在此位置上是标记或带引号的字符串，但是没有找到它。</value>
+  </data>
+  <data name="ODataParameterWriterCore_AsyncCallOnSyncWriter" xml:space="preserve">
+    <value>对同步参数编写器调用了异步操作。对参数编写器实例的所有调用必须全都是同步的，或者全都是异步的。</value>
+  </data>
+  <data name="ODataParameterWriterCore_CannotWriteParameter" xml:space="preserve">
+    <value>只能在 WriteStart 之后、WriteEnd 之前调用 WriteValue 和 CreateCollectionWriter；并且不能在以前创建的子编写器完成之前调用它们。</value>
+  </data>
+  <data name="ODataJsonLightEntryAndFeedDeserializer_MultipleTargetPropertiesInOperation" xml:space="preserve">
+    <value>找到操作“{0}”的多个 "target" 属性。在 OData 中，一个操作必须有且仅有一个 "target" 属性。</value>
+  </data>
+  <data name="WriterValidationUtils_EntriesMustHaveNonEmptyId" xml:space="preserve">
+    <value>检测到具有空 ID 值的入口。在 OData 中，入口必须具有非空 ID 值或者没有 ID 值。</value>
+  </data>
+  <data name="ODataCollectionWriterCore_AsyncCallOnSyncWriter" xml:space="preserve">
+    <value>对同步集合编写器调用了异步操作。对集合编写器实例的所有调用必须全都是同步的，或者全都是异步的。</value>
+  </data>
+  <data name="ReaderValidationUtils_MetadataUriDoesNotReferTypeAssignableToExpectedType" xml:space="preserve">
+    <value>元数据 URI“{0}”引用项类型“{1}”，它无法赋给要求的项类型“{2}”。</value>
+  </data>
+  <data name="ODataJsonServiceDocumentDeserializer_MultipleEntitySetsPropertiesForServiceDocument" xml:space="preserve">
+    <value>为服务文档找到了多个“EntitySets”属性。在 OData 中，一个服务文档必须具有恰好一个“EntitySets”属性。</value>
+  </data>
+  <data name="ODataAtomEntryAndFeedDeserializer_EncounteredDeltaLinkInNestedFeed" xml:space="preserve">
+    <value>在嵌套的馈送中遇到“Delta Link”元素。嵌套的馈送不支持 Delta Link。</value>
+  </data>
+  <data name="MetadataBinder_NonQueryableServiceOperationWithKeyLookup" xml:space="preserve">
+    <value>段“{0}”具有键查找，但是该段是返回无法查询的结果的服务操作。只有返回可查询结果的服务操作具有应用到它们的键查找。</value>
+  </data>
+  <data name="ODataCollectionWriter_CannotCreateCollectionWriterForFormat" xml:space="preserve">
+    <value>不能为 ODataFormat.{0} 创建 ODataCollectionWriter。仅支持 ODataFormat.PlainXml 和 ODataFormat.Json。</value>
+  </data>
+  <data name="ODataJsonLightParameterDeserializer_PropertyAnnotationForParameters" xml:space="preserve">
+    <value>为参数负载找到 OData 属性批注；但是，参数负载不支持 OData 属性批注。</value>
+  </data>
+  <data name="ODataUtils_CannotConvertValueToRawPrimitive" xml:space="preserve">
+    <value>类型“{0}”的值无法转换为原始基元值的字符串表示形式。</value>
+  </data>
+  <data name="HttpUtils_ExpectedLiteralNotFoundInString" xml:space="preserve">
+    <value>在字符串“{2}”中的位置“{1}”处找不到预期的文本“{0}”。</value>
+  </data>
+  <data name="WriterValidationUtils_MessageWriterSettingsJsonPaddingOnRequestMessage" xml:space="preserve">
+    <value>在尝试编写请求消息时，在 ODataMessageWriterSettings 上指定了 JSON Padding 函数。JSON Padding 仅仅用于写入响应。</value>
+  </data>
+  <data name="ValidationUtils_NonStreamingCollectionElementsMustNotBeNull" xml:space="preserve">
+    <value>在集合属性值的项中检测到 null 值；集合类型的非流实例不支持 null 值作为项。</value>
+  </data>
+  <data name="UriSelectParser_InvalidTopOption" xml:space="preserve">
+    <value>Top 选项必须为整数，但它已设置为“{0}”。</value>
+  </data>
+  <data name="ODataJsonLightEntryAndFeedDeserializer_InvalidNodeTypeForItemsInFeed" xml:space="preserve">
+    <value>在尝试读取源项时从 JSON 读取器读取了“{0}”类型的节点；但此处应为 'StartObject' 或 'EndArray' 类型的节点。</value>
+  </data>
+  <data name="ODataAtomReader_DeferredEntryInFeedNavigationLink" xml:space="preserve">
+    <value>在 feed 类型的导航链接中找到了延迟的入口；但只有延迟的馈送才能出现在 feed 类型的导航链接中。</value>
+  </data>
+  <data name="ODataJsonLightInputContext_BaseUriMustBeNonNullAndAbsolute" xml:space="preserve">
+    <value>"ODataMessageReaderSettings" 上的 "BaseUri" 必须设置为非 Null 绝对 URI 才能读取 JSON Light 格式。</value>
+  </data>
+  <data name="ValidationUtils_MaxDepthOfNestedEntriesExceeded" xml:space="preserve">
+    <value>达到了入口在嵌套的展开导航链接中的深度限制。嵌套的展开入口数目不能超过 {0}。</value>
+  </data>
+  <data name="EdmValueUtils_CannotConvertTypeToClrValue" xml:space="preserve">
+    <value>基元种类为“{0}”的值无法转换为基元对象值。</value>
+  </data>
+  <data name="ODataJsonLightEntryAndFeedDeserializer_CannotReadFeedContentStart" xml:space="preserve">
+    <value>在尝试读取源内容的开头时从 JSON 读取器读取了“{0}”类型的节点；但此处应为 'StartArray' 类型的节点。</value>
+  </data>
+  <data name="ODataSelectPath_CannotEndInTypeSegment" xml:space="preserve">
+    <value>$select 中的最后一个段不能为 TypeSegment。</value>
+  </data>
+  <data name="ODataJsonLightEntityReferenceLinkDeserializer_InvalidAnnotationInEntityReferenceLink" xml:space="preserve">
+    <value>读取实体引用链接时，找到一个名称为“{0}”的实例批注，或者名称为“{0}”的属性的属性批注。读取实体引用链接时不允许使用任何 OData 属性或实例批注。</value>
+  </data>
+  <data name="ODataMetadataBuilder_MissingSegmentForEntitySetUriSuffix" xml:space="preserve">
+    <value>实体集“{0}”有一个没有路径段的 URI“{1}”。实体集 URI 后缀无法附加到一个没有路径段的 URI。</value>
+  </data>
+  <data name="ODataJsonEntryAndFeedDeserializer_DeferredLinkUriCannotBeNull" xml:space="preserve">
+    <value>延迟链接对象的“uri”属性不能具有 null 值。</value>
+  </data>
+  <data name="HttpUtils_InvalidQualityValueStartChar" xml:space="preserve">
+    <value>在标头字符串“{0}”中检测到无效的质量值；质量值必须以“0”或“1”开头，而不是以“{1}”开头。</value>
+  </data>
+  <data name="EpmSyndicationWriter_InvalidLinkLengthValue" xml:space="preserve">
+    <value>“{0}”不是“atom:link/@length”特性的有效值。</value>
+  </data>
+  <data name="ODataJsonLightMetadataUriParser_InvalidPropertyName" xml:space="preserve">
+    <value>元数据 URI“{0}”引用类型“{2}”上的属性“{1}”。但是，类型“{2}”未声明名为“{1}”的属性，并且不是开放类型。</value>
+  </data>
+  <data name="ODataBatch_InvalidHttpMethodForChangeSetRequest" xml:space="preserve">
+    <value>为变更集中的请求检测到无效的 HTTP 方法“{0}”。变更集中的请求仅支持 HTTP 方法“POST”、“PUT”、“DELETE”、“MERGE”和“PATCH”。</value>
+  </data>
+  <data name="UriUtils_InvalidRelativeUriForEscaping" xml:space="preserve">
+    <value>无法转义相对 URI“{0}”，因为它以“{1}”开头，并且基 URI 不可用。不包含基 URI 的相对 URI 不能以“/”、“\”或“..”开头。</value>
+  </data>
+  <data name="ODataJsonReaderUtils_MediaResourcePropertyWithNullValue" xml:space="preserve">
+    <value>“__mediaresource”属性值中的“{0}”属性具有 null 值。在 OData 中，“{0}”属性必须具有字符串值。</value>
+  </data>
+  <data name="RequestUriProcessor_CannotSpecifyAfterPostLinkSegment" xml:space="preserve">
+    <value>请求 URI 无效。段“{0}”无效。因为 uri 包含“{1}”段，所以必须仅在该段后指定一个段。</value>
+  </data>
+  <data name="ODataJsonLightEntryAndFeedDeserializer_FeedPropertyAnnotationForTopLevelFeed" xml:space="preserve">
+    <value>为顶级源找到属性批注；但是，顶级源仅支持实例批注。</value>
+  </data>
+  <data name="ODataModelAnnotationEvaluator_AmbiguousAnnotationTermWithQualifier" xml:space="preserve">
+    <value>在元素“{2}”上为带标识符“{1}”的术语“{0}”找到多个批注。仅可以为带标识符“{1}”的术语“{0}”指定一个批注。</value>
+  </data>
+  <data name="ODataJsonLightEntityReferenceLinkDeserializer_ExpectedEntityReferenceLinksPropertyNotFound" xml:space="preserve">
+    <value>未找到实体引用链接负载必需的“{0}”属性。</value>
+  </data>
+  <data name="Nodes_EntityCollectionServiceOperationRequiresEntityReturnType" xml:space="preserve">
+    <value>为 EntityCollectionServiceOperationQueryNode 提供了返回类型为“{0}”的 IEdmFunctionImport，该类型不是实体类型。</value>
+  </data>
+  <data name="MetadataBinder_DuplicitKeyPropertyInKeyValues" xml:space="preserve">
+    <value>键属性“{0}”在键查找中找到两次。每个键属性在键查找中只能指定一次。</value>
+  </data>
+  <data name="ODataBatchReaderStream_UnexpectedEndOfInput" xml:space="preserve">
+    <value>在读取批处理负载时遇到了意外的输入结束。</value>
+  </data>
+  <data name="ODataJsonEntryAndFeedDeserializer_DeferredLinkMissingUri" xml:space="preserve">
+    <value>在延迟链接对象中未找到“uri”属性。应为单个“uri”属性。</value>
+  </data>
+  <data name="UriQueryExpressionParser_CloseParenOrCommaExpected" xml:space="preserve">
+    <value>“{1}”中的位置 {0} 上要求为 ')' 或 ','。</value>
+  </data>
+  <data name="EntityPropertyMapping_InvalidTargetPath" xml:space="preserve">
+    <value>在 EntityPropertyMappingAttribute 中设置的 TargetName 属性路径“{0}”无效。</value>
+  </data>
+  <data name="ODataJsonPropertyAndValueDeserializer_InvalidTopLevelPropertyPayload" xml:space="preserve">
+    <value>找到了零个或多个顶级属性。顶级属性必须表示为正好具有一个属性的 JSON 对象。</value>
+  </data>
+  <data name="ODataJsonLightMetadataUriParser_NoModel" xml:space="preserve">
+    <value>未为 ODataMessageReader 指定任何模型。消息读取器需要模型才能在 ODataMessageReader 构造函数中指定 JSON Light 负载。</value>
+  </data>
+  <data name="ODataJsonLightEntryAndFeedDeserializer_StringValueForCollectionBindPropertyAnnotation" xml:space="preserve">
+    <value>资源集引用导航属性“{0}”具有一个包含字符串值的属性批注“{1}”。资源集引用导航属性只能具有包含数组值的属性批注“{1}”。</value>
+  </data>
+  <data name="ODataAtomPropertyAndValueDeserializer_NavigationPropertyInProperties" xml:space="preserve">
+    <value>在 {{http://schemas.microsoft.com/ado/2007/08/dataservices/metadata}}:properties 元素中发现“{1}”类型上的“{0}”属性，并且它被声明为导航属性。ATOM 中的导航属性必须表示为 {{http://www.w3.org/2005/Atom}}:link 元素。</value>
+  </data>
+  <data name="ReaderValidationUtils_MetadataUriValidationNonMatchingPropertyTypes" xml:space="preserve">
+    <value>元数据 URI“{0}”引用声明类型“{3}”上名为“{1}”且类型为“{2}”的属性；但是，预期的属性类型是“{4}”。</value>
+  </data>
+  <data name="ODataJsonLightInputContext_EntityTypeMustBeCompatibleWithEntitySetBaseType" xml:space="preserve">
+    <value>实体类型“{0}”与提供的实体集“{2}”的基类型“{1}”不兼容。为 OData 源或项读取器指定实体类型时，实体类型必须是指定实体集的相同基类型或基类型的子类型。</value>
+  </data>
+  <data name="MetadataBinder_ServiceOperationParameterInvalidType" xml:space="preserve">
+    <value>服务操作“{2}”的参数“{0}”(值为“{1}”)不是类型“{3}”的有效文本。</value>
+  </data>
+  <data name="ODataJsonReaderUtils_CannotConvertBoolean" xml:space="preserve">
+    <value>无法将“Edm.Boolean”类型的值转换为预期的目标类型“{0}”。</value>
+  </data>
+  <data name="ODataCollectionWriterCore_SyncCallOnAsyncWriter" xml:space="preserve">
+    <value>对异步集合编写器调用了同步操作。对集合编写器实例的所有调用必须全都是同步的，或者全都是异步的。</value>
+  </data>
+  <data name="ValidationUtils_StreamReferenceValuesNotSupportedInCollections" xml:space="preserve">
+    <value>在集合属性值中找到了 ODataStreamReferenceValue 项，这是不允许的。集合属性只能包含基元和复杂值作为项。</value>
+  </data>
+  <data name="ValidationUtils_IncompatiblePrimitiveItemType" xml:space="preserve">
+    <value>对于应为类型“{2}[Nullable={3}]”的项找到了不兼容的基元类型“{0}[Nullable={1}]”。</value>
+  </data>
+  <data name="PathParser_CannotUseValueOnCollection" xml:space="preserve">
+    <value>$value 无法应用于集合。</value>
+  </data>
+  <data name="ReaderValidationUtils_MetadataUriValidationNonMatchingPropertyNames" xml:space="preserve">
+    <value>元数据 URI“{0}”引用类型“{2}”上名为“{1}”的属性；但是，预期的属性的名称是“{3}”。</value>
+  </data>
+  <data name="ODataVersionChecker_ParameterPayloadNotSupported" xml:space="preserve">
+    <value>仅在 OData 协议的 3.0 版和更高版本中支持负载中的参数。在版本 {0} 中不支持这些参数。</value>
+  </data>
+  <data name="ValidationUtils_AssociationLinkMustSpecifyName" xml:space="preserve">
+    <value>ODataAssociationLink 上的“Name”属性必须设置为非空字符串。</value>
+  </data>
+  <data name="ODataMessageReader_PayloadKindDetectionInServerMode" xml:space="preserve">
+    <value>ODataMessageReader 正在对 WCF Data Services 使用服务器行为，如其设置中的指定一样。使用 WCF Data services 服务器行为时，不支持负载种类检测。</value>
+  </data>
+  <data name="ODataBatchReaderStreamBuffer_BoundaryLineSecurityLimitReached" xml:space="preserve">
+    <value>在边界分隔符之后、结束换行符之前有太多的空白。出于安全原因，包括空白在内的边界的总字符数不得超过 {0}。</value>
+  </data>
+  <data name="ReaderValidationUtils_NullValueForNonNullableType" xml:space="preserve">
+    <value>找到了具有预期类型“{0}[Nullable=False]”的 null 值。预期类型“{0}[Nullable=False]”不允许 null 值。</value>
+  </data>
+  <data name="ValidationUtils_EntryWithoutMediaResourceAndMLEType" xml:space="preserve">
+    <value>找到了类型为“{0}”且不具有媒体资源的入口，但该实体类型属于 Media Link Entry (MLE)。如果该类型为 MLE 实体，则该入口必须具有媒体资源。</value>
+  </data>
+  <data name="SyntacticTree_UriMustBeAbsolute" xml:space="preserve">
+    <value>指定的 URI“{0}”必须是绝对路径。</value>
+  </data>
+  <data name="ODataJsonOperationsDeserializerUtils_RepeatMetadataValue" xml:space="preserve">
+    <value>对于每个不同元数据，“{0}”操作对象只能有一个属性；但是，找到了元数据“{1}”的重复项。</value>
+  </data>
+  <data name="ODataBatchReaderStream_DuplicateHeaderFound" xml:space="preserve">
+    <value>标头“{0}”被指定了多次。在一个批处理部分中，每个标头必须仅出现一次。</value>
+  </data>
+  <data name="ODataJsonLightPropertyAndValueDeserializer_InvalidTopLevelPropertyName" xml:space="preserve">
+    <value>在负载中找到名为“{0}”的顶级属性；但是，属性负载和集合负载必须具有名为“{1}”的顶级属性。</value>
+  </data>
+  <data name="WriterValidationUtils_DefaultStreamWithReadLinkWithoutContentType" xml:space="preserve">
+    <value>检测到具有“ReadLink”属性但没有 ContentType 值的默认流 ODataStreamReferenceValue。在 OData 中，默认流必须同时包含或不包含内容类型和读取链接。</value>
+  </data>
+  <data name="WriterValidationUtils_AssociationLinkInRequest" xml:space="preserve">
+    <value>无法将名为“{0}”的关联链接写入请求负载。关联链接仅在响应中受支持。</value>
+  </data>
+  <data name="ODataBatchWriter_MaxBatchSizeExceeded" xml:space="preserve">
+    <value>当前批处理消息中包含过多的部分。仅允许最多含“{0}”个查询操作和变更集的批处理消息。</value>
+  </data>
+  <data name="AnnotationFilterPattern_InvalidPatternWildCardInSegment" xml:space="preserve">
+    <value>模式“{0}”不是匹配批注的受支持模式。它不能包含 "*" 作为段的一部分。</value>
+  </data>
+  <data name="ODataJsonLightEntryAndFeedDeserializer_EntryInstanceAnnotationPrecededByProperty" xml:space="preserve">
+    <value>某个项对象的“{0}”实例批注前面有一个属性或一个属性批注。在 OData 中，项对象中的“{0}”实例批注必须位于任何属性或属性批注之前。</value>
+  </data>
+  <data name="EpmSourceTree_OpenPropertySpatialTypeCannotBeMapped" xml:space="preserve">
+    <value>类型“{1}”的开放属性“{0}”是空间类型。不能使用实体属性映射来映射空间类型属性。</value>
+  </data>
+  <data name="WriterValidationUtils_PropertyMustNotBeNull" xml:space="preserve">
+    <value>“ODataEntry.Properties”enumerable 包含 null 项。此 enumerable 不能包含 null 项。</value>
+  </data>
+  <data name="FunctionCallBinder_NonSingleValueParent" xml:space="preserve">
+    <value>无法将函数“{0}”组合到不表示单值的父函数。</value>
+  </data>
+  <data name="WriterValidationUtils_StreamReferenceValueMustHaveEditLinkToHaveETag" xml:space="preserve">
+    <value>检测到具有 ETag 但没有编辑链接的 ODataStreamReferenceValue。在 OData 中，流资源必须具有编辑链接才能具有 ETag。</value>
+  </data>
+  <data name="ODataVersionChecker_NextLinkNotSupported" xml:space="preserve">
+    <value>仅在 OData 协议的 2.0 版本和更高版本中支持前进链接功能。在版本 {0} 中不支持该功能。</value>
+  </data>
+  <data name="UriQueryExpressionParser_TooDeep" xml:space="preserve">
+    <value>递归深度超过了允许的限制。</value>
+  </data>
+  <data name="ExpressionToken_IdentifierExpected" xml:space="preserve">
+    <value>位置 {0} 处应为标识符。</value>
+  </data>
+  <data name="JsonLightAnnotationGroupDeserializer_AnnotationGroupDeclarationWithoutName" xml:space="preserve">
+    <value>遇到没有 "name" 属性的批注组声明。所有批注组声明必须在 "name" 属性中指定一个非空名称。</value>
+  </data>
+  <data name="ValidationUtils_PropertiesMustNotContainReservedChars" xml:space="preserve">
+    <value>属性名称“{0}”无效；属性名称不能包含任何保留字符 {1}。</value>
+  </data>
+  <data name="ODataAtomEntryAndFeedDeserializer_EncounteredAnnotationInNestedFeed" xml:space="preserve">
+    <value>在嵌套的馈送中遇到 "annotation" 元素。嵌套的馈送当前不支持批注。</value>
+  </data>
+  <data name="ExpandItem_NonEntityNavProp" xml:space="preserve">
+    <value>无法从类型不是实体的导航属性构造 ExpandItem。</value>
+  </data>
+  <data name="ValidationUtils_OpenNavigationProperty" xml:space="preserve">
+    <value>在类型“{1}”上找到名为“{0}”的导航属性，但未声明该属性。不支持开放导航属性；所有导航属性都必须在元数据中声明。</value>
+  </data>
+  <data name="UriBuilder_NotSupportedClrLiteral" xml:space="preserve">
+    <value>不支持将类型“{0}”的 CLR 文本写为 Uri 部分。</value>
+  </data>
+  <data name="ODataJsonLightPropertyAndValueDeserializer_UnexpectedODataPropertyAnnotation" xml:space="preserve">
+    <value>找到 OData 属性批注“{0}”。此属性批注无法被识别或者不是当前位置所预期的。</value>
+  </data>
+  <data name="ODataWriterCore_InvalidTransitionFromExpandedLink" xml:space="preserve">
+    <value>无法从状态“{0}”转换到状态“{1}”。状态“{0}”下的有效操作仅是写入入口或馈送。</value>
+  </data>
+  <data name="MetadataBinder_IncompatibleOperandError" xml:space="preserve">
+    <value>检测到包含不兼容类型的一元运算符。找到运算符种类“{1}”的操作数类型“{0}”。</value>
+  </data>
+  <data name="ODataJsonLightPropertyAndValueDeserializer_ComplexValueWithPropertyTypeAnnotation" xml:space="preserve">
+    <value>找到具有“{0}”属性批注的复杂属性。复杂属性不得具有“{0}”属性批注，而是应指定“{0}”作为复杂值中的实例批注。</value>
+  </data>
+  <data name="EdmValueUtils_NonPrimitiveValue" xml:space="preserve">
+    <value>类型“{1}”上的基元属性“{0}”的值不是基元值。</value>
+  </data>
+  <data name="ODataBatchReader_MaxBatchSizeExceeded" xml:space="preserve">
+    <value>当前批处理消息中包含过多的部分。一个批处理消息中只允许最多包含“{0}”个查询操作和变更集。</value>
+  </data>
+  <data name="WriterValidationUtils_ExpandedLinkWithEntryPayloadAndFeedMetadata" xml:space="preserve">
+    <value>具有 URL 值“{0}”的 ODataNavigationLink 的内容是入口，但元数据将其声明为馈送。</value>
+  </data>
+  <data name="WriterValidationUtils_ExpandedLinkIsCollectionTrueWithEntryContent" xml:space="preserve">
+    <value>具有 URL 值“{0}”的 ODataNavigationLink 在其“IsCollection”属性中指定其负载是馈送，但实际负载是入口。</value>
+  </data>
+  <data name="ODataMessageWriter_CannotSetHeadersWithInvalidPayloadKind" xml:space="preserve">
+    <value>不能为无效的负载种类“{0}”设置消息标头。</value>
+  </data>
+  <data name="ODataAtomServiceDocumentMetadataDeserializer_MultipleTitleElementsFound" xml:space="preserve">
+    <value>在一个“{0}”元素内找到了多个“title”元素。一个“{0}”元素只能包含一个 {{http://www.w3.org/2005/Atom}}:title 元素。</value>
+  </data>
+  <data name="ODataJsonLightMetadataUriParser_FragmentWithInvalidNumberOfParts" xml:space="preserve">
+    <value>元数据 URI“{0}”包含具有“{1}”个部分的片段。但是，有效元数据 URI 至多可以具有“{2}”个部分。</value>
+  </data>
+  <data name="MetadataBinder_OperatorNotSupportedInThisVersion" xml:space="preserve">
+    <value>在此版本中不支持运算符“{0}”。 </value>
+  </data>
+  <data name="ODataJsonLightMetadataUriParser_InvalidSingletonNavPropertyForEntityReferenceLinkUri" xml:space="preserve">
+    <value>元数据 URI“{0}”引用名为“{1}”的单一导航属性。但是，当实体引用链接的元数据 URI 以“{2}”结尾时，它必须引用集合导航属性。</value>
+  </data>
+  <data name="BinaryOperatorQueryNode_InvalidOperandType" xml:space="preserve">
+    <value>二元运算符中只允许具有基元类型的操作数。找到操作数类型“{0}”和“{1}”。</value>
+  </data>
+  <data name="ODataJsonLightInputContext_NoEntitySetForRequest" xml:space="preserve">
+    <value>不支持在没有实体集的情况下分析请求中的 JSON Light 源或项。将实体集作为参数传递给 ODataMessageReader.CreateODataEntryReader 或 ODataMessageReader.CreateODataFeedReader 方法。</value>
+  </data>
+  <data name="ODataPrimitiveValue_CannotCreateODataPrimitiveValueFromNull" xml:space="preserve">
+    <value>无法从 Null 创建 ODataPrimitiveValue；请改用 ODataNullValue。</value>
+  </data>
+  <data name="ODataJsonReaderUtils_MultipleMetadataPropertiesWithSameName" xml:space="preserve">
+    <value>在“__metadata”属性值中找到了多个“{0}”属性。在 OData 中，“__metadata”属性值必须具有最多一个“{0}”属性。</value>
+  </data>
+  <data name="EpmTargetTree_InvalidTargetPath_MixedContent" xml:space="preserve">
+    <value>在两个 EntityPropertyMappingAttribute 实例中设置的 TargetName 属性路径“{0}”和“{1}”无效，因为它们将生成混合内容。不支持实体属性映射生成的混合内容。</value>
+  </data>
+  <data name="ExpandItemBinder_CannotFindType" xml:space="preserve">
+    <value>未在模型中定义类型“{0}”。</value>
+  </data>
+  <data name="UriQueryExpressionParser_OpenParenExpected" xml:space="preserve">
+    <value>“{1}”中的位置 {0} 上要求为 '('。</value>
+  </data>
+  <data name="UriQueryPathParser_TooManySegments" xml:space="preserve">
+    <value>URI 中存在过多的段。</value>
+  </data>
+  <data name="ODataJsonServiceDocumentDeserializer_NoEntitySetsPropertyForServiceDocument" xml:space="preserve">
+    <value>为服务文档未找到任何“EntitySets”属性。在 OData 中，一个服务文档必须具有恰好一个“EntitySets”属性。</value>
+  </data>
+  <data name="EpmSourceTree_MissingPropertyOnInstance" xml:space="preserve">
+    <value>在类型“{1}”上定义的属性“{0}”在该类型的实例中不存在。</value>
+  </data>
+  <data name="ODataJsonLightPropertyAndValueDeserializer_InvalidTopLevelPropertyPayload" xml:space="preserve">
+    <value>未找到任何顶级属性。JSON Light 中的顶级属性或集合必须表示为有且仅有一个属性(不是批注)的 JSON 对象。</value>
+  </data>
+  <data name="ODataAtomReader_ExpandedEntryInFeedNavigationLink" xml:space="preserve">
+    <value>在 feed 类型的导航链接中找到了展开的入口；但只有展开的馈送才能出现在 feed 类型的导航链接中。</value>
+  </data>
+  <data name="ODataWriterCore_InvalidTransitionFromNullEntry" xml:space="preserve">
+    <value>无法从状态“{0}”转换到状态“{1}”。必须首先调用 ODataWriter.WriteEnd 以便完成写入 null ODataEntry。</value>
+  </data>
+  <data name="ODataBatchReader_OperationResponseMessageAlreadyCreated" xml:space="preserve">
+    <value>已经为该操作创建了响应消息。不能尝试多次为同一个操作创建响应消息。</value>
+  </data>
+  <data name="MetadataBinder_UnsupportedQueryTokenKind" xml:space="preserve">
+    <value>找到不支持的查询标记种类“{0}”。</value>
+  </data>
+  <data name="MetadataBinder_ServiceOperationWithoutResultKind" xml:space="preserve">
+    <value>服务操作“{0}”没有关联的结果种类。没有结果种类，服务操作就无法绑定。</value>
+  </data>
+  <data name="ValidationUtils_UnsupportedPrimitiveType" xml:space="preserve">
+    <value>不支持的基元类型。对于“{0}”类型的实例，无法确定基元类型。</value>
+  </data>
+  <data name="ODataQueryUtils_CannotSetMetadataAnnotationOnPrimitiveType" xml:space="preserve">
+    <value>不支持对基元类型设置元数据注释。</value>
+  </data>
+  <data name="ExpressionLexer_ExpectedLiteralToken" xml:space="preserve">
+    <value>应该为文本类型的标记，但找到了标记“{0}”。</value>
+  </data>
+  <data name="PathParser_FunctionsAreNotSupported" xml:space="preserve">
+    <value>此版本中不支持 Functions。只支持 Actions 和 Service Operations。</value>
+  </data>
+  <data name="ODataJsonLightPropertyAndValueSerializer_NoExpectedTypeOrTypeNameSpecifiedForComplexValueRequest" xml:space="preserve">
+    <value>在 OData 对象模型中未为复杂值提供预期类型或类型名称。写入请求负载时，必须指定预期类型或类型名称。</value>
+  </data>
+  <data name="ValidationUtils_WorkspaceCollectionsMustNotContainNullItem" xml:space="preserve">
+    <value>在枚举工作区中的集合时检测到 null 值。工作区集合不能是 null。</value>
+  </data>
+  <data name="ODataBatchWriter_InvalidTransitionFromChangeSetCompleted" xml:space="preserve">
+    <value>检测到针对 ODataBatchWriter 的无效的方法调用。在调用 WriteEndChangeset 后，针对 ODataBatchWriter 的有效的方法仅为 CreateOperationRequestMessage、CreateOperationResponseMessage、WriteStartChangeset、WriteEndBatch 和 FlushAsync。</value>
+  </data>
+  <data name="JsonReader_UnexpectedComma" xml:space="preserve">
+    <value>无效的 JSON。在范围“{0}”中找到了意外的逗号。逗号仅在对象的属性之间或者数组的元素之间有效。</value>
+  </data>
+  <data name="ExceptionUtils_CheckIntegerPositive" xml:space="preserve">
+    <value>应为正整数值，但值“{0}”不是有效的正整数。</value>
+  </data>
+  <data name="ODataAtomServiceDocumentMetadataSerializer_ResourceCollectionNameAndTitleMismatch" xml:space="preserve">
+    <value>指定的资源集合名称“{0}”与 AtomResourceCollectionMetadata.Title 中设置的指定标题“{1}”不匹配。</value>
+  </data>
+  <data name="ODataBatchReader_InvalidStateForCreateOperationRequestMessage" xml:space="preserve">
+    <value>在 {0} 状态下调用了方法 CreateOperationRequestMessage，这是不允许的。只能在“Operation”状态下调用 CreateOperationRequestMessage。</value>
+  </data>
+  <data name="ValidationUtils_OpenCollectionProperty" xml:space="preserve">
+    <value>找到了开放集合属性“{0}”。在 OData 中，不支持开放集合属性。</value>
+  </data>
+  <data name="JsonReader_UnexpectedToken" xml:space="preserve">
+    <value>无效的 JSON。意外的标记“{0}”。</value>
+  </data>
+  <data name="UriQueryExpressionParser_RepeatedVisitor" xml:space="preserve">
+    <value>在嵌套的任意/所有查询中重新定义访问者无效。</value>
+  </data>
+  <data name="ODataVersionChecker_MaxProtocolVersionExceeded" xml:space="preserve">
+    <value>负载指定的版本“{0}”高于 ODataMessageReaderSettings.MaxProtocolVersion 属性指定的最大协议版本“{1}”。</value>
+  </data>
+  <data name="HttpUtils_MediaTypeMissingParameterName" xml:space="preserve">
+    <value>MIME 类型缺少针对参数定义的参数名称。</value>
+  </data>
+  <data name="JsonReader_InvalidNumberFormat" xml:space="preserve">
+    <value>无效的 JSON。值“{0}”不是有效数字。</value>
+  </data>
+  <data name="ODataJsonLightErrorDeserializer_PropertyAnnotationNotAllowedInErrorPayload" xml:space="preserve">
+    <value>在错误负载中找到 OData 属性批注“{0}”；但是，错误负载不支持 OData 属性批注。</value>
+  </data>
+  <data name="ODataCollectionWriterCore_InvalidTransitionFromCollection" xml:space="preserve">
+    <value>无法从状态“{0}”转换到状态“{1}”。状态“{0}”下的有效操作仅是写入项或写入集合的结尾。</value>
+  </data>
+  <data name="ODataBatchWriter_CannotCreateResponseOperationWhenWritingRequest" xml:space="preserve">
+    <value>在写入批处理请求时，不能创建批处理操作响应消息。</value>
+  </data>
+  <data name="ODataJsonLightEntryAndFeedDeserializer_SingletonNavigationPropertyWithBindingAndValue" xml:space="preserve">
+    <value>资源引用导航属性“{0}”同时包含“{1}”属性批注和值。资源引用导航属性可以包含“{1}”属性批注或值，但不能同时包含二者。</value>
+  </data>
+  <data name="ODataWriterCore_CannotWriteTopLevelFeedWithEntryWriter" xml:space="preserve">
+    <value>不能使用为写入顶级入口而创建的编写器写入顶级馈送。</value>
+  </data>
+  <data name="RequestUriProcessor_FoundInvalidFunctionImport" xml:space="preserve">
+    <value>匹配“{0}”的函数重载无效。很可能 IEdmModel 中出错。</value>
+  </data>
+  <data name="ODataMessageReader_ReaderAlreadyUsed" xml:space="preserve">
+    <value>ODataMessageReader 已用于读取消息负载。为读取给定消息的负载，只能使用 ODataMessageReader 一次。</value>
+  </data>
+  <data name="ValidationUtils_NestedCollectionsAreNotSupported" xml:space="preserve">
+    <value>不允许嵌套的集合实例。</value>
+  </data>
+  <data name="ODataJsonLightMetadataUriParser_InvalidEntitySetOrFunctionImportName" xml:space="preserve">
+    <value>元数据 URI“{0}”引用实体集或函数导入“{1}”。但是，未在元数据中声明任何名为“{1}”的实体集或函数导入。</value>
+  </data>
+  <data name="ODataJsonEntryAndFeedDeserializer_PropertyInEntryMustHaveObjectValue" xml:space="preserve">
+    <value>在开始读取属性值时找到了“{1}”类型的节点，但应为“StartObject”类型的节点。入口元数据的“{0}”属性必须具有对象值。 </value>
+  </data>
+  <data name="ODataJsonLightMetadataUriBuilder_ValidateDerivedType" xml:space="preserve">
+    <value>无法从指定实体类型“{1}”中分配为写入 JSON Light 负载指定的实体集的基类型“{0}”。指定实体类型时，实体类型必须是实体集的相同基类型或派生自该基类型。</value>
+  </data>
+  <data name="ODataJsonErrorDeserializer_TopLevelErrorMessageValueWithInvalidProperty" xml:space="preserve">
+    <value>在顶级错误的消息值中找到了名为“{0}”的属性。在 OData 中，顶级错误的消息值只能具有名为“lang”或“value”的属性。</value>
+  </data>
+  <data name="EpmSourceTree_CollectionPropertyCannotBeMapped" xml:space="preserve">
+    <value>类型“{1}”上的属性“{0}”是一个集合。集合属性不能使用实体属性映射进行映射。</value>
+  </data>
+  <data name="AnnotationFilterPattern_InvalidPatternEmptySegment" xml:space="preserve">
+    <value>模式“{0}”不是匹配批注的有效模式。它不能包含为空的命名空间或名称段。</value>
+  </data>
+  <data name="WriterValidationUtils_EntryTypeInExpandedLinkNotCompatibleWithNavigationPropertyType" xml:space="preserve">
+    <value>展开的链接中入口的类型“{0}”与该展开的链接的元素类型“{1}”不兼容。展开的链接中的入口必须具有可分配给该展开的链接的元素类型的实体类型。</value>
+  </data>
+  <data name="WriterValidationUtils_ExpandedLinkIsCollectionFalseWithFeedContent" xml:space="preserve">
+    <value>具有 URL 值“{0}”的 ODataNavigationLink 在其“IsCollection”属性中指定其负载是入口，但实际负载是馈送。</value>
+  </data>
+  <data name="ODataJsonLightEntryAndFeedDeserializer_PropertyWithoutValueWithUnknownType" xml:space="preserve">
+    <value>在负载中找到了一个未声明的属性“{0}”，该属性在负载中只有属性批注，而没有属性值。在 OData 中，只有已声明的导航属性和已声明的命名流才可以表示为没有值的属性。</value>
+  </data>
+  <data name="ODataParameterWriter_InStreamErrorNotSupported" xml:space="preserve">
+    <value>不支持在写入参数负载时写入流中的错误。</value>
+  </data>
+  <data name="ODataJsonLightEntryAndFeedDeserializer_AnnotationGroupMemberWithInvalidValue" xml:space="preserve">
+    <value>批注组“{1}”中名称为“{0}”的批注组成员具有无效值。在 OData 中，批注组成员值必须是字符串；不支持“{2}”类型的值。</value>
+  </data>
+  <data name="ValidationUtils_RecursionDepthLimitReached" xml:space="preserve">
+    <value>达到了最大递归深度限制。嵌套值在单个属性中的深度不得超过 {0}。</value>
+  </data>
+  <data name="ODataBatchWriter_InvalidTransitionFromStart" xml:space="preserve">
+    <value>检测到针对 ODataBatchWriter 的无效的方法调用。在创建编写器后，有效的方法仅为 ODataBatchWriter.WriteStartBatch 和 ODataBatchWriter.FlushAsync。</value>
+  </data>
+  <data name="ValidationUtils_IncorrectTypeKindNoTypeName" xml:space="preserve">
+    <value>已发现不兼容的类型种类。发现类型种类“{0}”，而不是预期种类“{1}”。</value>
+  </data>
+  <data name="ODataJsonParameterReader_UnsupportedPrimitiveParameterType" xml:space="preserve">
+    <value>参数“{0}”属于“{1}”基元类型，这是不受支持的。</value>
+  </data>
+  <data name="ODataJsonLightDeserializer_RelativeUriUsedWithouODataMetadataAnnotation" xml:space="preserve">
+    <value>在负载中指定了相对 URI 值“{0}”，但负载中缺少 {1} 批注。负载必须仅包含绝对 URI，或者负载中必须有 {1} 批注。</value>
+  </data>
+  <data name="ODataAtomEntryAndFeedDeserializer_ContentWithSourceLinkIsNotEmpty" xml:space="preserve">
+    <value>元素 {http://www.w3.org/2005/Atom}:content 具有非空内容，并且具有名为“src”的特性。如果 {http://www.w3.org/2005/Atom}:content 元素具有“src”特性，则它不能具有任何内容。</value>
+  </data>
+  <data name="ODataParameterWriterCore_ParameterNameNotFoundInFunctionImport" xml:space="preserve">
+    <value>名称“{0}”不是用于函数导入“{1}”的识别的参数名称。</value>
+  </data>
+  <data name="EpmExtensionMethods_CannotConvertEdmAnnotationValue" xml:space="preserve">
+    <value>具有命名空间“{0}”和本地名称“{1}”的注释的值属于“{2}”类型。仅支持字符串值。</value>
+  </data>
+  <data name="MetadataBinder_RootSegmentResourceNotFound" xml:space="preserve">
+    <value>找不到根段“{0}”的实体集。</value>
+  </data>
+  <data name="ResourceType_ComplexTypeCannotBeOpen" xml:space="preserve">
+    <value>不能将复杂类型标为“Open”。类型“{0}”出错。</value>
+  </data>
+  <data name="EdmValueUtils_PropertyDoesntExist" xml:space="preserve">
+    <value>“{0}”类型的实体实例值没有属性“{1}”的值。若要计算实体的元数据，必须提供其密钥和并发标记属性值。</value>
+  </data>
+  <data name="ODataBatchOperationHeaderDictionary_DuplicateCaseInsensitiveKeys" xml:space="preserve">
+    <value>已添加在使用不区分大小写的比较时，其名称与“{0}”匹配的多个标头。当使用不区分大小写的标头名称时，最多只能为每个名称添加一个标头。</value>
+  </data>
+  <data name="ODataJsonLightMetadataUriParser_InvalidEntitySetNameOrTypeName" xml:space="preserve">
+    <value>元数据 URI“{0}”引用实体集或类型“{1}”。但是，未在元数据中声明任何名为“{1}”的实体集或类型。</value>
+  </data>
+  <data name="MetadataBinder_NotAllKeyPropertiesSpecifiedInKeyValues" xml:space="preserve">
+    <value>对类型“{0}”的键查找未指定所有键属性的值。必须在一个键查找中指定所有键属性。</value>
+  </data>
+  <data name="ODataCollectionWriterCore_CollectionsMustNotHaveEmptyName" xml:space="preserve">
+    <value>将具有空名称的 ODataCollectionStart 传递到了集合编写器。ODataCollectionStart 不能具有空名称。</value>
+  </data>
+  <data name="SelectPropertyVisitor_InvalidSegmentInSelectPath" xml:space="preserve">
+    <value>分析 select 子句时找到了无效段“{0}”。</value>
+  </data>
+  <data name="ODataJsonLightEntryAndFeedDeserializer_EntryTypeAlreadySpecified" xml:space="preserve">
+    <value>遇到一个在批注组和项正文中都定义了类型的项。项的类型只能指定一次。</value>
+  </data>
+  <data name="MetadataBinder_UnsupportedExtensionToken" xml:space="preserve">
+    <value>找到不支持的扩展查询标记。</value>
+  </data>
+  <data name="ODataJsonLightServiceDocumentDeserializer_DuplicatePropertiesInResourceCollection" xml:space="preserve">
+    <value>在服务文档的资源集合中找到多个“{0}”属性。在 OData 中，一个资源集合必须有且仅有一个“{0}”属性。</value>
+  </data>
+  <data name="EpmExtensionMethods_InvalidKeepInContentOnType" xml:space="preserve">
+    <value>不允许类型“{1}”的“{0}”特性值。支持的值为“true”或“false”。</value>
+  </data>
+  <data name="ReaderValidationUtils_NonMatchingCollectionNames" xml:space="preserve">
+    <value>已从负载中读取集合名称“{0}”；但是，预期的生成函数导入的名称是“{1}”。</value>
+  </data>
+  <data name="ODataJsonLightEntryAndFeedDeserializer_InvalidPropertyInTopLevelFeed" xml:space="preserve">
+    <value>在读取顶级源时找到名称为“{0}”的属性。除了源属性之外，其他任何属性都不允许使用名称“{1}”。</value>
+  </data>
+  <data name="ODataAtomEntryAndFeedDeserializer_OperationMissingMetadataAttribute" xml:space="preserve">
+    <value>在 {{http://schemas.microsoft.com/ado/2007/08/dataservices/metadata}}:{0} 元素上缺少“metadata”特性。</value>
+  </data>
+  <data name="JsonReader_UnexpectedEndOfString" xml:space="preserve">
+    <value>无效的 JSON。在处理 JSON 字符串值时到达了意外的输入结尾。</value>
+  </data>
+  <data name="ValidationUtils_IncompatibleType" xml:space="preserve">
+    <value>遇到了其类型名称与元数据不兼容的值。该值将其类型指定为“{0}”，但在元数据中指定的类型为“{1}”。</value>
+  </data>
+  <data name="EpmSourceTree_EndsWithNonPrimitiveType" xml:space="preserve">
+    <value>在某一类型的 EntityPropertyMappingAttribute 的 PropertyName 属性的结尾提供的属性“{0}”不是基元类型或集合类型。</value>
+  </data>
+  <data name="ODataAtomEntryAndFeedDeserializer_StreamPropertyWithEmptyName" xml:space="preserve">
+    <value>找到了具有空名称的流属性链接。在 OData 中，流属性必须具有非空名称。</value>
+  </data>
+  <data name="ODataParameterReaderCore_SyncCallOnAsyncReader" xml:space="preserve">
+    <value>对异步参数读取器调用了同步操作。对参数读取器实例的所有调用必须全都是同步的，或者全都是异步的。</value>
+  </data>
+  <data name="ODataJsonEntryAndFeedDeserializer_ExpectedFeedResultsPropertyNotFound" xml:space="preserve">
+    <value>在包装源的对象上找不到必需的“results”属性。</value>
+  </data>
+  <data name="ExpressionLexer_DigitExpected" xml:space="preserve">
+    <value>在“{1}”中的位置 {0} 处应该有一个数字。</value>
+  </data>
+  <data name="HttpHeaderValueLexer_TokenExpectedButFoundQuotedString" xml:space="preserve">
+    <value>分析 HTTP 标头“{0}”时出错。位置“{2}”处的标头值“{1}”不正确，因为要求有标记但是找到的是带引号的字符串。</value>
+  </data>
+  <data name="WriterValidationUtils_StreamPropertyInRequest" xml:space="preserve">
+    <value>无法将名为“{0}”的流属性写入请求负载。流属性只在响应中受支持。</value>
+  </data>
+  <data name="ODataAtomWriterMetadataUtils_LinkRelationsMustMatch" xml:space="preserve">
+    <value>链接的关系的“{0}”值(指定或计算得出)与在该链接的元数据中指定的“{1}”值不匹配。如果在元数据中指定了一种关系，则这些关系必须匹配。</value>
+  </data>
+  <data name="ODataAtomWriterMetadataUtils_CategoryMustSpecifyTerm" xml:space="preserve">
+    <value>“AtomCategoryMetadata.Term”属性是必需的并且不能为 null。</value>
+  </data>
+  <data name="ODataJsonLightInputContext_FunctionImportOrItemTypeRequiredForCollectionReaderInRequests" xml:space="preserve">
+    <value>检测到在未指定生成函数导入或集合项类型的情况下尝试读取集合请求负载的行为。读取请求中的集合负载时，必须提供生成函数导入或预期项类型。</value>
+  </data>
+  <data name="ExpressionLexer_UnterminatedLiteral" xml:space="preserve">
+    <value>在“{1}”中的位置 {0} 处存在未终止的文本。</value>
+  </data>
+  <data name="ReaderValidationUtils_DerivedComplexTypesAreNotAllowed" xml:space="preserve">
+    <value>复杂类型“{1}”是基类型“{0}”的子类型。不支持派生的复杂类型。</value>
+  </data>
+  <data name="EpmExtensionMethods_MissingAttributeOnType" xml:space="preserve">
+    <value>类型“{1}”缺少必需的“{0}”特性。</value>
+  </data>
+  <data name="ODataMessageReader_GetFormatCalledBeforeReadingStarted" xml:space="preserve">
+    <value>在开始读取之前调用了 GetFormat。只能在调用读取方法或创建读取器之后调用 GetFormat。</value>
+  </data>
+  <data name="ODataParameterWriterCore_CannotWriteStart" xml:space="preserve">
+    <value>WriteStart 只能被调用一次，并且必须在写入其他内容之前调用。</value>
+  </data>
+  <data name="ODataMessageWriter_CannotWriteMetadataWithoutModel" xml:space="preserve">
+    <value>在 ODataMessageWriterSettings 中未指定任何模型；为了写入元数据文档，必须在 ODataMessageWriterSettings 中提供模型。</value>
+  </data>
+  <data name="EpmExtensionMethods_InvalidKeepInContentOnProperty" xml:space="preserve">
+    <value>不允许类型“{2}”的属性“{1}”的“{0}”特性值。支持的值为“true”或“false”。</value>
+  </data>
+  <data name="UriQueryPathParser_RequestUriDoesNotHaveTheCorrectBaseUri" xml:space="preserve">
+    <value>URI“{0}”无效，因为它不基于“{1}”。</value>
+  </data>
+  <data name="ODataJsonPropertyAndValueDeserializer_MetadataPropertyMustHaveObjectValue" xml:space="preserve">
+    <value>在开始读取属性值时找到了“{0}”类型的节点，但应为“StartObject”类型的节点。“__metadata”属性必须具有对象值。</value>
+  </data>
+  <data name="SelectExpandClause_CannotDeleteFromAllSelection" xml:space="preserve">
+    <value>无法从 AllSelection 中删除选择项。请改用部分选择创建 SelectExpandClause。</value>
+  </data>
+  <data name="FunctionOverloadResolver_NoSingleMatchFound" xml:space="preserve">
+    <value>无法将函数重载解析为单个函数。模型中有多个名称为“{0}”、参数名称为“{1}”的函数。</value>
+  </data>
+  <data name="ODataJsonLightReaderUtils_AnnotationWithNullValue" xml:space="preserve">
+    <value>“{0}”实例或属性批注具有 Null 值。在 OData 中，“{0}”实例或属性批注必须具有非 Null 字符串值。</value>
+  </data>
+  <data name="ODataQueryUtils_DidNotFindEntitySet" xml:space="preserve">
+    <value>在提供的模型中未找到名称为“{0}”的实体集。</value>
+  </data>
+  <data name="JsonReaderExtensions_CannotReadValueAsString" xml:space="preserve">
+    <value>无法将值“{0}”作为带引号的 JSON 字符串值读取。</value>
+  </data>
+  <data name="ODataJsonLightValueSerializer_MissingTypeNameOnComplex" xml:space="preserve">
+    <value>没有为 ODataComplexValue 实例提供类型名称。</value>
+  </data>
+  <data name="ODataJsonLightErrorDeserializer_InstanceAnnotationNotAllowedInErrorPayload" xml:space="preserve">
+    <value>在错误负载中找到 OData 实例批注“{0}”；但是，错误负载不支持 OData 实例批注。</value>
+  </data>
+  <data name="ODataAtomReader_FeedNavigationLinkForResourceReferenceProperty" xml:space="preserve">
+    <value>找到了具有“feed”类型的导航链接“{0}”，但其匹配的导航属性为 EntityReference 种类。具有“feed”类型的导航链接必须匹配 EntitySetReference 种类的导航属性。</value>
+  </data>
+  <data name="MetadataBinder_CollectionOpenPropertiesNotSupportedInThisRelease" xml:space="preserve">
+    <value>在此版本中不支持集合开放属性。</value>
+  </data>
+  <data name="ODataBatchOperationStream_Disposed" xml:space="preserve">
+    <value>无法访问已关闭的流。</value>
+  </data>
+  <data name="ODataJsonCollectionDeserializer_CannotReadCollectionContentStart" xml:space="preserve">
+    <value>在尝试读取集合项时从 JSON 读取器读取了“{0}”类型的节点；但此处应为“StartArray”节点。</value>
+  </data>
+  <data name="ODataMetadataBuilder_MissingEntityInstanceUri" xml:space="preserve">
+    <value>未为实体集“{0}”找到 "OData.EntityInstanceUri" 或 "OData.EntitySetUriSuffix" 批注。需要这些批注中的一个。</value>
+  </data>
+  <data name="MetadataBinder_OrderByExpressionNotSingleValue" xml:space="preserve">
+    <value>$orderby 表达式的计算结果必须是基元类型的单个值。</value>
+  </data>
+  <data name="ODataJsonLightEntryAndFeedSerializer_AnnotationGroupInRequest" xml:space="preserve">
+    <value>写入请求负载时检测到 JSON Light 批注组。在 OData 中，仅在响应中支持 JSON Light 批注组。</value>
+  </data>
+  <data name="SyntacticTree_InvalidTopQueryOptionValue" xml:space="preserve">
+    <value>找到 $top 查询选项的无效值“{0}”。$top 查询选项需要非负整数值。</value>
+  </data>
+  <data name="ODataBatchReader_AsyncCallOnSyncReader" xml:space="preserve">
+    <value>对同步批处理读取器调用了异步操作。对批处理读取器实例的调用必须或者全都是同步的，或者全都是异步的。</value>
+  </data>
+  <data name="ODataJsonLightPropertyAndValueDeserializer_EdmNullInMetadataUriWithoutNullValueInPayload" xml:space="preserve">
+    <value>元数据 URI“{0}”引用了 null 值; 但是负载不是 null 值负载。</value>
+  </data>
+  <data name="ODataJsonLightCollectionDeserializer_InvalidCollectionTypeName" xml:space="preserve">
+    <value>为顶级集合负载找到了值为“{0}”的 'odata.type' 批注；但是，顶级集合必须指定集合类型。</value>
+  </data>
+  <data name="Nodes_NonentityParameterQueryNodeWithEntityType" xml:space="preserve">
+    <value>实体类型“{0}”已指定给 NonEntityParameterQueryNode。请改用 EntityParameterQueryNode。</value>
+  </data>
+  <data name="ODataJsonLightServiceDocumentDeserializer_InstanceAnnotationInResourceCollection" xml:space="preserve">
+    <value>在服务文档的资源集合中找到一个无法识别的实例批注“{0}”。资源集合中不允许使用 OData 实例批注。</value>
+  </data>
+  <data name="ODataQueryUtils_DidNotFindServiceOperation" xml:space="preserve">
+    <value>在提供的模型中未找到名称为“{0}”的服务操作。</value>
+  </data>
+  <data name="MetadataBinder_BinaryOperatorOperandNotSingleValue" xml:space="preserve">
+    <value>二元运算符“{0}”的操作数不是单个值。二元运算符要求两个操作数均为单个值。</value>
+  </data>
+  <data name="HttpHeaderValueLexer_EndOfFileAfterSeparator" xml:space="preserve">
+    <value>分析 HTTP 标头“{0}”时出错。位置“{2}”处的标头值“{1}”不正确，因为标头值不应以分隔符“{3}”结尾。</value>
+  </data>
+  <data name="ODataJsonReaderCoreUtils_CannotReadSpatialPropertyValue" xml:space="preserve">
+    <value>为空间属性指定的值无效。必须指定有效空间值。</value>
+  </data>
+  <data name="ODataBatchReaderStream_InvalidResponseLine" xml:space="preserve">
+    <value>响应行“{0}”无效。位于每个操作开头的响应行必须采用“HttpVersion StatusCode StatusCodeString”格式。</value>
+  </data>
+  <data name="ODataUtils_DidNotFindDefaultMediaType" xml:space="preserve">
+    <value>对于格式为“{0}”的请求的负载，找不到默认的 MIME 类型。</value>
+  </data>
+  <data name="ODataEntryMetadataContext_KeyOrETagValuesMustBePrimitiveValues" xml:space="preserve">
+    <value>类型“{1}”的属性“{0}”是非基元值。所有键和 etag 属性必须属于基元类型。</value>
+  </data>
+  <data name="SingleValueFunctionCallNode_FunctionImportsWithLegacyConstructor" xml:space="preserve">
+    <value>请在访问 FunctionImports 前使用  IEnumerable&lt;IEdmFunctionImport&gt; 重载构造此 SingleValueFunctionCallNode。</value>
+  </data>
+  <data name="EntityPropertyMapping_EpmAttribute" xml:space="preserve">
+    <value>为 EntityPropertyMappingAttribute 提供的值“{0}”无效。</value>
+  </data>
+  <data name="ODataMessageReader_SingletonNavigationPropertyForEntityReferenceLinks" xml:space="preserve">
+    <value>指定了在“{1}”类型上具有单一基数的导航属性“{0}”来读取实体引用链接的集合。必须提供带有集合基数的导航属性。</value>
+  </data>
+  <data name="ODataJsonLightParameterDeserializer_UnsupportedPrimitiveParameterType" xml:space="preserve">
+    <value>参数“{0}”属于“{1}”基元类型，这在 JSON Light 中不受支持。</value>
+  </data>
+  <data name="ODataBatchWriter_InvalidTransitionFromChangeSetStarted" xml:space="preserve">
+    <value>检测到针对 ODataBatchWriter 的无效的方法调用。在调用 WriteStartChangeset 后，针对 ODataBatchWriter 的有效的方法仅为 CreateOperationRequestMessage、CreateOperationResponseMessage、WriteEndChangeset 和 FlushAsync。</value>
+  </data>
+  <data name="MetadataBinder_PropertyAccessWithoutParentParameter" xml:space="preserve">
+    <value>在 $filter 或 $orderby 表达式外遇到了缺少父标记的 PropertyAccessQueryToken。只能在 $filter 或 $orderby 表达式内使用缺少父标记的 PropertyAccessQueryToken。</value>
+  </data>
+  <data name="ODataCollectionWriterCore_InvalidTransitionFromItem" xml:space="preserve">
+    <value>无法从状态“{0}”转换到状态“{1}”。状态“{0}”下的有效操作仅是写入项或集合的结尾。</value>
+  </data>
+  <data name="WriterValidationUtils_ExpandedLinkWithFeedPayloadAndEntryMetadata" xml:space="preserve">
+    <value>具有 URL 值“{0}”的 ODataNavigationLink 的内容是馈送，但元数据将其声明为入口。</value>
+  </data>
+  <data name="WriterValidationUtils_DefaultStreamWithContentTypeWithoutReadLink" xml:space="preserve">
+    <value>检测到具有“ContentType”属性但没有 ReadLink 值的默认流 ODataStreamReferenceValue。在 OData 中，默认流必须同时包含或不包含内容类型和读取链接。</value>
+  </data>
+  <data name="ReaderValidationUtils_MetadataUriValidationFunctionImportWithExpectedProperty" xml:space="preserve">
+    <value>元数据 URI“{0}”引用名为“{1}”的函数导入；但是，已在类型“{3}”上指定名为“{2}”预期结构属性。</value>
+  </data>
+  <data name="ODataJsonEntryAndFeedDeserializer_MultipleMetadataPropertiesForStreamProperty" xml:space="preserve">
+    <value>已发现某个流引用值的多个“{0}”属性。在 Odata 中，一个流引用值只能包含一个“{0}”属性。</value>
+  </data>
+  <data name="BatchReferenceSegment_InvalidContentID" xml:space="preserve">
+    <value>批量引用段的内容 ID“{0}”无效。</value>
+  </data>
+  <data name="ODataEdmStructuredValue_UndeclaredProperty" xml:space="preserve">
+    <value>未在非开放类型“{1}”上声明属性“{0}”。</value>
+  </data>
+</root>

@@ -1,0 +1,889 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="EdmModel_Validator_Semantic_InaccessibleType" xml:space="preserve">
+    <value>在所驗證的模型中找不到命名類型 '{0}'。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_InaccessibleTerm" xml:space="preserve">
+    <value>在所驗證的模型中找不到字詞 '{0}'。</value>
+  </data>
+  <data name="Edm_Evaluator_NoTermTypeAnnotationOnType" xml:space="preserve">
+    <value>類型 '{0}' 必須有一個字詞類型 '{1}' 的類型註釋。</value>
+  </data>
+  <data name="Bad_UnresolvedComplexType" xml:space="preserve">
+    <value>找不到複雜類型 '{0}'。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_OpenTypesSupportedOnlyInV12AndAfterV3" xml:space="preserve">
+    <value>只有在 1.2 版和 2.0 版之後支援開放類型。</value>
+  </data>
+  <data name="EdmToClr_UnsupportedTypeCode" xml:space="preserve">
+    <value>不支援將 EDM 值轉換成類型代碼 {0} 的 CLR 類型。</value>
+  </data>
+  <data name="Serializer_SingleFileExpected" xml:space="preserve">
+    <value>提供的是單一檔案，但模型無法序列化成單一檔案。</value>
+  </data>
+  <data name="EdmToClr_IEnumerableOfTPropertyAlreadyHasValue" xml:space="preserve">
+    <value>無法初始化類型 '{1}' 物件上的屬性 '{0}'。屬性已經有值。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_TypeAnnotationHasExtraProperties" xml:space="preserve">
+    <value>類型註釋的類型不是開放類型，而且不包含名稱為 '{0}' 的屬性。</value>
+  </data>
+  <data name="XmlParser_UnexpectedRootElement" xml:space="preserve">
+    <value>根元素不應該有元素 '{0}'。根元素應該是 {1}。</value>
+  </data>
+  <data name="Bad_CyclicComplex" xml:space="preserve">
+    <value>複雜類型 '{0}' 無效，因為它的基底類型是循環的。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_KeyPropertyMustBelongToEntity" xml:space="preserve">
+    <value>索引鍵屬性 '{0}' 必須屬於實體 '{1}'。</value>
+  </data>
+  <data name="EdmModel_Validator_Syntactic_EnumerableMustNotHaveNullElements" xml:space="preserve">
+    <value>列舉屬性 '{0}.{1}' 的值包含 null 元素。列舉屬性不能包含 null 元素。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_RecordExpressionMissingProperty" xml:space="preserve">
+    <value>記錄運算式中名稱為 '{0}' 的屬性沒有建構函式。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_DuplicateAnnotation" xml:space="preserve">
+    <value>標註的元素 '{0}' 有多個註釋具有字詞 '{1}' 和限定詞 '{2}'。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_InvalidOperationMultipleEndsInAssociation" xml:space="preserve">
+    <value>只能在關聯的一端指定 on delete 動作。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_FunctionImportEntitySetExpressionKindIsInvalid" xml:space="preserve">
+    <value>函數匯入 '{0}' 指定了這個內容中不支援的種類 {1} 實體集運算式。函數匯入實體集運算式可以是實體集參考，或是以函數匯入參數開頭並周遊導覽屬性的路徑。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_FunctionImportWithUnsupportedReturnTypeAfterV1" xml:space="preserve">
+    <value>傳回類型在函數匯入 '{0}' 中無效。函數匯入可以沒有傳回類型，也可以傳回純量、複雜類型、實體類型或這些項目的集合。</value>
+  </data>
+  <data name="CsdlParser_NoReadersProvided" xml:space="preserve">
+    <value>無法產生模型，因為未提供 XML 讀取器。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_InvalidPropertyInRelationshipConstraintPrimaryEnd" xml:space="preserve">
+    <value>關聯 '{0}' 的參考條件約束中的主體端點屬性不符合角色 '{1}' 所參考的類型的索引鍵。</value>
+  </data>
+  <data name="CsdlParser_InvalidAlias" xml:space="preserve">
+    <value>別名 '{0}' 不是有效的簡單名稱。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_EntityKeyMustNotBeBinaryBeforeV2" xml:space="preserve">
+    <value>實體類型 '{1}' 中的屬性 '{0}' 無效。2.0 版之前的實體索引鍵中不允許使用二進位類型。</value>
+  </data>
+  <data name="Serializer_UnknownEdmVersion" xml:space="preserve">
+    <value>未知的 Edm 版本。</value>
+  </data>
+  <data name="EdmxParser_EdmxDataServiceVersionInvalid" xml:space="preserve">
+    <value>資料服務版本的指定值無效。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_NullCannotBeAssertedToBeANonNullableType" xml:space="preserve">
+    <value>Null 值不能有不可為 null 的類型。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_InvalidNavigationPropertyType" xml:space="preserve">
+    <value>導覽屬性 '{0}' 的類型無效。導覽目標類型必須是實體類型或實體類型集合。導覽目標實體類型必須符合夥伴屬性的宣告類型。</value>
+  </data>
+  <data name="CsdlParser_InvalidEnumMemberPath" xml:space="preserve">
+    <value>'{0}' 不是有效的列舉成員路徑。</value>
+  </data>
+  <data name="ValueParser_InvalidDecimal" xml:space="preserve">
+    <value>值 '{0}' 不是有效的十進位數。</value>
+  </data>
+  <data name="EdmModel_Validator_Syntactic_InterfaceKindValueMismatch" xml:space="preserve">
+    <value>'{1}.{2}' 屬性的值為 '{0}' 的物件必須實作 '{3}' 介面。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_NavigationPropertyEntityMustNotIndirectlyContainItself" xml:space="preserve">
+    <value>導覽屬性 '{0}' 無效，因為它間接包含自己本身。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_ValueTermsNotSupportedBeforeV3" xml:space="preserve">
+    <value>3.0 版之前不支援值字詞。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_StringMaxLengthOutOfRange" xml:space="preserve">
+    <value>最大長度 Facet 會指定字串類型執行個體的最大長度。若 unicode 等於 'true'，最大長度的範圍可介於 1 到 2^30 之間，若等於 'false'，則可介於 1 到 2^31 之間。</value>
+  </data>
+  <data name="CsdlParser_InvalidAssertTypeExpressionIncorrectNumberOfOperands" xml:space="preserve">
+    <value>AssertType 運算式必須包含 1 個運算元。</value>
+  </data>
+  <data name="Bad_UnresolvedType" xml:space="preserve">
+    <value>找不到類型 '{0}'。</value>
+  </data>
+  <data name="UnknownEnumVal_SchemaElementKind" xml:space="preserve">
+    <value>無效的結構描述元素種類: '{0}'</value>
+  </data>
+  <data name="EdmToClr_CannotConvertEdmCollectionValueToClrType" xml:space="preserve">
+    <value>不支援將 EDM 集合值轉換成 CLR 類型 '{0}'。EDM 集合值可轉換成 System.Collections.Generic.IEnumerable&lt;T&gt;、System.Collections.Generic.IList&lt;T&gt; 或 System.Collections.Generic.ICollection&lt;T&gt;。</value>
+  </data>
+  <data name="XmlParser_UnexpectedNodeType" xml:space="preserve">
+    <value>未預期的 XML 節點類型: {0}。</value>
+  </data>
+  <data name="UnknownEnumVal_TypeKind" xml:space="preserve">
+    <value>無效的類型種類: '{0}'</value>
+  </data>
+  <data name="EdmModel_Validator_Syntactic_EdmModel_NameIsTooLong" xml:space="preserve">
+    <value>指定的名稱不能超過 480 個字元: '{0}'。</value>
+  </data>
+  <data name="CsdlParser_InvalidIsTypeExpressionIncorrectNumberOfOperands" xml:space="preserve">
+    <value>IsType 運算式必須包含 1 個運算元。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_EndNameAlreadyDefinedDuplicate" xml:space="preserve">
+    <value>關聯性中的每個名稱和複數名稱都必須是唯一的。'{0}' 已經定義過了。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_EnumMemberTypeMustMatchEnumUnderlyingType" xml:space="preserve">
+    <value>列舉成員 '{0}' 的值類型必須符合父列舉的基礎類型。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_InvalidPropertyTypeConcurrencyMode" xml:space="preserve">
+    <value>固定並行模式的屬性不可以是類型 '{0}'。屬性類型必須是基本類型。</value>
+  </data>
+  <data name="PathSegmentMustNotContainSlash" xml:space="preserve">
+    <value>路徑區段不得包含 '/' 字元。</value>
+  </data>
+  <data name="Bad_UnresolvedEntityContainer" xml:space="preserve">
+    <value>找不到實體容器 '{0}'。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_SchemaElementNameAlreadyDefined" xml:space="preserve">
+    <value>名稱為 '{0}' 的元素已經定義過了。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_MaxLengthOutOfRange" xml:space="preserve">
+    <value>最大長度的範圍可從 1 到 2^31。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_KeyMissingOnEntityType" xml:space="preserve">
+    <value>實體類型 '{0}' 未定義任何索引鍵。請為這個實體類型定義索引鍵。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_StringConstantLengthOutOfRange" xml:space="preserve">
+    <value>字串常數值的長度有 '{0}' 個位元組，但類型的最大長度是 '{1}'。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_ComposableFunctionImportMustHaveReturnType" xml:space="preserve">
+    <value>可組合的函數匯入 '{0}' 必須指定傳回類型。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_OpenTypesSupportedForEntityTypesOnly" xml:space="preserve">
+    <value>只有實體類型可以是開放類型。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_InvalidFunctionImportParameterMode" xml:space="preserve">
+    <value>函數匯入 '{1}' 中參數 '{0}' 的模式無效。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_NavigationPropertyWithRecursiveContainmentTargetMustBeOptional" xml:space="preserve">
+    <value>導覽屬性 '{0}' 的目標 multiplicity 無效。如果導覽屬性的 'ContainsTarget' 設為 true，而且屬性的宣告實體類型與目標實體類型相同或是繼承自目標實體類型，則屬性代表遞迴內含項目，而且必須具有由集合或可為 null 的實體類型所代表的選擇性目標。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_RowTypeMustNotHaveBaseType" xml:space="preserve">
+    <value>列類型不能有基底類型。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_EntitySetRecursiveNavigationPropertyMappingsMustPointBackToSourceEntitySet" xml:space="preserve">
+    <value>因為導覽屬性 '{0}' 是遞迴的，所以來自實體集 '{1}' 的對應必須指回它本身。</value>
+  </data>
+  <data name="Bad_UnresolvedPrimitiveType" xml:space="preserve">
+    <value>找不到基本類型 '{0}'。</value>
+  </data>
+  <data name="Annotations_TypeMismatch" xml:space="preserve">
+    <value>無法將 '{0}' 類型的註釋解譯為 '{1}'。</value>
+  </data>
+  <data name="EdmModel_Validator_Syntactic_PropertyMustNotBeNull" xml:space="preserve">
+    <value>屬性 '{0}.{1}' 的值不可以是 null。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_InvalidMultiplicityOfDependentEndMustBeZeroOneOrOne" xml:space="preserve">
+    <value>相依端點 '{0}' 的 multiplicity 無效。因為相依屬性代表相依端點索引鍵，所以相依端點的 multiplicity 必須是 '0..1' 或 '1'。</value>
+  </data>
+  <data name="Bad_UnresolvedEnumMember" xml:space="preserve">
+    <value>找不到列舉成員 '{0}'。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_InvalidMemberNameMatchesTypeName" xml:space="preserve">
+    <value>成員名稱 '{0}' 不能用在同名的類型中。成員名稱不能與其封入型別相同。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_EnumsNotSupportedBeforeV3" xml:space="preserve">
+    <value>3.0 版之前不支援列舉。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_InvalidComplexTypeAbstract" xml:space="preserve">
+    <value>複雜類型 '{0}' 標示為抽象類型。只有 1.1 版 EDM 模型支援複雜抽象類型。</value>
+  </data>
+  <data name="EdmModel_Validator_Syntactic_EdmModel_NamespaceNameIsNotAllowed" xml:space="preserve">
+    <value>不允許指定的命名空間名稱: '{0}'。</value>
+  </data>
+  <data name="CsdlSemantics_ReferentialConstraintMismatch" xml:space="preserve">
+    <value>參考條件約束的主體和相依端點不相符。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_BaseTypeMustHaveSameTypeKind" xml:space="preserve">
+    <value>結構化類型的基底類型種類必須與其衍生類型相同。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_BinaryConstantLengthOutOfRange" xml:space="preserve">
+    <value>二進位常數值的長度有 '{0}' 個位元組，但類型的最大長度是 '{1}'。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_IntegerConstantValueOutOfRange" xml:space="preserve">
+    <value>整數常數值超出宣稱之類型的範圍。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_PropertyNameAlreadyDefined" xml:space="preserve">
+    <value>類型中的每一個屬性名稱都必須是唯一的。屬性名稱 '{0}' 已經定義過了。</value>
+  </data>
+  <data name="Bad_UnresolvedLabeledElement" xml:space="preserve">
+    <value>找不到標籤元素 '{0}'。</value>
+  </data>
+  <data name="ValueParser_InvalidDateTimeOffset" xml:space="preserve">
+    <value>值 '{0}' 不是有效的日期時間位移值。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_TypeMustNotHaveKindOfNone" xml:space="preserve">
+    <value>類型若沒有其他錯誤，其種類不能是無。</value>
+  </data>
+  <data name="EdmModel_Validator_Syntactic_InterfaceKindValueUnexpected" xml:space="preserve">
+    <value>屬性 '{1}.{2}' 的值 '{0}' 語意無效。語意有效的模型不能包含種類 '{0}' 的元素。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_FunctionImportReturnEntitiesButDoesNotSpecifyEntitySet" xml:space="preserve">
+    <value>函數匯入 '{0}' 傳回實體，但未指定實體集。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_BadNavigationPropertyRolesCannotBeTheSame" xml:space="preserve">
+    <value>導覽屬性 '{0}' 無效。起始角色和結束角色相同。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_FunctionImportSideEffectingNotSupportedBeforeV3" xml:space="preserve">
+    <value>3.0 版之前不支援函數匯入的 'SideEffecting' 設定。</value>
+  </data>
+  <data name="ValueParser_InvalidBinary" xml:space="preserve">
+    <value>值 '{0}' 不是有效的二進位值。值必須是十六進位字串，而且前面不加 '0x'。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_NavigationPropertyWithNonRecursiveContainmentSourceMustBeFromOne" xml:space="preserve">
+    <value>導覽屬性 '{0}' 的來源 multiplicity 無效。如果導覽屬性的 'ContainsTarget' 設為 true，而且屬性的宣告實體類型與目標實體類型不同，則屬性代表非遞迴內含項目而且導覽來源的 multiplicity 必須是一。</value>
+  </data>
+  <data name="Edm_Evaluator_FailedTypeAssertion" xml:space="preserve">
+    <value>值不符合類型 '{0}'。</value>
+  </data>
+  <data name="Bad_CyclicEntityContainer" xml:space="preserve">
+    <value>實體容器 '{0}' 無效，因為它的擴充階層是循環的。</value>
+  </data>
+  <data name="Bad_AmbiguousFunction" xml:space="preserve">
+    <value>無法解析函數 '{0}'，因為有多個函數可用於這個應用程式。</value>
+  </data>
+  <data name="EdmModel_Validator_Syntactic_TypeRefInterfaceTypeKindValueMismatch" xml:space="preserve">
+    <value>實作 '{0}' 介面的物件具有種類 '{1}' 的類型定義。類型參考介面必須符合定義的種類。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_ExpressionPrimitiveKindCannotPromoteToAssertedType" xml:space="preserve">
+    <value>無法將基本類型 '{0}' 升級成指定的基本類型 '{1}'。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_TypeAnnotationMissingRequiredProperty" xml:space="preserve">
+    <value>類型附註遺漏屬性 '{0}' 的繫結。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_SameRoleReferredInReferentialConstraint" xml:space="preserve">
+    <value>在關聯性 '{0}' 中，參考條件約束的主體和相依角色參考到關聯性中的同一個角色。</value>
+  </data>
+  <data name="CsdlSemantics_ImpossibleAnnotationsTarget" xml:space="preserve">
+    <value>無法解析註釋目標 '{0}'，因為它不能參考可註釋的元素。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_ExpressionNotValidForTheAssertedType" xml:space="preserve">
+    <value>運算式的類型與宣稱的類型不相容。</value>
+  </data>
+  <data name="UnknownEnumVal_ContainerElementKind" xml:space="preserve">
+    <value>無效的容器元素種類: '{0}'</value>
+  </data>
+  <data name="XmlParser_EmptySchemaTextReader" xml:space="preserve">
+    <value>來源 XmlReader 未包含結構描述定義，或者是在檔案的結尾開始。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_FunctionsNotSupportedBeforeV2" xml:space="preserve">
+    <value>2.0 版之前不支援函數。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_PrecisionOutOfRange" xml:space="preserve">
+    <value>有效位數不可以是負數。</value>
+  </data>
+  <data name="UnknownEnumVal_PropertyKind" xml:space="preserve">
+    <value>無效的屬性種類: '{0}'</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_FunctionImportEntityTypeDoesNotMatchEntitySet2" xml:space="preserve">
+    <value>函數匯入 '{0}' 傳回的類型 '{1}' 實體不能由為函數匯入指定的實體集路徑傳回。</value>
+  </data>
+  <data name="CsdlParser_InvalidParameterMode" xml:space="preserve">
+    <value>參數模式 '{0}' 無效。參數模式必須是: 'In'、'Out' 或 'InOut'。</value>
+  </data>
+  <data name="Bad_FunctionParametersDontMatch" xml:space="preserve">
+    <value>無法解析函數 '{0}'，因為沒有一個該名稱的函數接受正確的參數組。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_PropertyMustNotHaveKindOfNone" xml:space="preserve">
+    <value>屬性若沒有其他錯誤，其種類不能是無。屬性 '{0}' 的種類是無。</value>
+  </data>
+  <data name="Edm_Evaluator_UnboundPath" xml:space="preserve">
+    <value>路徑區段 '{0}' 在執行環境中沒有繫結。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_EntitySetNavigationMappingMustBeBidirectional" xml:space="preserve">
+    <value>實體集 '{0}' 與導覽屬性 '{1}' 的對應無效，因為導覽屬性對應必須有一個內含導覽屬性的夥伴且指回原始實體集的對應。 </value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_InvalidPropertyType" xml:space="preserve">
+    <value>屬性不可以是類型 '{0}'。屬性類型必須是複雜、基本或列舉類型，或是複雜、基本或列舉類型的集合。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_SchemaElementMustNotHaveKindOfNone" xml:space="preserve">
+    <value>結構描述元素若沒有其他錯誤，其種類不能是無。結構描述元素 '{0}' 的種類是無。</value>
+  </data>
+  <data name="XmlParser_UnexpectedRootElementNoNamespace" xml:space="preserve">
+    <value>根元素沒有命名空間。根元素必須屬於下列其中一個命名空間: '{0}'。</value>
+  </data>
+  <data name="XmlParser_UnexpectedRootElementWrongNamespace" xml:space="preserve">
+    <value>命名空間 '{0}' 無效。根元素必須屬於下列其中一個命名空間: '{1}'。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_IsUnboundedCannotBeTrueWhileMaxLengthIsNotNull" xml:space="preserve">
+    <value>字串參考無效，因為如果 'IsUnbounded' 是 true，則 'MaxLength' 必須是 null。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_BadNavigationPropertyUndefinedRole" xml:space="preserve">
+    <value>導覽屬性 '{0}' 無效。關聯性 '{2}' 中未定義角色 '{1}'。</value>
+  </data>
+  <data name="CsdlParser_ReferentialConstraintRequiresOnePrincipal" xml:space="preserve">
+    <value>參考條件約束需要一個主體角色。為這個參考條件約束指定了多個主體角色。</value>
+  </data>
+  <data name="CsdlParser_InvalidAssociationIncorrectNumberOfEnds" xml:space="preserve">
+    <value>關聯 '{0}' 無效。關聯必須包含兩個末端元素。</value>
+  </data>
+  <data name="Bad_UnresolvedEntityType" xml:space="preserve">
+    <value>找不到實體類型 '{0}'。</value>
+  </data>
+  <data name="ValueParser_InvalidMaxLength" xml:space="preserve">
+    <value>值 '{0}' 不是有效的整數。值必須是有效的 32 位元整數或 'Max'。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_EntitySetTypeHasNoKeys" xml:space="preserve">
+    <value>實體集 '{0}' 是以未定義索引鍵的類型 '{1}' 為基礎。</value>
+  </data>
+  <data name="EdmToClr_TryCreateObjectInstanceReturnedWrongObject" xml:space="preserve">
+    <value>TryCreateObjectInstance 委派所傳回之物件的類型 '{0}' 無法指派給預期的類型 '{1}'。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_DuplicateEntityContainerMemberName" xml:space="preserve">
+    <value>EntityContainer 中的每一個成員名稱都必須是唯一的。名為 '{0}' 的成員已經定義過了。</value>
+  </data>
+  <data name="Bad_UnresolvedParameter" xml:space="preserve">
+    <value>找不到參數 '{0}'。</value>
+  </data>
+  <data name="Serializer_UnknownEdmxVersion" xml:space="preserve">
+    <value>未知的 Edmx 版本。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_NoEntitySetsFoundForType" xml:space="preserve">
+    <value>關聯集 '{0}' 無法採用角色 '{2}' 的實體集，因為角色類型 '{1}' 沒有實體集。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_NavigationPropertyContainsTargetNotSupportedBeforeV3" xml:space="preserve">
+    <value>3.0 版之前不支援導覽屬性的 'ContainsTarget' 設定。</value>
+  </data>
+  <data name="Bad_UnresolvedFunction" xml:space="preserve">
+    <value>找不到函數 '{0}'。</value>
+  </data>
+  <data name="ValueHasAlreadyBeenSet" xml:space="preserve">
+    <value>已經設定值。</value>
+  </data>
+  <data name="EdmModel_CannotUseElementWithTypeNone" xml:space="preserve">
+    <value>類型 'None' 的元素不能用在模型中。</value>
+  </data>
+  <data name="UnknownEnumVal_FunctionParameterMode" xml:space="preserve">
+    <value>無效的函數參數模式: '{0}'</value>
+  </data>
+  <data name="EdmToClr_CannotConvertEdmValueToClrType" xml:space="preserve">
+    <value>不支援將類型 '{0}' 的 EDM 值轉換成 CLR 類型 '{1}'。</value>
+  </data>
+  <data name="CsdlParser_InvalidLabeledElementExpressionIncorrectNumberOfOperands" xml:space="preserve">
+    <value>LabeledElement 運算式必須包含 1 個運算元。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_ExpressionPrimitiveKindNotValidForAssertedType" xml:space="preserve">
+    <value>基本運算式與宣稱的類型不相容。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_InvalidMultiplicityOfPrincipalEndDependentPropertiesAllNullable" xml:space="preserve">
+    <value>主體端點 '{0}' 的 multiplicity 無效。因為端點 '{1}' 的所有相依屬性都是可為 null，所以主體端點的 multiplicity 必須是 '0..1'。</value>
+  </data>
+  <data name="CsdlParser_AssociationHasAtMostOneConstraint" xml:space="preserve">
+    <value>關聯最多只可以有一個條件約束。為這個關聯指定了多個條件約束。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_EnumMemberNameAlreadyDefined" xml:space="preserve">
+    <value>列舉類型的每個成員名稱都必須是唯一的。列舉成員名稱 '{0}' 已經定義過了。</value>
+  </data>
+  <data name="Edm_Evaluator_UnrecognizedExpressionKind" xml:space="preserve">
+    <value>無法評估種類 '{0}' 的運算式。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_ElementDirectValueAnnotationFullNameMustBeUnique" xml:space="preserve">
+    <value>元素已經具有命名空間 '{0}' 和名稱 '{1}' 的直接值註釋。</value>
+  </data>
+  <data name="CsdlParser_InvalidDeleteAction" xml:space="preserve">
+    <value>刪除動作 '{0}' 無效。動作必須是: 'None'、'Cascade' 或 'Restrict'。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_InvalidKeyNullablePart" xml:space="preserve">
+    <value>類型 '{1}' 的索引鍵部分 '{0}' 無效。索引鍵的所有部分都不可為 null。</value>
+  </data>
+  <data name="EdmModel_Validator_Syntactic_MissingNamespaceName" xml:space="preserve">
+    <value>命名空間名稱遺漏或無效。</value>
+  </data>
+  <data name="TypeSemantics_CouldNotConvertTypeReference" xml:space="preserve">
+    <value>無法將類型 '{0}' 轉換成 '{1}' 類型。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_ComposableFunctionImportCannotBeSideEffecting" xml:space="preserve">
+    <value>函數匯入 '{0}' 不可以同時為可組合和副作用。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_InaccessibleTarget" xml:space="preserve">
+    <value>在所驗證的模型中找不到目標 '{0}'。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_FunctionImportWithUnsupportedReturnTypeV1" xml:space="preserve">
+    <value>傳回類型在函數匯入 '{0}' 中無效。在 1.0 版，函數匯入可以沒有傳回類型，也可以傳回純量值集合或實體集合。</value>
+  </data>
+  <data name="CsdlParser_InvalidQualifiedName" xml:space="preserve">
+    <value>限定名稱 '{0}' 無效。限定名稱必須具有有效的命名空間或別名，以及有效的名稱。</value>
+  </data>
+  <data name="XmlParser_UnexpectedElement" xml:space="preserve">
+    <value>給定的內容中不應該有結構描述元素 '{0}'。</value>
+  </data>
+  <data name="Serializer_ReferencedTypeMustHaveValidName" xml:space="preserve">
+    <value>無法以無效的名稱序列化參考的類型。名稱 '{0}' 無效。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_DuplicateEndName" xml:space="preserve">
+    <value>名稱為 '{0}' 的端點已經定義過了。</value>
+  </data>
+  <data name="CsdlParser_MissingTypeAttributeOrElement" xml:space="preserve">
+    <value>遺漏代表 EDM 類型的 XML 屬性或子元素。</value>
+  </data>
+  <data name="UnknownEnumVal_PrimitiveKind" xml:space="preserve">
+    <value>無效的基本種類: '{0}'</value>
+  </data>
+  <data name="CsdlSemantics_DuplicateAlias" xml:space="preserve">
+    <value>結構描述 '{0}' 重複包含別名 '{1}'。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_SystemNamespaceEncountered" xml:space="preserve">
+    <value>命名空間 '{0}' 是系統命名空間，因此不能供非系統類型使用。請選擇其他命名空間。</value>
+  </data>
+  <data name="ValueParser_InvalidBoolean" xml:space="preserve">
+    <value>值 '{0}' 不是有效的布林。值必須是 'true' 或 'false'。</value>
+  </data>
+  <data name="Bad_CyclicEntity" xml:space="preserve">
+    <value>實體 '{0}' 無效，因為它的基底類型是循環的。</value>
+  </data>
+  <data name="CsdlParser_NullXmlReader" xml:space="preserve">
+    <value>無法產生模型，因為其中一個 XML 讀取器是 null。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_FunctionImportBindableNotSupportedBeforeV3" xml:space="preserve">
+    <value>3.0 版之前不支援函數匯入的 'Bindable' 設定。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_RecordExpressionHasExtraProperties" xml:space="preserve">
+    <value>記錄運算式的類型不是開放類型，而且不包含名稱為 '{0}' 的屬性。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_NavigationPropertyPrincipalEndMultiplicityUpperBoundMustBeOne" xml:space="preserve">
+    <value>主體導覽端點 '{0}' 有無效的 multiplicity。主體端點的有效 multiplicity 值是 '0..1' 或 '1'。</value>
+  </data>
+  <data name="ValueParser_InvalidInteger" xml:space="preserve">
+    <value>值 '{0}' 不是有效的整數。值必須是有效的 32 位元整數。</value>
+  </data>
+  <data name="EdmModel_Validator_Syntactic_EdmModel_NamespaceNameIsTooLong" xml:space="preserve">
+    <value>指定的名稱不能超過 480 個字元: '{0}'。</value>
+  </data>
+  <data name="CsdlParser_InvalidIfExpressionIncorrectNumberOfOperands" xml:space="preserve">
+    <value>如果運算式包含 3 個運算元，則第一個運算元為布林測試，第二個運算元在第一個運算元為 true 時評估，第三個運算元在第一個運算元為 false 時評估。</value>
+  </data>
+  <data name="ValueParser_InvalidFloatingPoint" xml:space="preserve">
+    <value>值 '{0}' 不是有效的浮點值。 </value>
+  </data>
+  <data name="XmlParser_EmptyFile" xml:space="preserve">
+    <value>{0} 未包含結構描述定義，或者所提供的 XmlReader 是在檔案的結尾開始。</value>
+  </data>
+  <data name="Edm_Evaluator_NoValueAnnotationOnType" xml:space="preserve">
+    <value>類型 '{0}' 必須有一個字詞 '{1}' 的值註釋。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_RecordExpressionNotValidForNonStructuredType" xml:space="preserve">
+    <value>記錄運算式與非結構化類型不相容。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_NullableComplexTypeProperty" xml:space="preserve">
+    <value>屬性 '{0}' 是複雜類型而且可為 null。EDM 1.0 和 2.0 版不支援可為 Null 的複雜類型屬性。</value>
+  </data>
+  <data name="CsdlParser_InvalidEntitySetPath" xml:space="preserve">
+    <value>'{0}' 不是有效的實體集路徑。</value>
+  </data>
+  <data name="Constructable_EntityTypeOrCollectionOfEntityTypeExpected" xml:space="preserve">
+    <value>必須是實體類型或實體類型集合。</value>
+  </data>
+  <data name="Bad_UnresolvedProperty" xml:space="preserve">
+    <value>找不到屬性 '{0}'。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_DependentPropertiesMustBelongToDependentEntity" xml:space="preserve">
+    <value>相依屬性 '{0}' 必須屬於相依實體 '{1}'。</value>
+  </data>
+  <data name="EdmToClr_StructuredPropertyDuplicateValue" xml:space="preserve">
+    <value>EDM 結構化值包含屬性 '{0}' 的多個值。不支援轉換屬性值重複的 EDM 結構化值。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_DeclaringTypeMustBeCorrect" xml:space="preserve">
+    <value>屬性 '{0}' 不能屬於其宣告類型以外的類型。 </value>
+  </data>
+  <data name="CsdlParser_ReferentialConstraintRequiresOneDependent" xml:space="preserve">
+    <value>參考條件約束需要一個相依角色。為這個參考條件約束指定了多個相依角色。</value>
+  </data>
+  <data name="Bad_UnresolvedEntitySet" xml:space="preserve">
+    <value>找不到實體集 '{0}'。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_DuplicateDependentProperty" xml:space="preserve">
+    <value>導覽屬性 '{1}' 的相依屬性 '{0}' 重複。</value>
+  </data>
+  <data name="UnknownEnumVal_EdmxTarget" xml:space="preserve">
+    <value>無效的 edmx 目標: '{0}'</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_IncorrectNumberOfArguments" xml:space="preserve">
+    <value>函數應用程式提供了 '{0}' 個引數，但函數 '{1}' 需要 '{2}' 個引數。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_BadNavigationPropertyCouldNotDetermineType" xml:space="preserve">
+    <value>無法從角色 '{0}' 決定導覽屬性類型。</value>
+  </data>
+  <data name="Bad_AmbiguousElementBinding" xml:space="preserve">
+    <value>名稱 '{0}' 模稜兩可。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_EndWithManyMultiplicityCannotHaveOperationsSpecified" xml:space="preserve">
+    <value>導覽屬性 '{0}' 不能指定 'OnDelete'，因為它的 multiplicity 是 '*'。</value>
+  </data>
+  <data name="EdmParseException_ErrorsEncounteredInEdmx" xml:space="preserve">
+    <value>剖析 EDMX 文件時發生下列錯誤:
+{0}</value>
+  </data>
+  <data name="EdmModel_Validator_Syntactic_MissingName" xml:space="preserve">
+    <value>名稱遺漏或者無效。</value>
+  </data>
+  <data name="Bad_UncomputableAssociationEnd" xml:space="preserve">
+    <value>無法計算關聯末端 '{0}'。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_FunctionImportEntityTypeDoesNotMatchEntitySet" xml:space="preserve">
+    <value>函數匯入 '{0}' 傳回的類型 '{1}' 實體不能存在為函數匯入指定的實體 '{2}' 中。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_DuplicatePropertyNameSpecifiedInEntityKey" xml:space="preserve">
+    <value>實體類型 '{0}' 中指定的索引鍵無效。索引鍵元素中多次參考到屬性 '{1}'。</value>
+  </data>
+  <data name="ValueParser_InvalidGuid" xml:space="preserve">
+    <value>值 '{0}' 不是有效的 GUID。 </value>
+  </data>
+  <data name="ValueParser_InvalidLong" xml:space="preserve">
+    <value>值 '{0}' 不是有效的整數。值必須是有效的 64 位元整數。</value>
+  </data>
+  <data name="ValueParser_InvalidSrid" xml:space="preserve">
+    <value>值 '{0}' 不是有效的 SRID。值必須是 32 位元整數或 'Variable'。</value>
+  </data>
+  <data name="ValueParser_InvalidTime" xml:space="preserve">
+    <value>值 '{0}' 不是一個有效的時間值。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_EnumMustHaveIntegralUnderlyingType" xml:space="preserve">
+    <value>'{0}' 的基礎類型無效。列舉類型的基礎類型必須是整數類型。 </value>
+  </data>
+  <data name="UnknownEnumVal_Multiplicity" xml:space="preserve">
+    <value>無效的 multiplicity: '{0}'</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_PrimitiveConstantExpressionNotValidForNonPrimitiveType" xml:space="preserve">
+    <value>基本運算式與非基本類型不相容。</value>
+  </data>
+  <data name="Serializer_NonInlineFunctionImportReturnType" xml:space="preserve">
+    <value>無法序列化函數匯入 '{0}'，因為無法內嵌表示其傳回類型。</value>
+  </data>
+  <data name="EdmEntityContainer_CannotUseElementWithTypeNone" xml:space="preserve">
+    <value>類型 'None' 的元素不能用在實體容器中。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_InvalidPropertyInRelationshipConstraintDependentEnd" xml:space="preserve">
+    <value>在角色 '{1}' 所參考的類型中，未定義名稱為 '{0}' 的屬性。</value>
+  </data>
+  <data name="Constructable_VocabularyAnnotationMustHaveTarget" xml:space="preserve">
+    <value>註釋必須有非 null 的目標。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_SpatialTypeReferencesNotSupportedBeforeV3" xml:space="preserve">
+    <value>3.0 版之前不支援 EDM 空間類型的參考。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_InvalidKeyKeyDefinedInBaseClass" xml:space="preserve">
+    <value>索引鍵使用方法無效。'{0}' 不能定義索引鍵，因為它的一個基底類別 '{1}' 定義了索引鍵。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_StreamTypeReferencesNotSupportedBeforeV3" xml:space="preserve">
+    <value>3.0 版之前不支援 EDM 資料流類型的參考。</value>
+  </data>
+  <data name="CsdlParser_InvalidAssociationSetIncorrectNumberOfEnds" xml:space="preserve">
+    <value>關聯集 '{0}' 無效。關聯集最多只能包含兩個末端元素。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_PrimitiveTypeMustNotHaveKindOfNone" xml:space="preserve">
+    <value>基本類型若沒有其他錯誤，其種類不能是無。基本類型 '{0}' 的種類是無。</value>
+  </data>
+  <data name="Edm_Evaluator_UnboundFunction" xml:space="preserve">
+    <value>函數 '{0}' 不存在執行環境中。</value>
+  </data>
+  <data name="CsdlParser_InvalidConcurrencyMode" xml:space="preserve">
+    <value>並行模式 '{0}' 無效。並行模式必須是: 'None' 或 'Fixed'。</value>
+  </data>
+  <data name="EdmModel_Validator_Syntactic_NavigationPartnerInvalid" xml:space="preserve">
+    <value>導覽屬性 '{0}' 的父屬性不能是同一個屬性，而且必須指回此導覽屬性。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_InvalidComplexTypePolymorphic" xml:space="preserve">
+    <value>複雜類型 '{0}' 已指定基底類型。只有 1.1 版 EDM 模型支援複雜類型繼承。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_ScaleOutOfRange" xml:space="preserve">
+    <value>小數位數值的範圍可以介於 0 到指定的有效位數值之間。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_TypeMismatchRelationshipConstraint" xml:space="preserve">
+    <value>參考條件約束的相依角色中的所有屬性類型必須與主體角色中對應的屬性類型相同。在參考條件約束 '{4}' 中，實體 '{1}' 的屬性 '{0}' 類型不符合實體 '{3}' 的屬性 '{2}' 類型。</value>
+  </data>
+  <data name="ValueParser_InvalidDateTime" xml:space="preserve">
+    <value>值 '{0}' 不是有效的日期時間值。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_AmbiguousType" xml:space="preserve">
+    <value>所驗證模型中的具名類型 '{0}' 模稜兩可。</value>
+  </data>
+  <data name="XmlParser_UnexpectedAttribute" xml:space="preserve">
+    <value>給定的內容中不應該有屬性 '{0}'。</value>
+  </data>
+  <data name="EdmModel_Validator_Syntactic_InterfaceCriticalCycleInTypeHierarchy" xml:space="preserve">
+    <value>類型 '{0}' 的基底類型鏈結是循環的。</value>
+  </data>
+  <data name="RuleSet_DuplicateRulesExistInRuleSet" xml:space="preserve">
+    <value>相同的規則不能出現在同一個規則集中兩次。</value>
+  </data>
+  <data name="CsdlParser_InvalidTypeName" xml:space="preserve">
+    <value>類型名稱 '{0}' 無效。類型名稱必須是基本類型的名稱、完整名稱或內嵌的 'Collection' 或 'Ref' 類型。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_PathIsNotValidForTheGivenContext" xml:space="preserve">
+    <value>無法解析給定內容中的路徑。區段 '{0}' 無法解析。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_InvalidElementAnnotationValueInvalidXml" xml:space="preserve">
+    <value>標記要序列化為 XML 元素之註釋的值必須具有語式正確的 XML 值。</value>
+  </data>
+  <data name="XmlParser_UnusedElement" xml:space="preserve">
+    <value>未使用的結構描述項目: '{0}'。</value>
+  </data>
+  <data name="CsdlSemantics_EnumMemberValueOutOfRange" xml:space="preserve">
+    <value>列舉成員值超過其資料類型的範圍 'http://www.w3.org/2001/XMLSchema:long'。</value>
+  </data>
+  <data name="Serializer_OutOfLineAnnotationTargetMustHaveValidName" xml:space="preserve">
+    <value>無法以無效的目標名稱序列化註釋。名稱 '{0}' 無效。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_TermMustNotHaveKindOfNone" xml:space="preserve">
+    <value>字詞若沒有其他錯誤，其種類不能是無。字詞 '{0}' 的種類是無。</value>
+  </data>
+  <data name="Annotations_DocumentationPun" xml:space="preserve">
+    <value>'Documentation' 命名空間中的註釋必須實作 'IEdmDocumentation'，但 '{0}' 並未實作。</value>
+  </data>
+  <data name="EdmxParser_EdmxVersionMismatch" xml:space="preserve">
+    <value>'Version' 屬性中指定的 EDMX 版本不符合 'Edmx' 元素的命名空間對應的版本。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_MismatchNumberOfPropertiesinRelationshipConstraint" xml:space="preserve">
+    <value>關聯性條件約束中相依和主體角色的屬性數目必須完全相同。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_CannotAssertNullableTypeAsNonNullableType" xml:space="preserve">
+    <value>無法將可為 null 的類型 '{0}' 宣稱為不可為 null 的類型。</value>
+  </data>
+  <data name="UnknownEnumVal_TermKind" xml:space="preserve">
+    <value>無效的字詞種類: '{0}'</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_DuplicateEntityContainerName" xml:space="preserve">
+    <value>函數中的每個實體容器名稱都必須是唯一的。名稱 '{0}' 已經定義過了。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_ParameterNameAlreadyDefinedDuplicate" xml:space="preserve">
+    <value>函數中的每一個參數名稱都必須是唯一的。參數名稱 '{0}' 已經定義過了。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_VocabularyAnnotationsNotSupportedBeforeV3" xml:space="preserve">
+    <value>3.0 版之前不支援詞彙註釋。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_FunctionImportParameterIncorrectType" xml:space="preserve">
+    <value>參數 '{1}' 的類型 '{0}' 無效。函數匯入參數必須是下列其中一種類型: 簡單類型或複雜類型。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_NavigationPropertyWithRecursiveContainmentSourceMustBeFromZeroOrOne" xml:space="preserve">
+    <value>導覽屬性 '{0}' 的來源 multiplicity 無效。如果導覽屬性的 'ContainsTarget' 設為 true，而且屬性的宣告實體類型與目標實體類型相同或是繼承自目標實體類型，則屬性代表遞迴內含項目而且導覽來源的 multiplicity 必須是零或一。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_DuplicateNavigationPropertyMapping" xml:space="preserve">
+    <value>實體集 '{0}' 應該只有屬性 '{1}' 的一個對應。</value>
+  </data>
+  <data name="UnknownEnumVal_ConcurrencyMode" xml:space="preserve">
+    <value>無效的並行模式: '{0}'</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_InvalidElementAnnotationMismatchedTerm" xml:space="preserve">
+    <value>註釋的宣告名稱和命名空間必須符合其 XML 值的名稱和命名空間。</value>
+  </data>
+  <data name="CsdlParser_InvalidEndRoleInRelationshipConstraint" xml:space="preserve">
+    <value>未在關聯性 '{1}' 中定義名稱為 '{0}' 的角色。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_InvalidMultiplicityOfPrincipalEndDependentPropertiesAllNonnullable" xml:space="preserve">
+    <value>主體端點 '{0}' 的 multiplicity 無效。因為端點 '{1}' 的所有相依屬性都是不可為 null，所以主體端點的 multiplicity 必須是 '1'。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_InvalidElementAnnotationNotIEdmStringValue" xml:space="preserve">
+    <value>標記要序列化為 XML 元素之註釋的值必須是 IEdmStringValue。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_RowTypeMustHaveProperties" xml:space="preserve">
+    <value>列類型無效。列必須至少包含一個屬性。</value>
+  </data>
+  <data name="EdmxParser_EdmxMaxDataServiceVersionInvalid" xml:space="preserve">
+    <value>最大資料服務版本的指定值無效。</value>
+  </data>
+  <data name="Edm_Evaluator_NoValueAnnotationOnElement" xml:space="preserve">
+    <value>元素必須有一個字詞 '{0}' 的值註釋。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_EntityContainerElementMustNotHaveKindOfNone" xml:space="preserve">
+    <value>實體容器元素若沒有其他錯誤，其種類不能是無。實體容器元素 '{0}' 的種類是無。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_EntitySetCanOnlyBeContainedByASingleNavigationProperty" xml:space="preserve">
+    <value>實體集 '{0}' 無效，因為有多個導覽屬性包含該實體集。</value>
+  </data>
+  <data name="XmlParser_MissingAttribute" xml:space="preserve">
+    <value>元素 '{1}' 上沒有必要的結構描述屬性 '{0}'。</value>
+  </data>
+  <data name="CsdlParser_InvalidMultiplicity" xml:space="preserve">
+    <value>Multiplicity '{0}' 無效。Multiplicity 必須是: '*'、'0..1' 或 '1'。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_FunctionImportSpecifiesEntitySetButNotEntityType" xml:space="preserve">
+    <value>函數匯入 '{0}' 指定了實體集，但未傳回實體。</value>
+  </data>
+  <data name="EdmToClr_StructuredValueMappedToNonClass" xml:space="preserve">
+    <value>只支援將 EDM 結構化值轉換成 CLR 類別。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_ComplexTypeMustHaveProperties" xml:space="preserve">
+    <value>複雜類型 '{0}' 無效。複雜類型必須至少包含一個屬性。</value>
+  </data>
+  <data name="UnknownEnumVal_ExpressionKind" xml:space="preserve">
+    <value>無效的運算式種類: '{0}'</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_InvalidToPropertyInRelationshipConstraint" xml:space="preserve">
+    <value>相依角色 '{0}' 所參考的屬性必須是實體類型 '{1}' 的索引鍵子集。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_InvalidMultiplicityOfDependentEndMustBeMany" xml:space="preserve">
+    <value>相依端點 '{0}' 的 multiplicity 無效。因為相依屬性不代表相依端點索引鍵，所以相依端點的 multiplicity 必須是 '*'。</value>
+  </data>
+  <data name="Serializer_NoSchemasProduced" xml:space="preserve">
+    <value>未寫入 CSDL，因為無法產生任何結構描述元素。這可能是因為模型空白。</value>
+  </data>
+  <data name="XmlParser_TextNotAllowed" xml:space="preserve">
+    <value>目前結構描述元素不支援文字 '{0}'。</value>
+  </data>
+  <data name="Bad_UnresolvedEnumType" xml:space="preserve">
+    <value>找不到列舉類型 '{0}'。</value>
+  </data>
+  <data name="EdmxParser_BodyElement" xml:space="preserve">
+    <value>剖析 Edmx 時發現非預期的 {0} 元素。Edmx 最多只能有 'Runtime' 或 'DataServices' 其中一個元素。</value>
+  </data>
+  <data name="EdmModel_Validator_Syntactic_EnumPropertyValueOutOfRange" xml:space="preserve">
+    <value>類型 '{2}' 的屬性 '{0}.{1}' 有值 '{3}'，此值不是有效的列舉成員。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_EntityKeyMustBeScalar" xml:space="preserve">
+    <value>實體類型 '{1}' 中的屬性 '{0}' 無效。屬於實體索引鍵的所有屬性都必須是基本類型。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_OnlyInputParametersAllowedInFunctions" xml:space="preserve">
+    <value>函數 '{1}' 中參數 '{0}' 的模式無效。函數中只允許輸入參數。</value>
+  </data>
+  <data name="Constructable_TargetMustBeStock" xml:space="preserve">
+    <value>導覽目標實體類型必須是 '{0}'。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_BindableFunctionImportMustHaveParameters" xml:space="preserve">
+    <value>可繫結的函數匯入 '{0}' 必須至少有一個參數。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_FunctionImportEntitySetExpressionIsInvalid" xml:space="preserve">
+    <value>函數匯入 '{0}' 指定了無效的實體集運算式。函數匯入實體集運算式可以是實體集參考，或是以函數匯入參數開頭並周遊導覽屬性的路徑。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_InvalidElementAnnotationNullNamespaceOrName" xml:space="preserve">
+    <value>標記要序列化為 XML 元素之註釋的值必須是字串，代表包含非空白名稱和命名空間的 XML 元素。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_CannotInferEntitySetWithMultipleSetsPerType" xml:space="preserve">
+    <value>關聯集 '{0}' 必須為角色 '{2}' 指定實體集，因為角色類型 '{1}' 有多個實體集。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_CollectionExpressionNotValidForNonCollectionType" xml:space="preserve">
+    <value>集合運算式與非集合類型不相容。</value>
+  </data>
+  <data name="ValueWriter_NonSerializableValue" xml:space="preserve">
+    <value>值寫入器無法寫入種類 '{0}' 的值。</value>
+  </data>
+  <data name="EdmPrimitive_UnexpectedKind" xml:space="preserve">
+    <value>非預期的基本類型種類。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_FunctionImportComposableNotSupportedBeforeV3" xml:space="preserve">
+    <value>3.0 版之前不支援函數匯入的 'Composable' 設定。</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_EntitySetNavigationPropertyMappingMustPointToValidTargetForProperty" xml:space="preserve">
+    <value>實體集 '{1}' 不是導覽屬性 '{0}' 的有效目的地，因為它無法保存目標實體類型的元素。</value>
+  </data>
+  <data name="EdmModel_Validator_Syntactic_EdmModel_NameIsNotAllowed" xml:space="preserve">
+    <value>不允許指定的名稱: '{0}'。</value>
+  </data>
+</root>

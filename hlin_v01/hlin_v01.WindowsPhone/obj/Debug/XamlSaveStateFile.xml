@@ -1,0 +1,14 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="b:\n i i t®\misc\hlinex_beta_windowsphone(10-03-2016)\hlinex_beta\hlin_windows_phone_alpha_version\hlin_v01\hlin_v01\hlin_v01.windowsphone\obj\debug\intermediatexaml\hlin_v01.windowsphone.exe" HashGuid="d4ad996c-dad8-a81e-113b-eddbef1a2fa5" />
+    <ReferenceAssembly PathName="c:\users\loga\documents\hlin_v02_beta_final\hlin_final_free\hlin_v01\packages\microsoft.data.edm.5.6.4\lib\portable-net45+wp8+win8+wpa\microsoft.data.edm.dll" HashGuid="542866d1-034c-4a29-055a-3969aa6de044" />
+    <ReferenceAssembly PathName="c:\users\loga\documents\hlin_v02_beta_final\hlin_final_free\hlin_v01\packages\microsoft.data.odata.5.6.4\lib\portable-net45+wp8+win8+wpa\microsoft.data.odata.dll" HashGuid="35b01c6a-1c5a-af48-56de-eaef4c96115b" />
+    <ReferenceAssembly PathName="c:\users\loga\documents\hlin_v02_beta_final\hlin_final_free\hlin_v01\packages\windowsazure.mobileservices.1.2.5\lib\wpa81\microsoft.windowsazure.mobile.dll" HashGuid="083034df-3ca7-6905-c884-535ec28d6c4e" />
+    <ReferenceAssembly PathName="c:\users\loga\documents\hlin_v02_beta_final\hlin_final_free\hlin_v01\packages\windowsazure.mobileservices.1.2.5\lib\wpa81\microsoft.windowsazure.mobile.ext.dll" HashGuid="d14f6c57-ffca-9ad1-126f-ce93487ab524" />
+    <ReferenceAssembly PathName="c:\users\loga\documents\hlin_v02_beta_final\hlin_final_free\hlin_v01\packages\windowsazure.storage.6.2.0\lib\wpa\microsoft.windowsazure.storage.dll" HashGuid="42534966-5c34-db9c-7043-2c50b3aaa51b" />
+    <ReferenceAssembly PathName="c:\users\loga\documents\hlin_v02_beta_final\hlin_final_free\hlin_v01\packages\newtonsoft.json.6.0.8\lib\portable-net45+wp80+win8+wpa81+aspnetcore50\newtonsoft.json.dll" HashGuid="a6815119-bde8-2bdd-8acf-133f32c00b94" />
+    <ReferenceAssembly PathName="c:\users\loga\documents\hlin_v02_beta_final\hlin_final_free\hlin_v01\packages\microsoft.net.http.2.2.29\lib\wpa81\system.net.http.extensions.dll" HashGuid="794366f8-cc6d-f0fa-3d07-33b45136e193" />
+    <ReferenceAssembly PathName="c:\users\loga\documents\hlin_v02_beta_final\hlin_final_free\hlin_v01\packages\microsoft.net.http.2.2.29\lib\wpa81\system.net.http.primitives.dll" HashGuid="7b71418d-e056-7613-c839-85fb8f6472a6" />
+    <ReferenceAssembly PathName="c:\users\loga\documents\hlin_v02_beta_final\hlin_final_free\hlin_v01\packages\system.spatial.5.6.4\lib\portable-net45+wp8+win8+wpa\system.spatial.dll" HashGuid="af07efc6-7fe8-d611-3cea-feee0fa1b441" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

@@ -1,0 +1,249 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Validator_NestingOverflow" xml:space="preserve">
+    <value>Datos espaciales no válidos: solo se admiten {0} niveles de anidamiento en tipos de colección.</value>
+  </data>
+  <data name="Validator_UnexpectedGeometry" xml:space="preserve">
+    <value>Se llamó a una operación de geometría mientras se procesaba una forma geográfica.</value>
+  </data>
+  <data name="Validator_LineStringNeedsTwoPoints" xml:space="preserve">
+    <value>Datos espaciales no válidos: el tipo espacial "LineString" debe contener al menos dos puntos.</value>
+  </data>
+  <data name="WellKnownText_UnknownTaggedText" xml:space="preserve">
+    <value>Texto etiquetado desconocido "{0}".</value>
+  </data>
+  <data name="GeoJsonReader_MissingRequiredMember" xml:space="preserve">
+    <value>GeoJSON no válido. El miembro '{0}' es necesario, pero no se encontró.</value>
+  </data>
+  <data name="WellKnownText_UnexpectedToken" xml:space="preserve">
+    <value>Se esperaba el tipo de token "{0}" con el texto "{1}" pero se encontró "{2}".</value>
+  </data>
+  <data name="GmlReader_InvalidSrsName" xml:space="preserve">
+    <value>Formato GML incorrecto: un atributo srsName debe empezar con el espacio de nombres "{0}".</value>
+  </data>
+  <data name="InvalidPointCoordinate" xml:space="preserve">
+    <value>El valor '{0}' no es válido para la coordenada '{1}'.</value>
+  </data>
+  <data name="PriorityQueueOperationNotValidOnEmptyQueue" xml:space="preserve">
+    <value>La operación no es válida en una cola vacía.</value>
+  </data>
+  <data name="Validator_InvalidPolygonPoints" xml:space="preserve">
+    <value>Datos espaciales no válidos: un anillo de polígonos debe contener al menos cuatro puntos y el último punto debe ser igual que el primero.</value>
+  </data>
+  <data name="Validator_InvalidType" xml:space="preserve">
+    <value>Datos espaciales no válidos: tipo espacial no válido "{0}".</value>
+  </data>
+  <data name="GeoJsonReader_InvalidNullElement" xml:space="preserve">
+    <value>GeoJSON no válido. Se encontró un elemento NULL en un elemento de matriz donde no se permiten elementos NULL.</value>
+  </data>
+  <data name="GmlReader_ExpectReaderAtElement" xml:space="preserve">
+    <value>Formato GML incorrecto: se espera que la instancia de XmlReader esté al principio de un elemento GML.</value>
+  </data>
+  <data name="Validator_InvalidLongitudeCoordinate" xml:space="preserve">
+    <value>Coordenada de longitud no válida {0}. Una coordenada de longitud debe ser un valor comprendido entre -15069.0 y +15069.0 grados.</value>
+  </data>
+  <data name="GmlReader_UnexpectedElement" xml:space="preserve">
+    <value>Formato GML incorrecto: la instancia de XmlReader encontró un elemento inesperado "{0}".</value>
+  </data>
+  <data name="WellKnownText_TooManyDimensions" xml:space="preserve">
+    <value>WellKnownTextReader está configurado para permitir solo dos dimensiones y se encontró una tercera dimensión.</value>
+  </data>
+  <data name="GeoJsonReader_ExpectedNumeric" xml:space="preserve">
+    <value>GeoJSON no válido.Se encontró un valor no numérico en un elemento de matriz donde se esperaba un valor numérico.</value>
+  </data>
+  <data name="PriorityQueueDoesNotContainItem" xml:space="preserve">
+    <value>La cola no contiene un elemento con la prioridad {0}.</value>
+  </data>
+  <data name="JsonReaderExtensions_CannotReadValueAsJsonObject" xml:space="preserve">
+    <value>No se puede leer el valor '{0}' como un objeto JSON.</value>
+  </data>
+  <data name="Validator_FullGlobeInCollection" xml:space="preserve">
+    <value>Datos espaciales no válidos: el tipo espacial "FullGlobe" no puede formar parte de un tipo de colección.</value>
+  </data>
+  <data name="Point_AccessCoordinateWhenEmpty" xml:space="preserve">
+    <value>No se admite el acceso a las propiedades de coordenadas de un punto vacío.</value>
+  </data>
+  <data name="Validator_UnexpectedCall2" xml:space="preserve">
+    <value>Datos espaciales no válidos: se esperaba una llamada a "{0}" o "{1}" pero se obtuvo una llamada a "{2}".</value>
+  </data>
+  <data name="JsonReaderExtensions_CannotReadPropertyValueAsString" xml:space="preserve">
+    <value>No se puede leer el valor '{0}' para la propiedad '{1}' como un valor de cadena JSON entre comillas.</value>
+  </data>
+  <data name="GmlReader_InvalidAttribute" xml:space="preserve">
+    <value>No se admite el atributo '{0}' en el elemento '{1}'.</value>
+  </data>
+  <data name="PriorityQueueEnqueueExistingPriority" xml:space="preserve">
+    <value>Ya existe un elemento con la misma prioridad.</value>
+  </data>
+  <data name="Validator_SridMismatch" xml:space="preserve">
+    <value>Datos espaciales no válidos: una instancia de tipo espacial solo puede tener un único CoordinateSystem para todas sus coordenadas.</value>
+  </data>
+  <data name="Validator_InvalidPointCoordinate" xml:space="preserve">
+    <value>Datos espaciales no válidos: las coordenadas ({0} {1} {2} {3}) no son válidas.</value>
+  </data>
+  <data name="GeoJsonReader_ExpectedArray" xml:space="preserve">
+    <value>GeoJSON no válido. Se encontró un valor primitivo en un elemento de matriz donde se esperaba una matriz.</value>
+  </data>
+  <data name="Validator_FullGlobeCannotHaveElements" xml:space="preserve">
+    <value>Datos espaciales no válidos: el tipo espacial "FullGlobe" no puede contener cifras.</value>
+  </data>
+  <data name="GmlReader_PosNeedTwoNumbers" xml:space="preserve">
+    <value>Formato GML incorrecto: un elemento pos debe contener al menos dos coordenadas.</value>
+  </data>
+  <data name="Validator_InvalidLatitudeCoordinate" xml:space="preserve">
+    <value>Coordenada de latitud no válida {0}. Una coordenada de latitud debe ser un valor comprendido entre -90.0 y +90.0 grados.</value>
+  </data>
+  <data name="Validator_UnexpectedGeography" xml:space="preserve">
+    <value>Se llamó a una operación de geografía mientras se procesaba una forma geométrica.</value>
+  </data>
+  <data name="GeoJsonReader_InvalidTypeName" xml:space="preserve">
+    <value>GeoJSON no válido. '{0}' no es un valor válido para el miembro 'type'.</value>
+  </data>
+  <data name="GeoJsonReader_InvalidCrsType" xml:space="preserve">
+    <value>GeoJSON no válido. El valor '{0}' no es un tipo CRS reconocido.</value>
+  </data>
+  <data name="GeoJsonReader_InvalidCrsName" xml:space="preserve">
+    <value>GeoJSON no válido. El valor '{0}' no es un nombre CRS reconocido.</value>
+  </data>
+  <data name="GmlReader_InvalidSpatialType" xml:space="preserve">
+    <value>Formato GML incorrecto: etiqueta de tipo espacial desconocido "{0}".</value>
+  </data>
+  <data name="SpatialImplementation_NoRegisteredOperations" xml:space="preserve">
+    <value>No hay ninguna operación registrada. Proporcione operaciones mediante la propiedad SpatialImplementation.CurrentImplementation.Operations.</value>
+  </data>
+  <data name="GmlReader_EmptyRingsNotAllowed" xml:space="preserve">
+    <value>Formato GML incorrecto: un elemento LinearRing no debe estar vacío.</value>
+  </data>
+  <data name="WellKnownText_UnexpectedCharacter" xml:space="preserve">
+    <value>Se encontró el carácter inesperado '{0}' en el texto.</value>
+  </data>
+  <data name="SpatialBuilder_CannotCreateBeforeDrawn" xml:space="preserve">
+    <value>El generador no puede crear una instancia hasta que se hayan completado todas las llamadas de canalización.</value>
+  </data>
+  <data name="GeoJsonReader_InvalidPosition" xml:space="preserve">
+    <value>GeoJSON no válido. Una posición debe contener al menos dos y no más de cuatro elementos.</value>
+  </data>
+  <data name="GmlReader_PosListNeedsEvenCount" xml:space="preserve">
+    <value>Formato GML incorrecto: un elemento posList debe contener un número par de coordenadas.</value>
+  </data>
+  <data name="Validator_UnexpectedCall" xml:space="preserve">
+    <value>Datos espaciales no válidos: se esperaba una llamada a "{0}" pero se obtuvo una llamada a "{1}".</value>
+  </data>
+</root>
