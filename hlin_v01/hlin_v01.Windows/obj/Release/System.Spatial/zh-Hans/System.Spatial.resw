@@ -1,0 +1,249 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Validator_NestingOverflow" xml:space="preserve">
+    <value>空间数据无效: 在集合类型中只支持 {0} 级嵌套。</value>
+  </data>
+  <data name="Validator_UnexpectedGeometry" xml:space="preserve">
+    <value>处理地理形状时调用了几何图形操作。</value>
+  </data>
+  <data name="Validator_LineStringNeedsTwoPoints" xml:space="preserve">
+    <value>空间数据无效: 空间类型“LineString”必须包含至少两个点。</value>
+  </data>
+  <data name="WellKnownText_UnknownTaggedText" xml:space="preserve">
+    <value>未知的标记文本“{0}”。</value>
+  </data>
+  <data name="GeoJsonReader_MissingRequiredMember" xml:space="preserve">
+    <value>GeoJSON 无效。“{0}”成员是必需的，但找不到。</value>
+  </data>
+  <data name="WellKnownText_UnexpectedToken" xml:space="preserve">
+    <value>需要标记类型“{0}”以及文本“{1}”，但找到了“{2}”。</value>
+  </data>
+  <data name="GmlReader_InvalidSrsName" xml:space="preserve">
+    <value>GML 格式不正确: srsName 特性必须以命名空间“{0}”开头。</value>
+  </data>
+  <data name="InvalidPointCoordinate" xml:space="preserve">
+    <value>值“{0}”对于坐标“{1}”无效。</value>
+  </data>
+  <data name="PriorityQueueOperationNotValidOnEmptyQueue" xml:space="preserve">
+    <value>该操作对于空队列无效。</value>
+  </data>
+  <data name="Validator_InvalidPolygonPoints" xml:space="preserve">
+    <value>空间数据无效: 多边形环必须至少包含四个点，且最后一个点必须等于第一个点。</value>
+  </data>
+  <data name="Validator_InvalidType" xml:space="preserve">
+    <value>空间数据无效: 空间类型“{0}”无效。</value>
+  </data>
+  <data name="GeoJsonReader_InvalidNullElement" xml:space="preserve">
+    <value>GeoJSON 无效。在不允许 Null 的数组元素中找到了 Null 值。</value>
+  </data>
+  <data name="GmlReader_ExpectReaderAtElement" xml:space="preserve">
+    <value>GML 格式不正确: XmlReader 实例应位于 GML 元素的开头。</value>
+  </data>
+  <data name="Validator_InvalidLongitudeCoordinate" xml:space="preserve">
+    <value>经度坐标 {0} 无效。经度坐标必须是 -15069.0 到 +15069.0 度之间的值</value>
+  </data>
+  <data name="GmlReader_UnexpectedElement" xml:space="preserve">
+    <value>GML 格式不正确: XmlReader 实例遇到意外的元素“{0}”。</value>
+  </data>
+  <data name="WellKnownText_TooManyDimensions" xml:space="preserve">
+    <value>WellKnownTextReader 配置为仅允许两个维度，但遇到了第三个维度。</value>
+  </data>
+  <data name="GeoJsonReader_ExpectedNumeric" xml:space="preserve">
+    <value>GeoJSON 无效。在需要数字值的数组元素找到了非数字值。</value>
+  </data>
+  <data name="PriorityQueueDoesNotContainItem" xml:space="preserve">
+    <value>队列不包含具有优先级 {0} 的项。</value>
+  </data>
+  <data name="JsonReaderExtensions_CannotReadValueAsJsonObject" xml:space="preserve">
+    <value>无法读取值“{0}”作为 JSON 对象。</value>
+  </data>
+  <data name="Validator_FullGlobeInCollection" xml:space="preserve">
+    <value>空间数据无效: 空间类型“FullGlobe”不能是集合类型的一部分。</value>
+  </data>
+  <data name="Point_AccessCoordinateWhenEmpty" xml:space="preserve">
+    <value>不支持访问空点的坐标属性。</value>
+  </data>
+  <data name="Validator_UnexpectedCall2" xml:space="preserve">
+    <value>空间数据无效: 应为对“{0}”或“{1}”的调用，但获得了对“{2}”的调用。</value>
+  </data>
+  <data name="JsonReaderExtensions_CannotReadPropertyValueAsString" xml:space="preserve">
+    <value>无法读取属性“{1}”的值“{0}”作为带引号的 JSON 字符串值。</value>
+  </data>
+  <data name="GmlReader_InvalidAttribute" xml:space="preserve">
+    <value>不支持元素“{1}”上的特性“{0}”。</value>
+  </data>
+  <data name="PriorityQueueEnqueueExistingPriority" xml:space="preserve">
+    <value>具有相同优先级的项已存在。</value>
+  </data>
+  <data name="Validator_SridMismatch" xml:space="preserve">
+    <value>空间数据无效: 空间类型的实例只能有一个唯一的 CoordinateSystem 表示其所有坐标。</value>
+  </data>
+  <data name="Validator_InvalidPointCoordinate" xml:space="preserve">
+    <value>空间数据无效: 坐标({0} {1} {2} {3})无效。</value>
+  </data>
+  <data name="GeoJsonReader_ExpectedArray" xml:space="preserve">
+    <value>GeoJSON 无效。在需要数组的数组元素中找到了基元值。</value>
+  </data>
+  <data name="Validator_FullGlobeCannotHaveElements" xml:space="preserve">
+    <value>空间数据无效: 空间类型“FullGlobe”不能包含任何图表。</value>
+  </data>
+  <data name="GmlReader_PosNeedTwoNumbers" xml:space="preserve">
+    <value>GML 格式不正确: pos 元素必须包含至少两个坐标。</value>
+  </data>
+  <data name="Validator_InvalidLatitudeCoordinate" xml:space="preserve">
+    <value>纬度坐标 {0} 无效。纬度坐标必须是 -90.0 到 +90.0 度之间的值。</value>
+  </data>
+  <data name="Validator_UnexpectedGeography" xml:space="preserve">
+    <value>处理几何形状时调用了地理操作。</value>
+  </data>
+  <data name="GeoJsonReader_InvalidTypeName" xml:space="preserve">
+    <value>GeoJSON 无效。值“{0}”对于“type”成员不是有效的值。</value>
+  </data>
+  <data name="GeoJsonReader_InvalidCrsType" xml:space="preserve">
+    <value>GeoJSON 无效。值“{0}”不是已识别的 CRS 类型。</value>
+  </data>
+  <data name="GeoJsonReader_InvalidCrsName" xml:space="preserve">
+    <value>GeoJSON 无效。值“{0}”不是已识别的 CRS 名称。</value>
+  </data>
+  <data name="GmlReader_InvalidSpatialType" xml:space="preserve">
+    <value>GML 格式不正确: 未知的空间类型标记“{0}”。</value>
+  </data>
+  <data name="SpatialImplementation_NoRegisteredOperations" xml:space="preserve">
+    <value>未注册任何操作。请使用 SpatialImplementation.CurrentImplementation.Operations 属性提供操作。</value>
+  </data>
+  <data name="GmlReader_EmptyRingsNotAllowed" xml:space="preserve">
+    <value>GML 格式不正确: LinearRing 元素不能为空。</value>
+  </data>
+  <data name="WellKnownText_UnexpectedCharacter" xml:space="preserve">
+    <value>在文本中找到了意外的字符“{0}”。</value>
+  </data>
+  <data name="SpatialBuilder_CannotCreateBeforeDrawn" xml:space="preserve">
+    <value>在完成所有管道调用之前，生成器无法创建实例。</value>
+  </data>
+  <data name="GeoJsonReader_InvalidPosition" xml:space="preserve">
+    <value>GeoJSON 无效。位置必须至少包含两个元素，但不能超过四个元素。</value>
+  </data>
+  <data name="GmlReader_PosListNeedsEvenCount" xml:space="preserve">
+    <value>GML 格式不正确: posList 元素必须包含偶数个坐标。</value>
+  </data>
+  <data name="Validator_UnexpectedCall" xml:space="preserve">
+    <value>空间数据无效: 应为对“{0}”的调用，但获得了对“{1}”的调用。</value>
+  </data>
+</root>

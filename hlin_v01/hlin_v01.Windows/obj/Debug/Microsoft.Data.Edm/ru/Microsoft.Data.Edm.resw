@@ -1,0 +1,889 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="EdmModel_Validator_Semantic_InaccessibleType" xml:space="preserve">
+    <value>Не удалось найти именованный тип "{0}" в проверяемой модели.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_InaccessibleTerm" xml:space="preserve">
+    <value>Термин "{0}" не найден в проверяемой модели.</value>
+  </data>
+  <data name="Edm_Evaluator_NoTermTypeAnnotationOnType" xml:space="preserve">
+    <value>Тип "{0}" должен иметь одну заметку типа с типом термина "{1}".</value>
+  </data>
+  <data name="Bad_UnresolvedComplexType" xml:space="preserve">
+    <value>Сложный тип "{0}" не найден.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_OpenTypesSupportedOnlyInV12AndAfterV3" xml:space="preserve">
+    <value>Открытые типы поддерживаются только в версии 1.2 и в версиях выше 2.0.</value>
+  </data>
+  <data name="EdmToClr_UnsupportedTypeCode" xml:space="preserve">
+    <value>Преобразование значений модели EDM в тип CLR с кодом типа {0} не поддерживается.</value>
+  </data>
+  <data name="Serializer_SingleFileExpected" xml:space="preserve">
+    <value>Указан один файл, но модель нельзя сериализовать в один файл.</value>
+  </data>
+  <data name="EdmToClr_IEnumerableOfTPropertyAlreadyHasValue" xml:space="preserve">
+    <value>Не удается инициализировать свойство "{0}" в объекте типа "{1}". Свойство уже имеет значение.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_TypeAnnotationHasExtraProperties" xml:space="preserve">
+    <value>Тип заметки типа не открыт и не содержит свойства с именем "{0}".</value>
+  </data>
+  <data name="XmlParser_UnexpectedRootElement" xml:space="preserve">
+    <value>Непредвиденный элемент "{0}" в качестве корневого. Корневым элементом должен быть {1}.</value>
+  </data>
+  <data name="Bad_CyclicComplex" xml:space="preserve">
+    <value>Сложный тип "{0}" является недопустимым, поскольку его базовый тип является циклическим.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_KeyPropertyMustBelongToEntity" xml:space="preserve">
+    <value>Свойство ключа "{0}" должно принадлежать сущности "{1}".</value>
+  </data>
+  <data name="EdmModel_Validator_Syntactic_EnumerableMustNotHaveNullElements" xml:space="preserve">
+    <value>Значение свойства перечисления "{0}.{1}" содержит элемент NULL. Свойства перечислений не должны содержать элементы NULL.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_RecordExpressionMissingProperty" xml:space="preserve">
+    <value>В выражении записи отсутствует конструктор свойства с именем "{0}".</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_DuplicateAnnotation" xml:space="preserve">
+    <value>У элемента с заметкой "{0}" имеется несколько заметок с термином "{1}" и квалификатором "{2}".</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_InvalidOperationMultipleEndsInAssociation" xml:space="preserve">
+    <value>Действие при удалении можно задавать только в одном элементе ассоциации.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_FunctionImportEntitySetExpressionKindIsInvalid" xml:space="preserve">
+    <value>В импорте функции "{0}" указывается выражение набора сущностей типа {1}, который не поддерживается в данном контексте. Выражения набора сущностей в импорте функции могут быть ссылкой на набор сущностей или путем, начинающимся в параметре импорта функции и промежуточных свойств навигации.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_FunctionImportWithUnsupportedReturnTypeAfterV1" xml:space="preserve">
+    <value>Недопустимый возвращаемый тип в импорте функции "{0}". У импорта функции не может отсутствовать возвращаемый тип, он также не может возвращать скалярный тип, сложный тип, тип сущности или их коллекцию.</value>
+  </data>
+  <data name="CsdlParser_NoReadersProvided" xml:space="preserve">
+    <value>Не удалось создать модель, поскольку не указаны модули чтения XML.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_InvalidPropertyInRelationshipConstraintPrimaryEnd" xml:space="preserve">
+    <value>Свойства основного конца в справочном ограничении ассоциации "{0}" не соответствуют ключу типа, на который ссылается роль "{1}".</value>
+  </data>
+  <data name="CsdlParser_InvalidAlias" xml:space="preserve">
+    <value>Псевдоним "{0}" не является допустимым простым именем.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_EntityKeyMustNotBeBinaryBeforeV2" xml:space="preserve">
+    <value>Недопустимое свойство "{0}" в типе сущности "{1}". Двоичные типы не допускаются в ключах сущностей в версиях ранее 2.0.</value>
+  </data>
+  <data name="Serializer_UnknownEdmVersion" xml:space="preserve">
+    <value>Неизвестная версия EDM.</value>
+  </data>
+  <data name="EdmxParser_EdmxDataServiceVersionInvalid" xml:space="preserve">
+    <value>Указанное значение версии службы данных недопустимо.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_NullCannotBeAssertedToBeANonNullableType" xml:space="preserve">
+    <value>Значение NULL не может иметь тип, не допускающий значения NULL.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_InvalidNavigationPropertyType" xml:space="preserve">
+    <value>Недопустимый тип свойства навигации "{0}". Тип цели перехода должен быть типом сущности или коллекцией типа сущности. Тип сущности цели перехода должен совпадать с объявляющим типом свойства участника.</value>
+  </data>
+  <data name="CsdlParser_InvalidEnumMemberPath" xml:space="preserve">
+    <value>"{0}" не является допустимым путем к элементу перечисления.</value>
+  </data>
+  <data name="ValueParser_InvalidDecimal" xml:space="preserve">
+    <value>Значение "{0}" не является допустимым десятичным значением.</value>
+  </data>
+  <data name="EdmModel_Validator_Syntactic_InterfaceKindValueMismatch" xml:space="preserve">
+    <value>Объект со значением "{0}" свойства "{1}.{2}" должен реализовать интерфейс "{3}".</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_NavigationPropertyEntityMustNotIndirectlyContainItself" xml:space="preserve">
+    <value>Свойство навигации "{0}" является недопустимым, поскольку оно косвенно содержит само себя.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_ValueTermsNotSupportedBeforeV3" xml:space="preserve">
+    <value>Термины значений не поддерживаются до версии 3.0.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_StringMaxLengthOutOfRange" xml:space="preserve">
+    <value>В аспекте max length задается максимальная длина экземпляра типа string. Если параметр unicode имеет значение "true", то параметр max length может иметь значение от 1 до 2^30, а если параметр unicode имеет значение "false", то от 1 до 2^31.</value>
+  </data>
+  <data name="CsdlParser_InvalidAssertTypeExpressionIncorrectNumberOfOperands" xml:space="preserve">
+    <value>Выражение AssertType должно содержать 1 операнд.</value>
+  </data>
+  <data name="Bad_UnresolvedType" xml:space="preserve">
+    <value>Не удалось найти тип "{0}".</value>
+  </data>
+  <data name="UnknownEnumVal_SchemaElementKind" xml:space="preserve">
+    <value>Недопустимый тип элемента схемы: "{0}"</value>
+  </data>
+  <data name="EdmToClr_CannotConvertEdmCollectionValueToClrType" xml:space="preserve">
+    <value>Преобразование значения коллекции модели EDM в тип CLR "{0}" не поддерживается. Значения коллекции модели EDM могут преобразовываться в System.Collections.Generic.IEnumerable&lt;T&gt;, System.Collections.Generic.IList&lt;T&gt; или в System.Collections.Generic.ICollection&lt;T&gt;.</value>
+  </data>
+  <data name="XmlParser_UnexpectedNodeType" xml:space="preserve">
+    <value>Непредвиденный тип узла XML: {0}.</value>
+  </data>
+  <data name="UnknownEnumVal_TypeKind" xml:space="preserve">
+    <value>Недопустимый класс типа: "{0}"</value>
+  </data>
+  <data name="EdmModel_Validator_Syntactic_EdmModel_NameIsTooLong" xml:space="preserve">
+    <value>Длина указанного имени не может превышать 480 символов: "{0}".</value>
+  </data>
+  <data name="CsdlParser_InvalidIsTypeExpressionIncorrectNumberOfOperands" xml:space="preserve">
+    <value>Выражение IsType должно содержать 1 операнд.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_EndNameAlreadyDefinedDuplicate" xml:space="preserve">
+    <value>Каждое имя и имя во множественном числе в связи должны быть уникальными. "{0}" уже определено.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_EnumMemberTypeMustMatchEnumUnderlyingType" xml:space="preserve">
+    <value>Тип значения элемента перечисления "{0}"должен соответствовать базовому типу родительского перечисления.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_InvalidPropertyTypeConcurrencyMode" xml:space="preserve">
+    <value>Свойство с фиксированным режимом параллелизма не может иметь тип "{0}". Свойство должно иметь тип-примитив.</value>
+  </data>
+  <data name="PathSegmentMustNotContainSlash" xml:space="preserve">
+    <value>Сегменты пути не должны содержать символ "/".</value>
+  </data>
+  <data name="Bad_UnresolvedEntityContainer" xml:space="preserve">
+    <value>Не удалось найти контейнер сущностей "{0}".</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_SchemaElementNameAlreadyDefined" xml:space="preserve">
+    <value>Элемент с именем "{0}" уже определен.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_MaxLengthOutOfRange" xml:space="preserve">
+    <value>Максимальная длина может иметь значение от 1 до 2^31.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_KeyMissingOnEntityType" xml:space="preserve">
+    <value>В типе сущности "{0}" не определен ключ. Определите ключ для этого типа сущности.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_StringConstantLengthOutOfRange" xml:space="preserve">
+    <value>Значение строковой константы имеет длину "{0}" символов, однако максимальная длина для ее типа равна "{1}".</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_ComposableFunctionImportMustHaveReturnType" xml:space="preserve">
+    <value>При импорте составной функции "{0}" должен указываться возвращаемый тип.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_OpenTypesSupportedForEntityTypesOnly" xml:space="preserve">
+    <value>Только типы сущностей могут быть открытыми типами.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_InvalidFunctionImportParameterMode" xml:space="preserve">
+    <value>Недопустимый режим параметра "{0}" в импорте функции "{1}".</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_NavigationPropertyWithRecursiveContainmentTargetMustBeOptional" xml:space="preserve">
+    <value>Недопустимое целевое количество элементов для свойства навигации "{0}". Если в свойстве навигации параметр "ContainsTarget" имеет значение true, а объявляющий тип сущности свойства совпадает с целевым типом сущности или наследует его, то свойство представляет рекурсивное включение и должно содержать дополнительную цель, представляемую коллекцией типов сущности или типом сущности, допускающим значение NULL.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_RowTypeMustNotHaveBaseType" xml:space="preserve">
+    <value>Типы строк не могут иметь базовый тип.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_EntitySetRecursiveNavigationPropertyMappingsMustPointBackToSourceEntitySet" xml:space="preserve">
+    <value>Поскольку свойство навигации "{0}" рекурсивно, сопоставление из набора сущностей "{1}" должно указывать само на себя.</value>
+  </data>
+  <data name="Bad_UnresolvedPrimitiveType" xml:space="preserve">
+    <value>Не удалось найти тип-примитив "{0}".</value>
+  </data>
+  <data name="Annotations_TypeMismatch" xml:space="preserve">
+    <value>Заметку типа "{0}" нельзя интерпретировать как "{1}".</value>
+  </data>
+  <data name="EdmModel_Validator_Syntactic_PropertyMustNotBeNull" xml:space="preserve">
+    <value>Свойство "{0}.{1}" не должно содержать значение NULL.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_InvalidMultiplicityOfDependentEndMustBeZeroOneOrOne" xml:space="preserve">
+    <value>Недопустимая кратность элементов зависимого конца "{0}". Так как зависимые свойства представляют ключ зависимого конца, количество элементов зависимого конца должно быть кратно "0..1" или "1".</value>
+  </data>
+  <data name="Bad_UnresolvedEnumMember" xml:space="preserve">
+    <value>Не удалось найти элемент перечисления "{0}".</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_InvalidMemberNameMatchesTypeName" xml:space="preserve">
+    <value>Имя элемента "{0}" не может использоваться в типе с тем же именем. Имена элементов не могут совпадать с содержащим их типом.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_EnumsNotSupportedBeforeV3" xml:space="preserve">
+    <value>Перечисления не поддерживаются в версиях ранее 3.0.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_InvalidComplexTypeAbstract" xml:space="preserve">
+    <value>Сложный тип "{0}" помечен как абстрактный. Абстрактные сложные типы поддерживаются только в моделях EDM версии 1.1.</value>
+  </data>
+  <data name="EdmModel_Validator_Syntactic_EdmModel_NamespaceNameIsNotAllowed" xml:space="preserve">
+    <value>Указано недопустимое имя пространства имен: "{0}".</value>
+  </data>
+  <data name="CsdlSemantics_ReferentialConstraintMismatch" xml:space="preserve">
+    <value>Возникло несовпадение основного и зависимого концов справочного ограничения.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_BaseTypeMustHaveSameTypeKind" xml:space="preserve">
+    <value>Базовый тип структурированного типа должен совпадать с производным типом.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_BinaryConstantLengthOutOfRange" xml:space="preserve">
+    <value>Значение двоичной константы имеет длину "{0}" символов, однако максимальная длина для ее типа равна "{1}".</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_IntegerConstantValueOutOfRange" xml:space="preserve">
+    <value>Значение целочисленной константы выходит за границы диапазона утверждаемого типа.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_PropertyNameAlreadyDefined" xml:space="preserve">
+    <value>Имя каждого свойства в типе должно быть уникальным. Имя свойства "{0}" уже определено.</value>
+  </data>
+  <data name="Bad_UnresolvedLabeledElement" xml:space="preserve">
+    <value>Не удалось найти элемент с меткой "{0}".</value>
+  </data>
+  <data name="ValueParser_InvalidDateTimeOffset" xml:space="preserve">
+    <value>Значение "{0}" не является допустимым смещением даты и времени.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_TypeMustNotHaveKindOfNone" xml:space="preserve">
+    <value>У типа без других ошибок не должен быть тип "none".</value>
+  </data>
+  <data name="EdmModel_Validator_Syntactic_InterfaceKindValueUnexpected" xml:space="preserve">
+    <value>Значение "{0}" свойства "{1}.{2}" семантически недопустимо. Семантически допустимая модель не должна содержать элементы типа "{0}".</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_FunctionImportReturnEntitiesButDoesNotSpecifyEntitySet" xml:space="preserve">
+    <value>Импорт функции "{0}" возвращает сущности, но не задает набор сущностей.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_BadNavigationPropertyRolesCannotBeTheSame" xml:space="preserve">
+    <value>Недопустимое свойство навигации "{0}". Исходная роль совпадает с конечной.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_FunctionImportSideEffectingNotSupportedBeforeV3" xml:space="preserve">
+    <value>Параметр "SideEffecting" для импорта функции не поддерживается в версиях ранее 3.0.</value>
+  </data>
+  <data name="ValueParser_InvalidBinary" xml:space="preserve">
+    <value>Значение "{0}" не является допустимым двоичным значением. Значение должно быть шестнадцатеричной строкой без символов "0x" в начале строки.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_NavigationPropertyWithNonRecursiveContainmentSourceMustBeFromOne" xml:space="preserve">
+    <value>Недопустимое исходное количество элементов для свойства навигации "{0}". Если в свойстве навигации параметр "ContainsTarget" имеет значение true, а объявляющий тип сущности свойства не совпадает с целевым типом сущности, то свойство представляет нерекурсивное включение и количество элементов в источнике навигации должно быть равно единице.</value>
+  </data>
+  <data name="Edm_Evaluator_FailedTypeAssertion" xml:space="preserve">
+    <value>Значение не соответствует типу "{0}".</value>
+  </data>
+  <data name="Bad_CyclicEntityContainer" xml:space="preserve">
+    <value>Контейнер сущностей "{0}" является недопустимым, поскольку его расширенная иерархия является циклической.</value>
+  </data>
+  <data name="Bad_AmbiguousFunction" xml:space="preserve">
+    <value>Не удалось разрешить функцию "{0}", так как для этого приложения может использоваться более одной функции.</value>
+  </data>
+  <data name="EdmModel_Validator_Syntactic_TypeRefInterfaceTypeKindValueMismatch" xml:space="preserve">
+    <value>У объекта, реализующего интерфейс "{0}", определение типа имеет тип "{1}". Интерфейс ссылки на тип должен совпадать с типом определения.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_ExpressionPrimitiveKindCannotPromoteToAssertedType" xml:space="preserve">
+    <value>Невозможно повысить уровень примитивного типа "{0}" до указанного примитивного типа "{1}".</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_TypeAnnotationMissingRequiredProperty" xml:space="preserve">
+    <value>В заметке типа отсутствует привязка для свойства "{0}".</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_SameRoleReferredInReferentialConstraint" xml:space="preserve">
+    <value>В связи "{0}" основная и зависимая роли справочного ограничения ссылаются на одну и ту же роль в типе связи.</value>
+  </data>
+  <data name="CsdlSemantics_ImpossibleAnnotationsTarget" xml:space="preserve">
+    <value>Не удалось разрешить назначение заметки "{0}", поскольку невозможна ссылка на элемент, поддерживающий заметки.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_ExpressionNotValidForTheAssertedType" xml:space="preserve">
+    <value>Тип выражения несовместим с объявляемым типом.</value>
+  </data>
+  <data name="UnknownEnumVal_ContainerElementKind" xml:space="preserve">
+    <value>Недопустимый тип элемента контейнера: "{0}"</value>
+  </data>
+  <data name="XmlParser_EmptySchemaTextReader" xml:space="preserve">
+    <value>Исходный объект XmlReader не содержит определение схемы или начал чтение с конца файла.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_FunctionsNotSupportedBeforeV2" xml:space="preserve">
+    <value>Функции не поддерживаются в версиях ранее 2.0.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_PrecisionOutOfRange" xml:space="preserve">
+    <value>Точность не может быть отрицательной.</value>
+  </data>
+  <data name="UnknownEnumVal_PropertyKind" xml:space="preserve">
+    <value>Недопустимый тип свойства: "{0}"</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_FunctionImportEntityTypeDoesNotMatchEntitySet2" xml:space="preserve">
+    <value>Импорт функции "{0}" возвращает сущности типа "{1}", которые не могут возвращаться путем к набору сущностей, указанным для импорта функции.</value>
+  </data>
+  <data name="CsdlParser_InvalidParameterMode" xml:space="preserve">
+    <value>Недопустимый режим параметра "{0}". Режим параметра должен иметь значение "In", "Out" или "InOut".</value>
+  </data>
+  <data name="Bad_FunctionParametersDontMatch" xml:space="preserve">
+    <value>Не удалось разрешить функцию "{0}", так как ни одна из функций с этим именем не принимает правильного набора параметров.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_PropertyMustNotHaveKindOfNone" xml:space="preserve">
+    <value>Свойство без других ошибок не должно иметь тип "none". Тип свойства "{0}" - "none".</value>
+  </data>
+  <data name="Edm_Evaluator_UnboundPath" xml:space="preserve">
+    <value>У сегмента пути "{0}" нет привязки в среде выполнения.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_EntitySetNavigationMappingMustBeBidirectional" xml:space="preserve">
+    <value>Сопоставление набора сущностей "{0}" и свойства навигации "{1}" недопустимо, так как у сопоставления свойства навигации должно быть сопоставление с партнером свойства навигации, указывающим обратно на исходный набор сущностей. </value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_InvalidPropertyType" xml:space="preserve">
+    <value>Свойство не может иметь тип "{0}". Тип свойства должен быть сложным, типом-примитивом или типом перечисления либо коллекцией сложных типов, типов-примитивов или типов перечисления.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_SchemaElementMustNotHaveKindOfNone" xml:space="preserve">
+    <value>Элемент схемы без других ошибок не должен иметь тип "none". Тип элемента схемы "{0}" - "none".</value>
+  </data>
+  <data name="XmlParser_UnexpectedRootElementNoNamespace" xml:space="preserve">
+    <value>Корневой элемент не имеет пространства имен. Корневой элемент должен принадлежать одному из следующих пространств имен: "{0}".</value>
+  </data>
+  <data name="XmlParser_UnexpectedRootElementWrongNamespace" xml:space="preserve">
+    <value>Недопустимое пространство имен "{0}". Корневой элемент должен принадлежать одному из следующих пространств имен: "{1}".</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_IsUnboundedCannotBeTrueWhileMaxLengthIsNotNull" xml:space="preserve">
+    <value>Ссылка на строку недопустима, поскольку, если параметр "IsUnbounded" равен true, параметр "MaxLength" должен иметь значение NULL.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_BadNavigationPropertyUndefinedRole" xml:space="preserve">
+    <value>Недопустимое свойство навигации "{0}". Роль "{1}" не определена в связи "{2}".</value>
+  </data>
+  <data name="CsdlParser_ReferentialConstraintRequiresOnePrincipal" xml:space="preserve">
+    <value>Для справочных ограничений необходима одна основная роль. Для этого справочного ограничения задано несколько основных ролей.</value>
+  </data>
+  <data name="CsdlParser_InvalidAssociationIncorrectNumberOfEnds" xml:space="preserve">
+    <value>Недопустимая ассоциация "{0}". Ассоциации должны содержать ровно два конечных элемента.</value>
+  </data>
+  <data name="Bad_UnresolvedEntityType" xml:space="preserve">
+    <value>Не удалось найти тип сущности "{0}".</value>
+  </data>
+  <data name="ValueParser_InvalidMaxLength" xml:space="preserve">
+    <value>Значение "{0}" недопустимо для типа integer. Оно должно быть допустимым 32-разрядным целым числом или равно "Max".</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_EntitySetTypeHasNoKeys" xml:space="preserve">
+    <value>Набор сущностей "{0}" основан на типе "{1}", в котором не определены ключи.</value>
+  </data>
+  <data name="EdmToClr_TryCreateObjectInstanceReturnedWrongObject" xml:space="preserve">
+    <value>Тип "{0}" объекта, возвращаемого делегатом TryCreateObjectInstance, не может назначаться ожидаемому типу "{1}".</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_DuplicateEntityContainerMemberName" xml:space="preserve">
+    <value>Имя каждого элемента в классе EntityContainer должно быть уникальным. Элемент с именем "{0}" уже определен.</value>
+  </data>
+  <data name="Bad_UnresolvedParameter" xml:space="preserve">
+    <value>Не удалось найти параметр "{0}".</value>
+  </data>
+  <data name="Serializer_UnknownEdmxVersion" xml:space="preserve">
+    <value>Неизвестная версия EDMX.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_NoEntitySetsFoundForType" xml:space="preserve">
+    <value>Набор ассоциаций "{0}" не может предполагать использование набора сущностей для роли "{2}", так как для типа роли "{1}" отсутствуют наборы сущностей.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_NavigationPropertyContainsTargetNotSupportedBeforeV3" xml:space="preserve">
+    <value>Параметр "ContainsTarget" свойств навигации не поддерживается в версиях ранее 3.0.</value>
+  </data>
+  <data name="Bad_UnresolvedFunction" xml:space="preserve">
+    <value>Не удалось найти функцию "{0}".</value>
+  </data>
+  <data name="ValueHasAlreadyBeenSet" xml:space="preserve">
+    <value>Значение уже выбрано.</value>
+  </data>
+  <data name="EdmModel_CannotUseElementWithTypeNone" xml:space="preserve">
+    <value>Элемент типа "None" нельзя использовать в модели.</value>
+  </data>
+  <data name="UnknownEnumVal_FunctionParameterMode" xml:space="preserve">
+    <value>Недопустимый режим параметра функции: "{0}"</value>
+  </data>
+  <data name="EdmToClr_CannotConvertEdmValueToClrType" xml:space="preserve">
+    <value>Преобразование значения модели EDM "{0}" в тип CLR "{1}" не поддерживается.</value>
+  </data>
+  <data name="CsdlParser_InvalidLabeledElementExpressionIncorrectNumberOfOperands" xml:space="preserve">
+    <value>Выражение LabeledElement должно содержать 1 операнд.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_ExpressionPrimitiveKindNotValidForAssertedType" xml:space="preserve">
+    <value>Примитивное выражение несовместимо с объявляемым типом.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_InvalidMultiplicityOfPrincipalEndDependentPropertiesAllNullable" xml:space="preserve">
+    <value>Недопустимая кратность элементов основного конца "{0}". Поскольку все свойства конца "{1}" допускают значения NULL, количество элементов основного конца должно быть кратно "0..1".</value>
+  </data>
+  <data name="CsdlParser_AssociationHasAtMostOneConstraint" xml:space="preserve">
+    <value>Ассоциации могут иметь не больше одного ограничения. Для этой ассоциации указано несколько ограничений.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_EnumMemberNameAlreadyDefined" xml:space="preserve">
+    <value>Имя каждого из элементов типа перечисления должно быть уникальным. Имя элемента Enum "{0}" уже определено.</value>
+  </data>
+  <data name="Edm_Evaluator_UnrecognizedExpressionKind" xml:space="preserve">
+    <value>Не удалось вычислить выражение с типом "{0}".</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_ElementDirectValueAnnotationFullNameMustBeUnique" xml:space="preserve">
+    <value>У элемента уже есть заметка с прямым значением с пространством имен "{0}" и именем "{1}".</value>
+  </data>
+  <data name="CsdlParser_InvalidDeleteAction" xml:space="preserve">
+    <value>Недопустимое действие удаления "{0}". Действие должно иметь значение "None", "Cascade" или "Restrict".</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_InvalidKeyNullablePart" xml:space="preserve">
+    <value>Недопустимая часть ключа "{0}" для типа "{1}". Ни одна часть ключа не может допустить значение null.</value>
+  </data>
+  <data name="EdmModel_Validator_Syntactic_MissingNamespaceName" xml:space="preserve">
+    <value>Имя пространства имен отсутствует или является недопустимым.</value>
+  </data>
+  <data name="TypeSemantics_CouldNotConvertTypeReference" xml:space="preserve">
+    <value>Не удалось преобразовать тип "{0}" в тип "{1}".</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_ComposableFunctionImportCannotBeSideEffecting" xml:space="preserve">
+    <value>Импорт функции "{0}" не может быть составным и при этом иметь побочное действие.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_InaccessibleTarget" xml:space="preserve">
+    <value>Целевой объект "{0}" не найден в проверяемой модели.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_FunctionImportWithUnsupportedReturnTypeV1" xml:space="preserve">
+    <value>Недопустимый возвращаемый тип в импорте функции "{0}". В версии 1.0 у импорта функции не может отсутствовать возвращаемый тип, он также не может возвращать коллекцию скалярных значений или коллекцию сущностей.</value>
+  </data>
+  <data name="CsdlParser_InvalidQualifiedName" xml:space="preserve">
+    <value>Недопустимое полное имя "{0}". Полное имя должно содержать допустимое пространство имен или псевдоним и допустимое имя.</value>
+  </data>
+  <data name="XmlParser_UnexpectedElement" xml:space="preserve">
+    <value>Непредвиденный элемент схемы "{0}" в заданном контексте.</value>
+  </data>
+  <data name="Serializer_ReferencedTypeMustHaveValidName" xml:space="preserve">
+    <value>Тип, на который указывает ссылка, невозможно сериализовать с недопустимым именем. Имя "{0}" недопустимо.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_DuplicateEndName" xml:space="preserve">
+    <value>Элемент с именем "{0}" уже определен.</value>
+  </data>
+  <data name="CsdlParser_MissingTypeAttributeOrElement" xml:space="preserve">
+    <value>Отсутствует XML-атрибут или вложенный элемент, представляющий тип модели EDM.</value>
+  </data>
+  <data name="UnknownEnumVal_PrimitiveKind" xml:space="preserve">
+    <value>Недопустимый класс типа-примитива: "{0}"</value>
+  </data>
+  <data name="CsdlSemantics_DuplicateAlias" xml:space="preserve">
+    <value>В схему "{0}" псевдоним "{1}" входит более одного раза.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_SystemNamespaceEncountered" xml:space="preserve">
+    <value>Пространство имен "{0}" является системным и не может использоваться несистемными типами. Выберите другое пространство имен.</value>
+  </data>
+  <data name="ValueParser_InvalidBoolean" xml:space="preserve">
+    <value>Значение "{0}" недопустимо для типа boolean. Оно должно быть равно "true" или "false".</value>
+  </data>
+  <data name="Bad_CyclicEntity" xml:space="preserve">
+    <value>Сущность "{0}" является недопустимой, поскольку ее базовый тип является циклическим.</value>
+  </data>
+  <data name="CsdlParser_NullXmlReader" xml:space="preserve">
+    <value>Не удалось создать модель, поскольку один из модулей чтения XML имеет значение NULL.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_FunctionImportBindableNotSupportedBeforeV3" xml:space="preserve">
+    <value>Параметр "Bindable" для импорта функции не поддерживается в версиях ранее 3.0.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_RecordExpressionHasExtraProperties" xml:space="preserve">
+    <value>Тип выражения записи не открыт и не содержит свойства под именем "{0}".</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_NavigationPropertyPrincipalEndMultiplicityUpperBoundMustBeOne" xml:space="preserve">
+    <value>Недопустимая кратность элементов в основном свойстве навигации "{0}". Допустимые значения кратности элементов для основного конца: "0..1" и "1".</value>
+  </data>
+  <data name="ValueParser_InvalidInteger" xml:space="preserve">
+    <value>Значение "{0}" недопустимо для типа integer. Оно должно быть допустимым 32-разрядным целым числом.</value>
+  </data>
+  <data name="EdmModel_Validator_Syntactic_EdmModel_NamespaceNameIsTooLong" xml:space="preserve">
+    <value>Длина указанного имени не может превышать 480 символов: "{0}".</value>
+  </data>
+  <data name="CsdlParser_InvalidIfExpressionIncorrectNumberOfOperands" xml:space="preserve">
+    <value>Выражение If должно содержать 3 операнда, первый из которых представляет логическое условие, второй вычисляется, если первый имеет значение true, а третий вычисляется, если первый имеет значение false.</value>
+  </data>
+  <data name="ValueParser_InvalidFloatingPoint" xml:space="preserve">
+    <value>Значение "{0}" не является допустимым значением с плавающей запятой. </value>
+  </data>
+  <data name="XmlParser_EmptyFile" xml:space="preserve">
+    <value>{0} не содержит определение схемы, либо указанный модуль XmlReader начал чтение с конца файла.</value>
+  </data>
+  <data name="Edm_Evaluator_NoValueAnnotationOnType" xml:space="preserve">
+    <value>Тип "{0}" должен иметь заметку с одним значением с термином "{1}".</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_RecordExpressionNotValidForNonStructuredType" xml:space="preserve">
+    <value>Выражение записи несовместимо с неструктурированным типом.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_NullableComplexTypeProperty" xml:space="preserve">
+    <value>Свойство "{0}" имеет сложный тип и допускает значение NULL. Свойства сложного типа, допускающие значение NULL, не поддерживаются в модели EDM версий 1.0 и 2.0.</value>
+  </data>
+  <data name="CsdlParser_InvalidEntitySetPath" xml:space="preserve">
+    <value>"{0}" не является допустимым путем к набору сущностей.</value>
+  </data>
+  <data name="Constructable_EntityTypeOrCollectionOfEntityTypeExpected" xml:space="preserve">
+    <value>Ожидается тип сущности или коллекция типа сущности.</value>
+  </data>
+  <data name="Bad_UnresolvedProperty" xml:space="preserve">
+    <value>Не удалось найти свойство "{0}".</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_DependentPropertiesMustBelongToDependentEntity" xml:space="preserve">
+    <value>Зависимое свойство "{0}" должно принадлежать зависимой сущности "{1}".</value>
+  </data>
+  <data name="EdmToClr_StructuredPropertyDuplicateValue" xml:space="preserve">
+    <value>Структурированное значение модели EDM содержит несколько значений для свойства "{0}". Преобразование структурированного значения модели EDM с повторяющимися значениями свойств не поддерживается.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_DeclaringTypeMustBeCorrect" xml:space="preserve">
+    <value>Свойство "{0}" может принадлежать только своему объявляющему типу. </value>
+  </data>
+  <data name="CsdlParser_ReferentialConstraintRequiresOneDependent" xml:space="preserve">
+    <value>Для справочных ограничений необходима одна зависимая роль. Для этого справочного ограничения задано несколько зависимых ролей.</value>
+  </data>
+  <data name="Bad_UnresolvedEntitySet" xml:space="preserve">
+    <value>Не удалось найти набор сущностей "{0}".</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_DuplicateDependentProperty" xml:space="preserve">
+    <value>Повторяющееся зависимое свойство "{0}" свойства навигации "{1}".</value>
+  </data>
+  <data name="UnknownEnumVal_EdmxTarget" xml:space="preserve">
+    <value>Недопустимое назначение EDMX: "{0}"</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_IncorrectNumberOfArguments" xml:space="preserve">
+    <value>Приложение функции предоставляет "{0}" аргументов, однако число ожидаемых функцией "{1}" аргументов равно "{2}".</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_BadNavigationPropertyCouldNotDetermineType" xml:space="preserve">
+    <value>Не удалось определить тип свойства навигации в роли "{0}".</value>
+  </data>
+  <data name="Bad_AmbiguousElementBinding" xml:space="preserve">
+    <value>Имя "{0}" неоднозначно.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_EndWithManyMultiplicityCannotHaveOperationsSpecified" xml:space="preserve">
+    <value>В свойстве навигации "{0}" нельзя указывать "OnDelete", поскольку количество элементов равно "*".</value>
+  </data>
+  <data name="EdmParseException_ErrorsEncounteredInEdmx" xml:space="preserve">
+    <value>При синтаксическом анализе документа EDMX обнаружены следующие ошибки. 
+{0}</value>
+  </data>
+  <data name="EdmModel_Validator_Syntactic_MissingName" xml:space="preserve">
+    <value>Отсутствующее или недопустимое имя.</value>
+  </data>
+  <data name="Bad_UncomputableAssociationEnd" xml:space="preserve">
+    <value>Не удалось вычислить элемент ассоциации "{0}".</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_FunctionImportEntityTypeDoesNotMatchEntitySet" xml:space="preserve">
+    <value>Импорт функции "{0}" возвращает сущности типа "{1}", которые не могут существовать в наборе сущностей "{2}", указанном для импорта функции.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_DuplicatePropertyNameSpecifiedInEntityKey" xml:space="preserve">
+    <value>В типе сущности "{0}" указан недопустимый ключ. Ключевой элемент несколько раз ссылается на свойство "{1}".</value>
+  </data>
+  <data name="ValueParser_InvalidGuid" xml:space="preserve">
+    <value>Значение "{0}" не является допустимым идентификатором GUID. </value>
+  </data>
+  <data name="ValueParser_InvalidLong" xml:space="preserve">
+    <value>Значение "{0}" недопустимо для типа integer. Оно должно быть допустимым 64-разрядным целым числом.</value>
+  </data>
+  <data name="ValueParser_InvalidSrid" xml:space="preserve">
+    <value>Значение "{0}" является недопустимым идентификатором SRID. Оно должно быть допустимым 32-разрядным целым числом или равно "Variable".</value>
+  </data>
+  <data name="ValueParser_InvalidTime" xml:space="preserve">
+    <value>Значение "{0}" не является допустимым значением времени.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_EnumMustHaveIntegralUnderlyingType" xml:space="preserve">
+    <value>Базовый тип для "{0}" недопустим. Базовым типом для типа перечисления должен быть интегральный тип. </value>
+  </data>
+  <data name="UnknownEnumVal_Multiplicity" xml:space="preserve">
+    <value>Недопустимое количество элементов: "{0}"</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_PrimitiveConstantExpressionNotValidForNonPrimitiveType" xml:space="preserve">
+    <value>Примитивное выражение несовместимо с непримитивным типом.</value>
+  </data>
+  <data name="Serializer_NonInlineFunctionImportReturnType" xml:space="preserve">
+    <value>Импорт функции "{0}" невозможно сериализовать, так как его возвращаемый тип невозможно представить во встроенном виде.</value>
+  </data>
+  <data name="EdmEntityContainer_CannotUseElementWithTypeNone" xml:space="preserve">
+    <value>Элемент типа "None" нельзя использовать в контейнере сущностей.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_InvalidPropertyInRelationshipConstraintDependentEnd" xml:space="preserve">
+    <value>В типе, на который ссылается роль "{1}", не определено свойство с именем "{0}".</value>
+  </data>
+  <data name="Constructable_VocabularyAnnotationMustHaveTarget" xml:space="preserve">
+    <value>Назначение заметки не может иметь значение NULL.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_SpatialTypeReferencesNotSupportedBeforeV3" xml:space="preserve">
+    <value>Ссылки на пространственные типы модели EDM не поддерживаются до версии 3.0.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_InvalidKeyKeyDefinedInBaseClass" xml:space="preserve">
+    <value>Недопустимое использование ключа. "{0}" не может определять ключи, поскольку их определяет один из его базовых классов "{1}".</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_StreamTypeReferencesNotSupportedBeforeV3" xml:space="preserve">
+    <value>Ссылки на потоковый тип модели EDM не поддерживаются до версии 3.0.</value>
+  </data>
+  <data name="CsdlParser_InvalidAssociationSetIncorrectNumberOfEnds" xml:space="preserve">
+    <value>Недопустимый набор ассоциаций "{0}". Наборы ассоциаций должны содержать не более двух конечных элементов.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_PrimitiveTypeMustNotHaveKindOfNone" xml:space="preserve">
+    <value>Примитивный тип без других ошибок не должен иметь тип "none". Тип примитивного типа "{0}" - "none".</value>
+  </data>
+  <data name="Edm_Evaluator_UnboundFunction" xml:space="preserve">
+    <value>Функция "{0}" отсутствует в среде выполнения.</value>
+  </data>
+  <data name="CsdlParser_InvalidConcurrencyMode" xml:space="preserve">
+    <value>Недопустимый режим параллелизма "{0}". Режим параллелизма должен иметь значение "None" или "Fixed".</value>
+  </data>
+  <data name="EdmModel_Validator_Syntactic_NavigationPartnerInvalid" xml:space="preserve">
+    <value>Элемент свойства навигации "{0}" не должен быть тем же свойством и должен указывать обратно на свойство навигации.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_InvalidComplexTypePolymorphic" xml:space="preserve">
+    <value>В сложном типе "{0}" задан базовый тип. Наследование сложных типов поддерживается только в моделях EDM версии 1.1.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_ScaleOutOfRange" xml:space="preserve">
+    <value>Значение масштаба может изменяться от 0 до указанного значения точности.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_TypeMismatchRelationshipConstraint" xml:space="preserve">
+    <value>Типы всех свойств в зависимой роли справочного ограничения должны совпадать с типами соответствующих свойств в основной роли. Тип свойства "{0}" сущности "{1}" не совпадает с типом свойства "{2}" сущности "{3}" справочного ограничения "{4}".</value>
+  </data>
+  <data name="ValueParser_InvalidDateTime" xml:space="preserve">
+    <value>Значение "{0}" не является допустимым значением даты и времени.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_AmbiguousType" xml:space="preserve">
+    <value>Именованный тип "{0}" неоднозначен в проверяемой модели.</value>
+  </data>
+  <data name="XmlParser_UnexpectedAttribute" xml:space="preserve">
+    <value>Непредвиденный атрибут "{0}" в заданном контексте.</value>
+  </data>
+  <data name="EdmModel_Validator_Syntactic_InterfaceCriticalCycleInTypeHierarchy" xml:space="preserve">
+    <value>Цепочка базовых типов типа "{0}" является циклической.</value>
+  </data>
+  <data name="RuleSet_DuplicateRulesExistInRuleSet" xml:space="preserve">
+    <value>Одно правило не может дважды входить в один набор правил.</value>
+  </data>
+  <data name="CsdlParser_InvalidTypeName" xml:space="preserve">
+    <value>Недопустимое имя типа "{0}". Имя типа должно быть именем типа-примитива, полным именем либо встроенным типом "Collection" или "Ref".</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_PathIsNotValidForTheGivenContext" xml:space="preserve">
+    <value>Путь не может быть разрешен в заданном контексте. Не удалось разрешить сегмент "{0}".</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_InvalidElementAnnotationValueInvalidXml" xml:space="preserve">
+    <value>Значение заметки, отмеченное для сериализации как XML-элемент, должно иметь значение XML-документа правильного формата.</value>
+  </data>
+  <data name="XmlParser_UnusedElement" xml:space="preserve">
+    <value>Неиспользуемый элемент схемы: "{0}".</value>
+  </data>
+  <data name="CsdlSemantics_EnumMemberValueOutOfRange" xml:space="preserve">
+    <value>Значение элемента перечисления выходит за пределы диапазона его типа данных "http://www.w3.org/2001/XMLSchema:long".</value>
+  </data>
+  <data name="Serializer_OutOfLineAnnotationTargetMustHaveValidName" xml:space="preserve">
+    <value>Не удалось сериализовать заметку с недопустимым целевым именем. Имя "{0}" недопустимо.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_TermMustNotHaveKindOfNone" xml:space="preserve">
+    <value>Термин без других ошибок не должен иметь тип "none". Тип термина "{0}" - "none".</value>
+  </data>
+  <data name="Annotations_DocumentationPun" xml:space="preserve">
+    <value>В заметках пространства имен "Documentation" должен быть реализован интерфейс "IEdmDocumentation", но он не реализован в "{0}".</value>
+  </data>
+  <data name="EdmxParser_EdmxVersionMismatch" xml:space="preserve">
+    <value>Версия EDMX, указанная в атрибуте "Version", не совпадает с версией, соответствующей пространству имен элемента "Edmx".</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_MismatchNumberOfPropertiesinRelationshipConstraint" xml:space="preserve">
+    <value>Количества свойств в зависимой и основной роли в ограничении связи должны точно совпадать.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_CannotAssertNullableTypeAsNonNullableType" xml:space="preserve">
+    <value>Невозможно предположить допускающий значение NULL тип "{0}" в качестве типа, не допускающего значений NULL.</value>
+  </data>
+  <data name="UnknownEnumVal_TermKind" xml:space="preserve">
+    <value>Недопустимый тип термина: "{0}"</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_DuplicateEntityContainerName" xml:space="preserve">
+    <value>Имя каждого из контейнеров сущностей в функции должно быть уникальным. Имя "{0}" уже определено.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_ParameterNameAlreadyDefinedDuplicate" xml:space="preserve">
+    <value>Имя каждого параметра в функции должно быть уникальным. Имя параметра "{0}" уже определено.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_VocabularyAnnotationsNotSupportedBeforeV3" xml:space="preserve">
+    <value>Словарные заметки не поддерживаются до версии 3.0.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_FunctionImportParameterIncorrectType" xml:space="preserve">
+    <value>Параметр "{1}" имеет недопустимый тип "{0}". Параметр импорта функции должен иметь один из следующих типов: простой тип или сложный тип.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_NavigationPropertyWithRecursiveContainmentSourceMustBeFromZeroOrOne" xml:space="preserve">
+    <value>Недопустимое исходное количество элементов для свойства навигации "{0}". Если в свойстве навигации параметр "ContainsTarget" имеет значение true, а объявляющий тип сущности свойства совпадает с целевым типом сущности или наследует его, то свойство представляет рекурсивное включение и количество элементов в источнике навигации должно быть равно нулю или единице.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_DuplicateNavigationPropertyMapping" xml:space="preserve">
+    <value>У набора сущностей "{0}" должно быть только одно сопоставление для свойства "{1}".</value>
+  </data>
+  <data name="UnknownEnumVal_ConcurrencyMode" xml:space="preserve">
+    <value>Недопустимый тип параллелизма: "{0}"</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_InvalidElementAnnotationMismatchedTerm" xml:space="preserve">
+    <value>Заявленное название и пространство имен заметки должны совпадать с именем и пространством имен его XML-значения.</value>
+  </data>
+  <data name="CsdlParser_InvalidEndRoleInRelationshipConstraint" xml:space="preserve">
+    <value>В связи "{1}" не определена роль с именем "{0}".</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_InvalidMultiplicityOfPrincipalEndDependentPropertiesAllNonnullable" xml:space="preserve">
+    <value>Недопустимая кратность элементов основного конца "{0}". Поскольку все свойства конца "{1}" не допускают значения NULL, количество элементов основного конца должно быть кратно "1".</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_InvalidElementAnnotationNotIEdmStringValue" xml:space="preserve">
+    <value>Значение заметки, отмеченное для сериализации как XML-элемент, должно иметь значение IEdmStringValue.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_RowTypeMustHaveProperties" xml:space="preserve">
+    <value>Недопустимый тип строки. Строка должна содержать хотя бы одно свойство.</value>
+  </data>
+  <data name="EdmxParser_EdmxMaxDataServiceVersionInvalid" xml:space="preserve">
+    <value>Указанное значение максимальной версии службы данных недопустимо.</value>
+  </data>
+  <data name="Edm_Evaluator_NoValueAnnotationOnElement" xml:space="preserve">
+    <value>У элемента должна быть заметка с одиночным значением с термином "{0}".</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_EntityContainerElementMustNotHaveKindOfNone" xml:space="preserve">
+    <value>Элемент контейнера сущностей без других ошибок не должен иметь тип "none". Тип элемента контейнера сущностей "{0}" - "none".</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_EntitySetCanOnlyBeContainedByASingleNavigationProperty" xml:space="preserve">
+    <value>Набор сущностей "{0}" недопустим, так как он содержится более чем в одном свойстве навигации.</value>
+  </data>
+  <data name="XmlParser_MissingAttribute" xml:space="preserve">
+    <value>В элементе "{1}" отсутствует обязательный атрибут схемы "{0}".</value>
+  </data>
+  <data name="CsdlParser_InvalidMultiplicity" xml:space="preserve">
+    <value>Недопустимое количество элементов "{0}". Количество элементов должно иметь значение "*", "0..1" или "1".</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_FunctionImportSpecifiesEntitySetButNotEntityType" xml:space="preserve">
+    <value>Импорт функции "{0}" задает набор сущностей, но не возвращает сущности.</value>
+  </data>
+  <data name="EdmToClr_StructuredValueMappedToNonClass" xml:space="preserve">
+    <value>Преобразование структурированного значения модели EDM поддерживается только в класс CLR.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_ComplexTypeMustHaveProperties" xml:space="preserve">
+    <value>Сложный тип "{0}" недопустим. Сложный тип должен содержать хотя бы одно свойство.</value>
+  </data>
+  <data name="UnknownEnumVal_ExpressionKind" xml:space="preserve">
+    <value>Недопустимый тип выражения: "{0}"</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_InvalidToPropertyInRelationshipConstraint" xml:space="preserve">
+    <value>Свойства, на которые ссылается зависимая роль "{0}", должны быть подмножеством ключа типа сущности "{1}".</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_InvalidMultiplicityOfDependentEndMustBeMany" xml:space="preserve">
+    <value>Недопустимая кратность элементов зависимого конца "{0}". Так как зависимые свойства не представляют ключ зависимого конца, количество элементов зависимого конца должно быть кратно "*".</value>
+  </data>
+  <data name="Serializer_NoSchemasProduced" xml:space="preserve">
+    <value>Код на языке CSDL не создан, так как не удалось создать ни одного элемента схемы. Вероятно, это вызвано тем, что модель пуста.</value>
+  </data>
+  <data name="XmlParser_TextNotAllowed" xml:space="preserve">
+    <value>Текущий элемент схемы не поддерживает текст "{0}".</value>
+  </data>
+  <data name="Bad_UnresolvedEnumType" xml:space="preserve">
+    <value>Тип перечисления "{0}" не найден.</value>
+  </data>
+  <data name="EdmxParser_BodyElement" xml:space="preserve">
+    <value>В синтаксическом анализе EDMX обнаружен непредвиденный элемент {0}. EDMX должен содержать не более одного элемента "Runtime" или "DataServices".</value>
+  </data>
+  <data name="EdmModel_Validator_Syntactic_EnumPropertyValueOutOfRange" xml:space="preserve">
+    <value>Свойство "{0}.{1}" типа "{2}" имеет значение "{3}", которое не является допустимым элементом перечисления.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_EntityKeyMustBeScalar" xml:space="preserve">
+    <value>Недопустимое свойство "{0}" в типе сущности "{1}". Все свойства, являющиеся частью ключа сущности, должны иметь тип-примитив.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_OnlyInputParametersAllowedInFunctions" xml:space="preserve">
+    <value>Недопустимый режим параметра "{0}" в функции "{1}". В функциях допускаются только входные параметры.</value>
+  </data>
+  <data name="Constructable_TargetMustBeStock" xml:space="preserve">
+    <value>Целью навигации по типу сущности должен быть "{0}".</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_BindableFunctionImportMustHaveParameters" xml:space="preserve">
+    <value>При импорте привязываемой функции "{0}" необходимо указать хотя бы один параметр.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_FunctionImportEntitySetExpressionIsInvalid" xml:space="preserve">
+    <value>В импорте функции "{0}" указывается выражение набора сущностей, являющееся недопустимым. Выражения набора сущностей в импорте функции могут быть ссылкой на набор сущностей или путем, начинающимся в параметре импорта функции и промежуточных свойств навигации.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_InvalidElementAnnotationNullNamespaceOrName" xml:space="preserve">
+    <value>Значение заметки, отмеченное для сериализации как XML-элемент, должно быть строкой, содержащей XML-элемент с непустыми именем и пространством имен.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_CannotInferEntitySetWithMultipleSetsPerType" xml:space="preserve">
+    <value>Набор ассоциаций "{0}" должен определять набор сущностей для роли "{2}", так как для типа роли "{1}" имеется несколько наборов сущностей.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_CollectionExpressionNotValidForNonCollectionType" xml:space="preserve">
+    <value>Выражение коллекции несовместимо с типом, который не является типом коллекции.</value>
+  </data>
+  <data name="ValueWriter_NonSerializableValue" xml:space="preserve">
+    <value>Модуль записи значения не может записать значение типа "{0}".</value>
+  </data>
+  <data name="EdmPrimitive_UnexpectedKind" xml:space="preserve">
+    <value>Непредвиденный класс типа-примитива.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_FunctionImportComposableNotSupportedBeforeV3" xml:space="preserve">
+    <value>Параметр "Composable" для импорта функции не поддерживается в версиях ранее 3.0.</value>
+  </data>
+  <data name="EdmModel_Validator_Semantic_EntitySetNavigationPropertyMappingMustPointToValidTargetForProperty" xml:space="preserve">
+    <value>Набор сущностей "{1}" не является допустимым назначением для свойства навигации "{0}", поскольку он не может содержать элемент типа целевой сущности.</value>
+  </data>
+  <data name="EdmModel_Validator_Syntactic_EdmModel_NameIsNotAllowed" xml:space="preserve">
+    <value>Указано недопустимое имя: "{0}".</value>
+  </data>
+</root>
