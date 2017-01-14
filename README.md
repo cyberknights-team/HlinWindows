@@ -14,4 +14,5 @@
 C# and XAML
 <h4>Algorithms based on:</h4>  
 Haversine formula and Blob counter technique
-
+<h4>Cloud technolgy used:</h4>  
+Microsoft Azure 
