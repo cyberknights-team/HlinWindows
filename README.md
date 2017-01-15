@@ -16,3 +16,5 @@ C# and XAML
 Haversine formula and Blob counter technique
 <h4>Cloud technolgy used:</h4>  
 Microsoft Azure 
+<h4>Target platform:</h4>  
+PC or Dekstop with Windows 8 or above 
