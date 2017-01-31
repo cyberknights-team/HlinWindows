@@ -8,7 +8,7 @@
   <b>-></b> FOOL PROOF! Its not possible to spoof the location for the Geo lock on papers.<br>
   <b>-></b> User-defined range of access in Geo-Lock ranging from 30 m - 250 m.<br>
   <b>-></b> Network Lock (WiFi based).<br>
-  <b>-></b> For better safety, Access keys are deactivated after 30 days!<br>
+  <b>-></b> For better safety, Access keys are deactivated after certain time limit!<br>
   <h2>Other details</h2> 
 <h4>Programming language used:</h4> 
 C# and XAML
