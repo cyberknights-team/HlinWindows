@@ -12,7 +12,7 @@
 <h4>Programming language used:</h4> 
 C# and XAML
 <h4>Algorithms based on:</h4>  
-<b>-></b>Haversine formula 
+<b>-></b>Haversine formula <br>
 <b>-></b>Blob counter technique
 <h4>Cloud technolgy used:</h4>  
 Microsoft Azure 
