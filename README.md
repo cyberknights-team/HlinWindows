@@ -6,7 +6,7 @@
   <b>-></b> User can be offline while the file is being accessed by the receiver.<br>
   <b>-></b> The files, for better security are encrypted before being saved in the servers.<br>
   <b>-></b> User-defined range of access in Geo-Lock ranging from 30 m - 250 m.<br>
-  <b>-></b> Network Lock (WiFi-SSID based).<br>
+  <b>-></b> Network Lock (WiFi-SSID based,Case sensitive).<br>
   <b>-></b> For better safety, Access keys are deactivated after certain time limit!<br>
   <h2>Other details</h2> 
 <h4>Programming language used:</h4> 
